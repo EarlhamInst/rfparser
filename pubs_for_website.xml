@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2025.10.09.681187</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Evolution of chromatin accessibility associated with traits of cichlid phenotypic diversity</Title>
+		<DOI>10.1101/2025.10.09.681187</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>mehtat, mana, ethering, haertyw</ContributorIds>
+		<ContributorList>Mehta TK, Man AL, Etherington G, Smith A, Indermaur A, Salzburger W, Joyce D, Di-Palma F, Haerty W`</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1007/s11032-025-01576-y</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
