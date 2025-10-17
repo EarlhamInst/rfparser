@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1093/sysbio/syaf071</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Algebraic Invariants for Inferring 4-leaf Semi-Directed Phylogenetic Networks</Title>
+		<DOI>10.1093/sysbio/syaf071</DOI>
+		<JournalName>Systematic Biology</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorList>Martin S, Holtgrefe N, Moulton V, Leggett RM</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2025.10.09.681187</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -178,7 +195,7 @@
 		<Title>Characterisation of the Historic Demographic Decline of the British European Polecat Population</Title>
 		<DOI>10.1111/mec.70091</DOI>
 		<JournalName>Molecular Ecology</JournalName>
-		<JournalVolume />
+		<JournalVolume>34</JournalVolume>
 		<JournalPages />
 		<ContributorIds>shawr, ethering, haertyw</ContributorIds>
 		<ContributorList>Shaw R, MacPherson J, Kitchener AC, Etherington GJ, Haerty W</ContributorList>
