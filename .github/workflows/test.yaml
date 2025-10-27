@@ -51,7 +51,7 @@ jobs:
           RFPARSER_EMAIL: ${{ secrets.RFPARSER_EMAIL }}
           NBIROS_PUB_EXPORT_XML_URL: ${{ secrets.NBIROS_PUB_EXPORT_XML_URL }}
           PEOPLE_DATA_CSV_URL: ${{ secrets.PEOPLE_DATA_CSV_URL }}
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         with:
           name: Pubs for website (${{ matrix.python-version }})
           path: pubs_for_website.xml
