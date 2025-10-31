@@ -651,7 +651,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Multiple toxins and a protease contribute to the aphid‐killing ability of Pseudomonas fluorescensPpR24</Title>
+		<Title>Multiple toxins and a protease contribute to the aphid‐killing ability of Pseudomonas fluorescens PpR24</Title>
 		<DOI>10.1111/1462-2920.16604</DOI>
 		<JournalName>Environmental Microbiology</JournalName>
 		<JournalVolume>26</JournalVolume>
@@ -5053,7 +5053,7 @@
 		<Year>2018</Year>
 		<Month>12</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1182/bloodadvances.2022007033</id>
@@ -12044,7 +12044,7 @@
 		<Year>2017</Year>
 		<Month>1</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/gr.207704.116</id>
@@ -12095,7 +12095,7 @@
 		<Year>2017</Year>
 		<Month>3</Month>
 		<Day>6</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.celrep.2017.04.074</id>
@@ -18345,7 +18345,7 @@
 		<Year>2016</Year>
 		<Month>1</Month>
 		<Day>2</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1534/genetics.116.191007</id>
@@ -23876,7 +23876,7 @@
 		<Year>2021</Year>
 		<Month>1</Month>
 		<Day>2</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s43587-020-00019-x</id>
