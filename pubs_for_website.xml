@@ -10,7 +10,7 @@
 		<JournalName>Systematic Biology</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorIds>leggettr</ContributorIds>
 		<ContributorList>Martin S, Holtgrefe N, Moulton V, Leggett RM</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -163,7 +163,7 @@
 		<JournalName>Bulletin of Mathematical Biology</JournalName>
 		<JournalVolume>87</JournalVolume>
 		<JournalPages />
-		<ContributorIds>martins</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Cox S, Gross E, Martin S</ContributorList>
 		<Year>2025</Year>
 		<Month>8</Month>
@@ -1115,7 +1115,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>peeln, martins, heavensd, leggettr</ContributorIds>
+		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
 		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
 		<Year>2025</Year>
 		<Month>2</Month>
@@ -1642,7 +1642,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>martins, heavensd, lany, peeln, irishn, leggettr</ContributorIds>
+		<ContributorIds>heavensd, lany, peeln, irishn, leggettr</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Peel N, Irish N, Horsfield S, Giolai M, Clark MD, Leggett RM</ContributorList>
 		<Year>2024</Year>
 		<Month>11</Month>
@@ -1846,7 +1846,7 @@
 		<JournalName>Current Biology</JournalName>
 		<JournalVolume>34</JournalVolume>
 		<JournalPages>3778-3791.e4</JournalPages>
-		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorIds>leggettr</ContributorIds>
 		<ContributorList>Giolai M, Verweij W, Martin S, Pearson N, Nicholson P, Leggett RM, Clark MD</ContributorList>
 		<Year>2024</Year>
 		<Month>8</Month>
@@ -2016,7 +2016,7 @@
 		<JournalName>Bulletin of Mathematical Biology</JournalName>
 		<JournalVolume>86</JournalVolume>
 		<JournalPages />
-		<ContributorIds>martins</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Gross E, Krone R, Martin S</ContributorList>
 		<Year>2024</Year>
 		<Month>6</Month>
@@ -2611,7 +2611,7 @@
 		<JournalName>arXiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>martins</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Gross E, Krone R, Martin S</ContributorList>
 		<Year>2023</Year>
 		<Month />
@@ -3636,7 +3636,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorIds>leggettr</ContributorIds>
 		<ContributorList>Martin S, Holtgrefe N, Moulton V, Leggett RM</ContributorList>
 		<Year>2023</Year>
 		<Month>9</Month>
@@ -17320,7 +17320,7 @@
 		<JournalName>Genome Announcements</JournalName>
 		<JournalVolume>3</JournalVolume>
 		<JournalPages />
-		<ContributorIds>hig24hol, halln</ContributorIds>
+		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Abo-Aba SEM, Sabir JSM, Baeshen MN, Sabir MJ, Mutwakil MHZ, Baeshen NA, D’Amore R, Hall N</ContributorList>
 		<Year>2015</Year>
 		<Month>12</Month>
@@ -18199,7 +18199,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Bacterial sensing underlies artificial sweetener‐induced growth of gut Lactobacillus</Title>
+		<Title>Bacterial sensing underlies artificial sweetener‐induced growth of gut  L  actobacillus</Title>
 		<DOI>10.1111/1462-2920.12942</DOI>
 		<JournalName>Environmental Microbiology</JournalName>
 		<JournalVolume>18</JournalVolume>
@@ -19802,7 +19802,7 @@
 		<JournalName>BMC Plant Biology</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages />
-		<ContributorIds>hig24hol, halln</ContributorIds>
+		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Mutwakil MZ, Hajrah NH, Atef A, Edris S, Sabir MJ, Al-Ghamdi AK, Sabir MJSM, Nelson C, Makki RM, Ali HM, El-Domyati FM, Al-Hajar ASM, Gloaguen Y, Al-Zahrani HS, Sabir JSM, Jansen RK, Bahieldin A, Hall N</ContributorList>
 		<Year>2017</Year>
 		<Month>12</Month>
@@ -20652,7 +20652,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr, heavensd, martins, alconc, caims, hallli, kujawskm, mclark</ContributorIds>
+		<ContributorIds>leggettr, heavensd, alconc, caims, hallli, kujawskm, martins, mclark</ContributorIds>
 		<ContributorList>Leggett RM, Alcon-Giner C, Heavens D, Caim S, Brook TC, Kujawska M, Martin S, Hoyles L, Clarke P, Hall LJ, Clark MD</ContributorList>
 		<Year>2017</Year>
 		<Month>8</Month>
@@ -21676,7 +21676,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorIds>leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Leggett RM</ContributorList>
 		<Year>2019</Year>
 		<Month>6</Month>
@@ -22203,7 +22203,7 @@
 		<JournalName>Nature Microbiology</JournalName>
 		<JournalVolume>5</JournalVolume>
 		<JournalPages>430-442</JournalPages>
-		<ContributorIds>leggettr, heavensd, martins, peeln, acfordp, alconc, caims, hallli, kujawskm</ContributorIds>
+		<ContributorIds>leggettr, heavensd, peeln, acfordp, alconc, caims, hallli, kujawskm, martins</ContributorIds>
 		<ContributorList>Leggett RM, Alcon-Giner C, Heavens D, Caim S, Brook TC, Kujawska M, Martin S, Peel N, Acford-Palmer H, Hoyles L, Clarke P, Hall LJ, Clark MD</ContributorList>
 		<Year>2019</Year>
 		<Month>12</Month>
@@ -24330,7 +24330,7 @@
 		<JournalName>BMC Bioinformatics</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorIds>leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>3</Month>
@@ -24570,7 +24570,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>martins, heavensd, lany, leggettr</ContributorIds>
+		<ContributorIds>heavensd, lany, leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Horsfield S, Clark MD, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>5</Month>
@@ -24723,7 +24723,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>martins, aylingm, leggettr</ContributorIds>
+		<ContributorIds>aylingm, leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -24910,7 +24910,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, martins, leggettr, alston, giolaim</ContributorIds>
+		<ContributorIds>heavensd, leggettr, alston, giolaim, martins</ContributorIds>
 		<ContributorList>Heavens D, Chooneea D, Giolai M, Cuber P, Aanstad P, Martin S, Alston M, Misra R, Clark MD, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>10</Month>
@@ -25337,7 +25337,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>23</JournalVolume>
 		<JournalPages />
-		<ContributorIds>martins, heavensd, lany, leggettr</ContributorIds>
+		<ContributorIds>heavensd, lany, leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Horsfield S, Clark MD, Leggett RM</ContributorList>
 		<Year>2022</Year>
 		<Month>1</Month>
@@ -26238,7 +26238,7 @@
 		<JournalName>Bioinformatics</JournalName>
 		<JournalVolume>39</JournalVolume>
 		<JournalPages />
-		<ContributorIds>martins, aylingm, leggettr</ContributorIds>
+		<ContributorIds>aylingm, leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
 		<Year>2023</Year>
 		<Month>1</Month>
