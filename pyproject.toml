@@ -15,7 +15,7 @@ description = "Parse publications from ResearchFish API and produces the files n
 dynamic = ["version"]
 name = "rfparser"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = "MIT"
 license-files = [
     "LICENSE",
@@ -24,7 +24,6 @@ classifiers = [
     "Development Status :: 3 - Alpha",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
@@ -38,13 +37,9 @@ rfparser = "rfparser:main"
 
 [tool.black]
 line-length = 120
-target-version = ['py39']
 
 [tool.darker]
 isort = true
-
-[tool.ruff]
-target-version = "py39"
 
 [tool.ruff.lint]
 select = ["E", "F", "B", "UP"]

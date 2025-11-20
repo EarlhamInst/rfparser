@@ -4,9 +4,7 @@ from html.parser import HTMLParser
 from io import StringIO
 from typing import (
     Any,
-    Optional,
     TypeVar,
-    Union,
 )
 
 NAME_SPLITTER_PATTERN = re.compile(r"[\s-]+")
@@ -39,7 +37,7 @@ def strip_tags(html: str) -> str:
     return s.get_data()
 
 
-def str_if_not_None(s: Any) -> Optional[str]:
+def str_if_not_None(s: Any) -> str | None:
     """
     Cast a variable to str if it's not None.
     """
@@ -88,7 +86,7 @@ def is_same_person(family_names1: str, given_names1: str, family_names2: str, gi
     return True
 
 
-def extend_list_to_size(t: list[T], size: int) -> list[Union[None, T]]:
+def extend_list_to_size(t: list[T], size: int) -> list[None | T]:
     """
     Extend a list with ``None``s if it is shorter than the requested size.
     """

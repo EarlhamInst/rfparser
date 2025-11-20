@@ -11,10 +11,8 @@ import urllib.parse
 from time import sleep
 from typing import (
     Any,
-    Optional,
     SupportsIndex,
     TYPE_CHECKING,
-    Union,
 )
 from xml.etree import ElementTree
 from xml.etree.ElementTree import indent
@@ -97,10 +95,10 @@ log = logging.getLogger(__name__)
 class Researcher:
     def __init__(
         self,
-        family_names: Optional[str] = None,
-        given_names: Optional[str] = None,
-        name: Optional[str] = None,
-        orcid_id: Optional[str] = None,
+        family_names: str | None = None,
+        given_names: str | None = None,
+        name: str | None = None,
+        orcid_id: str | None = None,
     ):
         self.family_names = family_names
         self.given_names = given_names
@@ -127,7 +125,7 @@ class Author(Researcher):
     @classmethod
     def from_DC(cls, creator_dict: dict[str, Any]) -> "Self":
         nameIdentifiers = creator_dict["nameIdentifiers"]
-        orcid_id: Optional[str] = None
+        orcid_id: str | None = None
         for nameIdentifier_dict in nameIdentifiers:
             if nameIdentifier_dict["nameIdentifierScheme"] == "ORCID":
                 orcid_id = nameIdentifier_dict["nameIdentifier"]
@@ -160,13 +158,13 @@ class User(Researcher):
     family_names: str
     given_names: str
 
-    def __init__(self, username: str, family_names: str, given_names: str, orcid_id: Optional[str] = None):
+    def __init__(self, username: str, family_names: str, given_names: str, orcid_id: str | None = None):
         self.username = username
         super().__init__(family_names=family_names, given_names=given_names, orcid_id=orcid_id)
 
 
 class DOI(str):
-    def __new__(cls, doi: Optional[str]) -> "Self":
+    def __new__(cls, doi: str | None) -> "Self":
         """
         Sanitise a DOI, see
         https://www.doi.org/doi-handbook/DOI_Handbook_Final.pdf
@@ -193,9 +191,9 @@ class DOI(str):
 
     def startswith(
         self,
-        prefix: Union[str, tuple[str, ...]],
-        start: Optional[SupportsIndex] = None,
-        end: Optional[SupportsIndex] = None,
+        prefix: str | tuple[str, ...],
+        start: SupportsIndex | None = None,
+        end: SupportsIndex | None = None,
     ) -> bool:
         lower_prefix = prefix.lower() if isinstance(prefix, str) else tuple(_.lower() for _ in prefix)
         return self.lower().startswith(lower_prefix, start, end)
@@ -223,11 +221,11 @@ def RF_login(username: str, password: str) -> Session:
 
 def get_url(
     url: str,
-    params: Optional[dict] = None,
-    headers: Optional[dict[str, str]] = None,
+    params: dict | None = None,
+    headers: dict[str, str] | None = None,
     timeout: float = REQUEST_TIMEOUT,
     retries: int = REQUEST_RETRIES,
-    s: Optional[Session] = None,
+    s: Session | None = None,
 ) -> Response:
     for i in range(retries):
         backoff_time = 0 if i == 0 else REQUEST_RETRIES_BACKOFF_FACTOR * (2**i)
@@ -256,7 +254,7 @@ def get_url(
     return r
 
 
-def RF_get_paginated(s: Session, url: str, params: Optional[dict] = None, max_pages: int = sys.maxsize) -> list[dict]:
+def RF_get_paginated(s: Session, url: str, params: dict | None = None, max_pages: int = sys.maxsize) -> list[dict]:
     """
     Get paginated items from ResearchFish API.
     """
@@ -287,7 +285,7 @@ def get_doi_RA(doi: str) -> dict[str, str]:
     return r.json()[0]
 
 
-def CR_get_pub_metadata(doi: str, headers: Optional[dict[str, str]] = None) -> dict[str, Any]:
+def CR_get_pub_metadata(doi: str, headers: dict[str, str] | None = None) -> dict[str, Any]:
     """
     Get metadata for a publication from CrossRef API.
     """
@@ -315,7 +313,7 @@ def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
     return r_dict["oa_status"]
 
 
-def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_doi: dict[DOI, dict[str, Any]]) -> None:
+def get_dois_from_old_xml(nbiros_pub_export_xml_url: str | None, pubs_with_doi: dict[DOI, dict[str, Any]]) -> None:
     """
     Get the DOIs from the old ei.xml file generated from NBIROS.
     """
@@ -356,7 +354,7 @@ def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_do
         pubs_with_doi[doi]["nbiros_entries"].append(pub_el)
 
 
-def sanitise_orcid_id(orcid_id: Optional[str]) -> Optional[str]:
+def sanitise_orcid_id(orcid_id: str | None) -> str | None:
     if not orcid_id:
         return None
     # Remove initial part, if it's a URL
@@ -367,7 +365,7 @@ def sanitise_orcid_id(orcid_id: Optional[str]) -> Optional[str]:
     return f"https://orcid.org/{number}"
 
 
-def get_users(people_data_csv_url: Optional[str]) -> list[User]:
+def get_users(people_data_csv_url: str | None) -> list[User]:
     log.info("Started get_users")
     if not people_data_csv_url:
         log.warning("people_data_csv_url option not specified")
@@ -395,13 +393,13 @@ def get_users(people_data_csv_url: Optional[str]) -> list[User]:
 def write_xml_output(
     pubs_with_doi: dict[DOI, dict[str, Any]],
     outfile: str,
-    people_data_csv_url: Optional[str],
+    people_data_csv_url: str | None,
 ) -> None:
     """
     Write the publications to an XML file for the EI website.
     """
 
-    def author_dict_to_username(author: Author) -> Optional[str]:
+    def author_dict_to_username(author: Author) -> str | None:
         # First try to match the ORCID id
         orcid_id = author.orcid_id
         if orcid_id:
