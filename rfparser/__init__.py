@@ -400,6 +400,8 @@ def write_xml_output(
     """
 
     def author_dict_to_username(author: Author) -> str | None:
+        if not users:
+            return None
         # First try to match the ORCID id
         orcid_id = author.orcid_id
         if orcid_id:
