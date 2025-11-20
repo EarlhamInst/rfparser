@@ -524,50 +524,53 @@ def main() -> None:
                 config_key = config_key[9:]
             config[config_key] = os.environ[env_var]
 
-    assert config.get("rf_username"), "ResearchFish username not configured"
-    assert config.get("rf_password"), "ResearchFish password not configured"
     assert config.get("email"), "Email not configured"
 
     # Create dictionary of publications indexed by DOI
     pubs_with_doi: dict[DOI, dict[str, Any]] = {}
 
     get_dois_from_old_xml(config.get("nbiros_pub_export_xml_url"), pubs_with_doi)
-    log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
+    log.info(f"Unique publication DOIs from NBIROS: {len(pubs_with_doi)}")
 
-    # Login to ResearchFish API
-    rf_session = RF_login(config["rf_username"], config["rf_password"])
-    log.debug("Successfully logged in to ResearchFish API")
+    if not config.get("rf_username"):
+        log.warning("ResearchFish username not configured, skipping ResearchFish publications")
+    elif not config.get("rf_password"):
+        log.warning("ResearchFish password not configured, skipping ResearchFish publications")
+    else:
+        # Login to ResearchFish API
+        rf_session = RF_login(config["rf_username"], config["rf_password"])
+        log.debug("Successfully logged in to ResearchFish API")
 
-    # Get awards
-    # awards = RF_get_paginated(rf_session, f"{BASE_RF_URL}/award")
-    # with open("/tmp/awards.txt", "w") as f:
-    #     for award in awards:
-    #         print(award["fa_name"], file=f)
+        # Get awards
+        # awards = RF_get_paginated(rf_session, f"{BASE_RF_URL}/award")
+        # with open("/tmp/awards.txt", "w") as f:
+        #     for award in awards:
+        #         print(award["fa_name"], file=f)
 
-    # Get publication dois
-    params = {
-        "section": "publications",
-    }
-    publications = RF_get_paginated(rf_session, f"{BASE_RF_URL}/outcome", params=params, max_pages=args.pages)
-    log.info(f"Total publications on ResearchFish: {len(publications)}")
+        # Get publication dois
+        params = {
+            "section": "publications",
+        }
+        publications = RF_get_paginated(rf_session, f"{BASE_RF_URL}/outcome", params=params, max_pages=args.pages)
+        log.info(f"Total publications on ResearchFish: {len(publications)}")
 
-    for p in publications:
-        try:
-            doi = DOI(p["r1_2_19"])
-        except ValueError as e:
-            log.warning(
-                "Skipping ResearchFish publication '%s' (doi: '%s'; title '%s'; type '%s'): %s",
-                p["id"],
-                p["r1_2_19"],
-                p["title"],
-                p["r1_2"],
-                e,
-            )
-        else:
-            pubs_with_doi.setdefault(doi, {})
-            pubs_with_doi[doi].setdefault("rf_entries", [])
-            pubs_with_doi[doi]["rf_entries"].append(p)
-    log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
+        for p in publications:
+            try:
+                doi = DOI(p["r1_2_19"])
+            except ValueError as e:
+                log.warning(
+                    "Skipping ResearchFish publication '%s' (doi: '%s'; title '%s'; type '%s'): %s",
+                    p["id"],
+                    p["r1_2_19"],
+                    p["title"],
+                    p["r1_2"],
+                    e,
+                )
+            else:
+                pubs_with_doi.setdefault(doi, {})
+                pubs_with_doi[doi].setdefault("rf_entries", [])
+                pubs_with_doi[doi]["rf_entries"].append(p)
+    log.info(f"Unique publication DOIs from NBIROS and ResearchFish: {len(pubs_with_doi)}")
 
     # Process publications with a DOI
     cr_headers = {
