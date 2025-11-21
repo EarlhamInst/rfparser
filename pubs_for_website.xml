@@ -256,6 +256,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.20944/preprints202110.0043.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>In vitro Methane Mitigation Potential of Foliage of Fodder Trees Mixed at Two Levels with a Tropical Grass</Title>
+		<DOI>10.20944/preprints202110.0043.v1</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Valencia Salazar SS, Jiménez-Ferrer G, Molina-Botero IC, Ku-Vera JC, Chirinda N, Arango J</ContributorList>
+		<Year>2021</Year>
+		<Month>10</Month>
+		<Day>4</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2025.07.16.665067</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -1665,6 +1682,23 @@
 		<Month>11</Month>
 		<Day>3</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1099/acmi.0.000910.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Faecal metagenomes of great tits and blue tits provide insights into host, diet, pathogens and microbial biodiversity</Title>
+		<DOI>10.1099/acmi.0.000910.v1</DOI>
+		<JournalName>Access Microbiology</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd</ContributorIds>
+		<ContributorList>Pallen MJ, Ponsero AJ, Telatin A, Moss C, Baker D, Heavens D, Davidson GL</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>11</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.10.28.620591</id>
@@ -26975,6 +27009,23 @@
 		<Month />
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.20944/preprints202503.1801.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Proteomics of Bacterial and Mouse Extracellular Vesicles Released in the Gastrointestinal Tract of Nutrient Stressed Animals Reveals an Interplay Between Microbial Serine Proteases and Mammalian Serine Protease Inhibitors</Title>
+		<DOI>10.20944/preprints202503.1801.v1</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>goldson, blakesle, briona, cardings, dlatousa, gottsk, parkera, stentzr, tal23haf</ContributorIds>
+		<ContributorList>Stentz R, Jones E, Gul L, Latousakis D, Parker A, Brion A, Goldson AJ, Gotts K, Carding SR</ContributorList>
+		<Year>2025</Year>
+		<Month>3</Month>
+		<Day>25</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41531-025-00885-5</id>
