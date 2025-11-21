@@ -38,6 +38,7 @@ jobs:
           RFPARSER_EMAIL: ${{ secrets.RFPARSER_EMAIL }}
           NBIROS_PUB_EXPORT_XML_URL: ${{ secrets.NBIROS_PUB_EXPORT_XML_URL }}
           PEOPLE_DATA_CSV_URL: ${{ secrets.PEOPLE_DATA_CSV_URL }}
+          ORCID_ACCESS_TOKEN: ${{ secrets.ORCID_ACCESS_TOKEN }}
       - name: Upload to 'artifacts' branch
         uses: s0/git-publish-subdir-action@develop
         env:

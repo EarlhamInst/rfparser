@@ -48,16 +48,20 @@ BASE_DC_URL = "https://api.datacite.org"
 BASE_DOI_URL = "https://doi.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 BASE_UNPAYWALL_URL = "https://api.unpaywall.org"
+BASE_ORCID_URL = "https://pub.orcid.org"
 
 KNOWN_BOOK_SERIES = {
     "Advances in Experimental Medicine and Biology",
     "Advances in Microbial Physiology",
+    "Advances in Parasitology",
     "Compendium of Plant Genomes",
+    "Contemporary Issues in Genetics and Evolution",
     "Genome Dynamics",
     "Lecture Notes in Computer Science",
     "Methods in Cell Biology",
     "Methods in Enzymology",
     "Methods in Molecular Biology",
+    "Rhizosphere Biology",
 }
 
 DC_resourceTypeGeneral_TO_CR_TYPE = {
@@ -92,6 +96,13 @@ VALID_ORCID_ID = re.compile(r"^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$")
 log = logging.getLogger(__name__)
 
 
+def digits_from_orcid_id(orcid_id: str) -> str:
+    """
+    Extract the 16 digits part from an ORCID ID, removing any URL prefix.
+    """
+    return orcid_id.split("/")[-1]
+
+
 class Researcher:
     def __init__(
         self,
@@ -107,8 +118,6 @@ class Researcher:
             self.name = name
         self.orcid_id = sanitise_orcid_id(orcid_id)
 
-
-class Author(Researcher):
     @classmethod
     def from_CR(cls, author_dict: dict[str, Any]) -> "Self":
         orcid_id = author_dict.get("ORCID")
@@ -202,6 +211,7 @@ class DOI(str):
 BROKEN_DOI_TO_REASON = {
     DOI("10.5281/zenodo.7333887"): "has resourceTypeGeneral 'JournalArticle' but is actually associated code and data",
     DOI("10.5281/zenodo.7333888"): "has resourceTypeGeneral 'JournalArticle' but is actually associated code and data",
+    DOI("10.5281/zenodo.14823851"): "has type 'dois' and is actually associated data",
 }
 
 
@@ -285,10 +295,13 @@ def get_doi_RA(doi: str) -> dict[str, str]:
     return r.json()[0]
 
 
-def CR_get_pub_metadata(doi: str, headers: dict[str, str] | None = None) -> dict[str, Any]:
+def CR_get_pub_metadata(doi: str, email: str) -> dict[str, Any]:
     """
     Get metadata for a publication from CrossRef API.
     """
+    headers = {
+        "User-Agent": f"rfparser/{__version__} (https://github.com/TGAC/rfparser; mailto:{email})",
+    }
     # CrossRef doesn't support HTTP persistent connections, so use a new
     # connection every time instead of a Session.
     cr_url = f"{BASE_CR_URL}/works/{urllib.parse.quote(doi, safe='')}"
@@ -302,6 +315,33 @@ def DC_get_pub_metadata(doi: str) -> dict[str, Any]:
     r = get_url(f"{BASE_DC_URL}/dois/{doi}")
     r_dict = r.json()
     return r_dict["data"]["attributes"]
+
+
+def ORCID_get_user_pubs(user: User, access_token: str, pubs_with_dois: dict[DOI, dict[str, Any]]) -> None:
+    if not (orcid_id := user.orcid_id):
+        log.debug("User %s has no ORCID id, skipping", user.username)
+        return
+    orcid_id_digits = digits_from_orcid_id(orcid_id)
+    headers = {
+        "Accept": "application/json",
+        "Authorization": f"Bearer {access_token}",
+    }
+    r = get_url(f"{BASE_ORCID_URL}/v3.0/{orcid_id_digits}/works", headers=headers)
+    r_dict = r.json()
+    groups = r_dict.get("group", [])
+    for group in groups:
+        external_ids = group.get("external-ids", {}).get("external-id", [])
+        for external_id in external_ids:
+            if external_id.get("external-id-type") == "doi":
+                doi_str = external_id.get("external-id-value")
+                try:
+                    doi = DOI(doi_str)
+                except ValueError:
+                    log.warning("Skipping malformed DOI '%s' in ORCID works for %s", doi_str, orcid_id)
+                    continue
+                pubs_with_dois.setdefault(doi, {})
+                pubs_with_dois[doi].setdefault("users", [])
+                pubs_with_dois[doi]["users"].append(user)
 
 
 def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
@@ -357,8 +397,7 @@ def get_dois_from_old_xml(nbiros_pub_export_xml_url: str | None, pubs_with_doi: 
 def sanitise_orcid_id(orcid_id: str | None) -> str | None:
     if not orcid_id:
         return None
-    # Remove initial part, if it's a URL
-    number = orcid_id.split("/")[-1]
+    number = digits_from_orcid_id(orcid_id)
     number = number.replace("-", "-")
     assert len(number) == 19, f"Malformed ORCID id {orcid_id}"
     assert VALID_ORCID_ID.match(number), f"Malformed ORCID id {orcid_id}"
@@ -393,13 +432,13 @@ def get_users(people_data_csv_url: str | None) -> list[User]:
 def write_xml_output(
     pubs_with_doi: dict[DOI, dict[str, Any]],
     outfile: str,
-    people_data_csv_url: str | None,
+    users: list[User],
 ) -> None:
     """
     Write the publications to an XML file for the EI website.
     """
 
-    def author_dict_to_username(author: Author) -> str | None:
+    def author_dict_to_username(author: Researcher) -> str | None:
         if not users:
             return None
         # First try to match the ORCID id
@@ -433,7 +472,6 @@ def write_xml_output(
         return None
 
     log.info("Started write_xml_output")
-    users = get_users(people_data_csv_url)
     root_el = ElementTree.Element("publications")
     for doi, pub in reversed(pubs_with_doi.items()):
         if pub["metadata_ok"]:
@@ -463,6 +501,7 @@ def write_xml_output(
                     assert ContributorIds_el is not None
                     ContributorIds_text = ContributorIds_el.text or ""
                     contributor_ids_list.extend(c.strip() for c in ContributorIds_text.split(","))
+                contributor_ids_list.extend(user.username for user in pub.get("users", []))
                 contributor_ids = unique(filter(None, contributor_ids_list))
             except Exception:
                 log.error("Error while generating ContributorIds for DOI %s", doi)
@@ -517,7 +556,14 @@ def main() -> None:
         config = {}
         log.warning(f"Could not read configuration file {args.config}")
 
-    for env_var in ("RF_USERNAME", "RF_PASSWORD", "RFPARSER_EMAIL", "NBIROS_PUB_EXPORT_XML_URL", "PEOPLE_DATA_CSV_URL"):
+    for env_var in (
+        "RF_USERNAME",
+        "RF_PASSWORD",
+        "RFPARSER_EMAIL",
+        "NBIROS_PUB_EXPORT_XML_URL",
+        "PEOPLE_DATA_CSV_URL",
+        "ORCID_ACCESS_TOKEN",
+    ):
         if env_var in os.environ:
             config_key = env_var.lower()
             if config_key.startswith("rfparser_"):
@@ -570,12 +616,17 @@ def main() -> None:
                 pubs_with_doi.setdefault(doi, {})
                 pubs_with_doi[doi].setdefault("rf_entries", [])
                 pubs_with_doi[doi]["rf_entries"].append(p)
-    log.info(f"Unique publication DOIs from NBIROS and ResearchFish: {len(pubs_with_doi)}")
+        log.info(f"Unique publication DOIs from NBIROS and ResearchFish: {len(pubs_with_doi)}")
+
+    users = get_users(config.get("people_data_csv_url"))
+    if not config.get("orcid_access_token"):
+        log.warning("ORCID access token not configured, skipping ORCID publications")
+    else:
+        for user in users:
+            ORCID_get_user_pubs(user, config["orcid_access_token"], pubs_with_doi)
+        log.info(f"Unique publication DOIs from NBIROS, ResearchFish and ORCID: {len(pubs_with_doi)}")
 
     # Process publications with a DOI
-    cr_headers = {
-        "User-Agent": f"rfparser/{__version__} (https://github.com/TGAC/rfparser; mailto:{config['email']})",
-    }
     unpaywall_session = CachedSession(expire_after=CACHED_RESPONSE_EXPIRE_AFTER, cache_control=True)
     for doi, pub in pubs_with_doi.items():
         pub["metadata_ok"] = False
@@ -592,7 +643,7 @@ def main() -> None:
             # Get metadata from the RA
             # https://www.doi.org/the-community/existing-registration-agencies/
             if pub["RA"] in ("Crossref", "OP"):
-                pub_metadata = CR_get_pub_metadata(doi, headers=cr_headers)
+                pub_metadata = CR_get_pub_metadata(doi, email=config["email"])
                 # Join title parts while removing leading, trailing and multiple whitespaces
                 title = " ".join(
                     itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"])
@@ -620,11 +671,15 @@ def main() -> None:
                         container_title = pub_metadata["institution"][0]["name"]
                     elif "Research Square" in pub_metadata["publisher"]:
                         container_title = "Research Square"
+                    elif "Microbiology Society" in pub_metadata["publisher"]:
+                        container_title = "Access Microbiology"
                     elif "PeerJ" in pub_metadata["publisher"] or doi.startswith("10.37044/osf.io/"):
                         # PeerJ Preprints or BioHackrXiv
                         container_title = pub_metadata["group-title"]
                     elif doi.startswith("10.17504/protocols.io."):
                         container_title = "protocols.io"
+                    elif doi.startswith("10.20944/preprints"):
+                        container_title = "Preprints"
                     else:
                         raise Exception("cannot determine preprint journal")
                 elif len(container_title_list) == 1:
@@ -655,7 +710,7 @@ def main() -> None:
                 # to be fixed by the publisher, see
                 # https://community.crossref.org/t/where-to-report-incorrect-metadata/3321
                 assert authors, "missing authors"
-                pub["authors"] = [Author.from_CR(author_dict) for author_dict in authors]
+                pub["authors"] = [Researcher.from_CR(author_dict) for author_dict in authors]
 
                 # The "issued" field contains the earliest known publication date
                 # (see https://github.com/CrossRef/rest-api-doc#sorting )
@@ -693,7 +748,7 @@ def main() -> None:
 
                 creators = pub_metadata["creators"]
                 assert creators, "missing authors"
-                pub["authors"] = [Author.from_DC(creator_dict) for creator_dict in creators]
+                pub["authors"] = [Researcher.from_DC(creator_dict) for creator_dict in creators]
 
                 dates = pub_metadata["dates"]
                 issued_date = None
@@ -717,7 +772,7 @@ def main() -> None:
             log.error("Skipping publication '%s': %s", doi, e)
 
     if args.xml:
-        write_xml_output(pubs_with_doi, args.xml, config.get("people_data_csv_url"))
+        write_xml_output(pubs_with_doi, args.xml, users=users)
 
 
 if __name__ == "__main__":

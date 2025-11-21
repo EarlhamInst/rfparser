@@ -8,3 +8,5 @@ email: "user@example.org"
 nbiros_pub_export_xml_url: "https://example.org/path/to/pubs.xml"
 # URL of the export of EI people data in CSV format
 people_data_csv_url: "https://example.org/path/to/people.csv"
+# ORCID /read-public access token
+orcid_access_token: "token"
