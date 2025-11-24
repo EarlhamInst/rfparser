@@ -300,7 +300,7 @@ def CR_get_pub_metadata(doi: str, email: str) -> dict[str, Any]:
     Get metadata for a publication from CrossRef API.
     """
     headers = {
-        "User-Agent": f"rfparser/{__version__} (https://github.com/TGAC/rfparser; mailto:{email})",
+        "User-Agent": f"rfparser/{__version__} (https://github.com/EarlhamInst/rfparser; mailto:{email})",
     }
     # CrossRef doesn't support HTTP persistent connections, so use a new
     # connection every time instead of a Session.
