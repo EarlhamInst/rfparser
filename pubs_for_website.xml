@@ -5490,15 +5490,15 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>The development of pathogen resistance in Daphnia magna: implications for disease spread in age-structured populations</Title>
+		<Title>The development of pathogen resistance in Daphnia magna : implications for disease spread in age-structured populations</Title>
 		<DOI>10.1242/jeb.111260</DOI>
 		<JournalName>Journal of Experimental Biology</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>217</JournalVolume>
+		<JournalPages>3929-3934</JournalPages>
 		<ContributorIds>mctaggar</ContributorIds>
-		<ContributorList>Garbutt JS, O'Donghue AJ, McTaggart SJ, Wilson PJ, Little TJ</ContributorList>
+		<ContributorList>Garbutt JS, O'Donoghue AJP, McTaggart SJ, Wilson PJ, Little TJ</ContributorList>
 		<Year>2014</Year>
-		<Month>1</Month>
+		<Month>11</Month>
 		<Day>1</Day>
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
@@ -11358,7 +11358,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>441</JournalVolume>
 		<JournalPages>315-321</JournalPages>
-		<ContributorIds>swarbred, jamesro, birdc</ContributorIds>
+		<ContributorIds>swarbred, birdc</ContributorIds>
 		<ContributorList>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CCA, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RIS, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MRJ, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ESI, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NSW, McLaren S, Milne S, Mistry S, M oore MJF, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR</ContributorList>
 		<Year>2006</Year>
 		<Month>5</Month>
@@ -38621,7 +38621,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, jamesro, quince, rjames</ContributorIds>
+		<ContributorIds>raguidea, quince, jamesro, rjames</ContributorIds>
 		<ContributorList>Delaney J, Raguideau S, Holden J, Zhang L, Tipper H, Hill G, Klümper U, Zhang T, Cha C, Lee K, James R, Travis E, Bowes M, Hawkey P, Lindstrom H, Tang C, Gaze W, Mead A, Quince C, Singer A, Wellington E</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -38808,7 +38808,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>quince, raguidea, jamesro, rjames</ContributorIds>
+		<ContributorIds>quince, raguidea, rjames</ContributorIds>
 		<ContributorList>Quince C, Nurk S, Raguideau S, James R, Soyer OS, Summers JK, Limasset A, Eren AM, Chikhi R, Darling AE</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -40629,7 +40629,7 @@
 		<JournalName>Nature Biotechnology</JournalName>
 		<JournalVolume>42</JournalVolume>
 		<JournalPages>1378-1383</JournalPages>
-		<ContributorIds>raguidea, jamesro, quince, rjames</ContributorIds>
+		<ContributorIds>raguidea, quince, jamesro, rjames</ContributorIds>
 		<ContributorList>Benoit G, Raguideau S, James R, Phillippy AM, Chikhi R, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>1</Month>
