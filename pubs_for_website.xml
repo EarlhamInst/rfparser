@@ -7196,7 +7196,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
-		<ContributorList>Trivett HG, Dalby MJ, Peel N, Heavens D, Kiu R, Acuna-Gonzalez A, Mohamad M, Humayun G, Leggett RM, Patel VC, Hall LJ</ContributorList>
+		<ContributorList>Trivett H, Dalby MJ, Peel N, Heavens D, Kiu R, Acuna-Gonzalez A, Mohamad M, Humayun G, Leggett RM, Patel VC, Hall LJ</ContributorList>
 		<Year>2025</Year>
 		<Month>12</Month>
 		<Day>9</Day>
@@ -11585,6 +11585,23 @@
 		<Month>12</Month>
 		<Day>7</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2021.08.13.456266</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Secreted SARS-CoV-2 ORF8 modulates the cytokine expression profile of human macrophages</Title>
+		<DOI>10.1101/2021.08.13.456266</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>jod23rof</ContributorIds>
+		<ContributorList>Kriplani N, Clohisey S, Fonseca S, Fletcher S, Lee H, Ashworth J, Kurian D, Lycett SJ, Tait-Burkard C, Kenneth Baillie J, Woolhouse MEJ, Carding SR, Stewart JP, Digard P</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day>13</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s40168-021-01181-z</id>
