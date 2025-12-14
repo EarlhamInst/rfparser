@@ -9648,6 +9648,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/plcell/koaf282</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Spatial transcriptomics reveals expression gradients in developing wheat inflorescences at cellular resolution</Title>
+		<DOI>10.1093/plcell/koaf282</DOI>
+		<JournalName>The Plant Cell</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>abinnie, goldson, vknitlho, kaithakg, haertyw, macaulai</ContributorIds>
+		<ContributorList>Long KA, Lister A, Jones MRW, Adamski NM, Ellis RE, Chedid C, Carpenter SJ, Liu X, Backhaus AE, Goldson A, Knitlhoffer V, Pei Y, Vickers M, Steuernagel B, Kaithakottil GG, Xiao J, Haerty W, Macaulay IC, Uauy C</ContributorList>
+		<Year>2025</Year>
+		<Month>12</Month>
+		<Day>13</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1139/f97-268</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -29419,7 +29436,7 @@
 		<Year>2014</Year>
 		<Month>1</Month>
 		<Day>13</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.12688/f1000research.3-55.v1</id>
@@ -37621,7 +37638,7 @@
 		<Year>2020</Year>
 		<Month>10</Month>
 		<Day>16</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2020.10.09.327114</id>
