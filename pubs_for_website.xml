@@ -14120,23 +14120,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1152/advan.00246.2024</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Perspectives from a Workshop: Intelligent Assessment in the age of Artificial Intelligence</Title>
-		<DOI>10.1152/advan.00246.2024</DOI>
-		<JournalName>Advances in Physiology Education</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Bawn M, Francis N, Alvey L, Hassall C, Pires-daSilva A, Barra P, Hough D, Campbell H, Hardy M, Canet-Perez J</ContributorList>
-		<Year>2025</Year>
-		<Month>11</Month>
-		<Day>14</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1042/ETLS20253019</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -14151,6 +14134,23 @@
 		<Year>2025</Year>
 		<Month>12</Month>
 		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1152/advan.00246.2024</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Perspectives from a workshop: intelligent assessment in the age of artificial intelligence</Title>
+		<DOI>10.1152/advan.00246.2024</DOI>
+		<JournalName>Advances in Physiology Education</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>73-82</JournalPages>
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Bawn M, Francis N, Alvey E, Hassall C, Pires-daSilva A, Barra P, Hough D, Campbell H, Hardy M, Canet-Perez J</ContributorList>
+		<Year>2026</Year>
+		<Month>3</Month>
+		<Day>1</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -26622,7 +26622,7 @@
 		<Year>2017</Year>
 		<Month>9</Month>
 		<Day>13</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.12688/f1000research.11718.1</id>
