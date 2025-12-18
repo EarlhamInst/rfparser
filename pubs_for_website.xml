@@ -857,40 +857,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1091/mbc.e16-06-0467</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Opposing roles for distinct LINC complexes in regulation of the small GTPase RhoA</Title>
-		<DOI>10.1091/mbc.e16-06-0467</DOI>
-		<JournalName>Molecular Biology of the Cell</JournalName>
-		<JournalVolume>28</JournalVolume>
-		<JournalPages>182-191</JournalPages>
-		<ContributorIds>arogers</ContributorIds>
-		<ContributorList>Thakar K, May CK, Rogers A, Carroll CW</ContributorList>
-		<Year>2017</Year>
-		<Month>1</Month>
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/genetics/iyae022</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Histone variant H2A.Z and linker histone H1 influence chromosome condensation in Saccharomyces cerevisiae</Title>
-		<DOI>10.1093/genetics/iyae022</DOI>
-		<JournalName>GENETICS</JournalName>
-		<JournalVolume>226</JournalVolume>
-		<JournalPages />
-		<ContributorIds>arogers</ContributorIds>
-		<ContributorList>Rogers AM, Neri NR, Chigweshe L, Holmes SG</ContributorList>
-		<Year>2024</Year>
-		<Month>2</Month>
-		<Day>14</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1128/mbio.00300-15</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -4781,7 +4747,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>thiyagar, arogers, nieduszc</ContributorIds>
+		<ContributorIds>thiyagar, nieduszc</ContributorIds>
 		<ContributorList>Thiyagarajan S, Rogers AM, Müller CA, Nieduszynski CA</ContributorList>
 		<Year>2025</Year>
 		<Month>8</Month>
@@ -10929,9 +10895,9 @@
 		<CategoryID>1</CategoryID>
 		<Title>MolluscDB: a genome and transcriptome database for molluscs</Title>
 		<DOI>10.1098/rstb.2020.0157</DOI>
-		<JournalName>Philosophical Transactions of the Royal Society B: Biological Sciences</JournalName>
+		<JournalName>Philosophical Transactions of the Royal Society B</JournalName>
 		<JournalVolume>376</JournalVolume>
-		<JournalPages>20200157</JournalPages>
+		<JournalPages />
 		<ContributorIds>gharbik</ContributorIds>
 		<ContributorList>Caurcel C, Laetsch DR, Challis R, Kumar S, Gharbi K, Blaxter M</ContributorList>
 		<Year>2021</Year>
@@ -14452,7 +14418,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>thiyagar, arogers, nieduszc</ContributorIds>
+		<ContributorIds>thiyagar, nieduszc</ContributorIds>
 		<ContributorList>Díez-Santos I, Thiyagarajan S, Rogers AM, Watson AT, Carr AM, Nieduszynski CA</ContributorList>
 		<Year>2025</Year>
 		<Month>7</Month>
