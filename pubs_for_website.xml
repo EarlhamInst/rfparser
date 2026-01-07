@@ -6999,23 +6999,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/gr.280550.125</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Real-time analysis and visualization of nanopore metagenomic samples with MARTi</Title>
-		<DOI>10.1101/gr.280550.125</DOI>
-		<JournalName>Genome Research</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
-		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
-		<Year>2025</Year>
-		<Month>10</Month>
-		<Day>27</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.64898/2025.12.09.693164</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -14016,6 +13999,40 @@
 		<Month>11</Month>
 		<Day>21</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/gr.280550.125</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Real-time analysis and visualization of nanopore metagenomic samples with MARTi</Title>
+		<DOI>10.1101/gr.280550.125</DOI>
+		<JournalName>Genome Research</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
+		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s44320-025-00169-3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Decoding non-coding SNPs: systems genomics modelling dissects the heterogeneity of IBD</Title>
+		<DOI>10.1038/s44320-025-00169-3</DOI>
+		<JournalName>Molecular Systems Biology</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Módos D, Thomas JP, Brooks-Warburton J, Poletti M, Bohar B, Liu Y, Madgwick M, Csabai L, Kang W, Alexander-Dann B, Zoufir A, Sudhakar P, Cozzetto D, Fazekas D, Samarajiwa S, Carding SR, Powell N, Verstockt B, Bender A, Korcsmaros T</ContributorList>
+		<Year>2025</Year>
+		<Month>11</Month>
+		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/sysbio/syaf071</id>
