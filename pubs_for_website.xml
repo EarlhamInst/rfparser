@@ -4000,7 +4000,7 @@
 		<ContributorList>van der Meer T, Chan WI, Palazon LS, Nieduszynski C, Murphy M, Sobczak-Thépot J, Carrington M, Colledge WH</ContributorList>
 		<Year>2004</Year>
 		<Month>4</Month>
-		<Day />
+		<Day>1</Day>
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -4861,7 +4861,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>A phylogenomic and ecological analysis of the globally abundant Marine Group II archaea (Ca. Poseidoniales ord. nov.)</Title>
+		<Title>A phylogenomic and ecological analysis of the globally abundant Marine Group II archaea ( Ca . Poseidoniales ord. nov.)</Title>
 		<DOI>10.1038/s41396-018-0282-y</DOI>
 		<JournalName>The ISME Journal</JournalName>
 		<JournalVolume>13</JournalVolume>
@@ -9485,7 +9485,7 @@
 		<Title>Spatial transcriptomics reveals expression gradients in developing wheat inflorescences at cellular resolution</Title>
 		<DOI>10.1093/plcell/koaf282</DOI>
 		<JournalName>The Plant Cell</JournalName>
-		<JournalVolume />
+		<JournalVolume>38</JournalVolume>
 		<JournalPages />
 		<ContributorIds>abinnie, goldson, vknitlho, kaithakg, haertyw, macaulai</ContributorIds>
 		<ContributorList>Long KA, Lister A, Jones MRW, Adamski NM, Ellis RE, Chedid C, Carpenter SJ, Liu X, Backhaus AE, Goldson A, Knitlhoffer V, Pei Y, Vickers M, Steuernagel B, Kaithakottil GG, Xiao J, Haerty W, Macaulay IC, Uauy C</ContributorList>
