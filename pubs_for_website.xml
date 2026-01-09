@@ -3555,7 +3555,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>taz23zir</ContributorIds>
-		<ContributorList>Kamzolas I, Koutsandreas T, Barker CG, Vathrakokoili Pournara A, Weston H, Vacca M, Papatheodorou I, Vidal-Puig A, Petsalaki E</ContributorList>
+		<ContributorList>Kamzolas I, Koutsandreas T, Barker CG, Vathrakokoili Pournara A, Weston HN, Fujiwara N, Hoshida Y, Anstee QM, Vacca M, Papatheodorou I, Vidal-Puig A, Petsalaki E</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
 		<Day>18</Day>
@@ -13812,6 +13812,637 @@
 		<Month>10</Month>
 		<Day>14</Day>
 		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1158/1538-7445.am2015-2880</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Abstract 2880: Modulating disease susceptibility in a model of human colon cancer by microbiome rederivation</Title>
+		<DOI>10.1158/1538-7445.am2015-2880</DOI>
+		<JournalName>Cancer Research</JournalName>
+		<JournalVolume>75</JournalVolume>
+		<JournalPages>2880-2880</JournalPages>
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Amos-Landgraf J, Busi S, Ericsson A, McCoy M, Parker T, Schehr R, Hankins M, Franklin C, Bryda E</ContributorList>
+		<Year>2015</Year>
+		<Month>8</Month>
+		<Day>1</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.18632/oncotarget.5604</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Differential susceptibility to colorectal cancer due to naturally occurring gut microbiota</Title>
+		<DOI>10.18632/oncotarget.5604</DOI>
+		<JournalName>Oncotarget</JournalName>
+		<JournalVolume>6</JournalVolume>
+		<JournalPages>33689-33704</JournalPages>
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Ericsson AC, Akter S, Hanson MM, Busi SB, Parker TW, Schehr RJ, Hankins MA, Ahner CE, Davis JW, Franklin CL, Amos-Landgraf JM, Bryda EC</ContributorList>
+		<Year>2015</Year>
+		<Month>9</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1242/dmm.025767</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Fischer 344-Tp53 knockout rats exhibit a high rate of bone and brain neoplasia with frequent metastasis</Title>
+		<DOI>10.1242/dmm.025767</DOI>
+		<JournalName>Disease Models &amp;amp; Mechanisms</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Hansen SA, Hart ML, Busi S, Parker T, Goerndt A, Jones KB, Amos-Landgraf JM, Bryda EC</ContributorList>
+		<Year>2016</Year>
+		<Month>1</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/srep33726</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Lactobacillus plantarum attenuates anxiety-related behavior and protects against stress-induced dysbiosis in adult zebrafish</Title>
+		<DOI>10.1038/srep33726</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>6</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Davis DJ, Doerr HM, Grzelak AK, Busi SB, Jasarevic E, Ericsson AC, Bryda EC</ContributorList>
+		<Year>2016</Year>
+		<Month>9</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1177/1536012118790065</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evaluation of a Tumor-Targeting, Near-Infrared Fluorescent Peptide for Early Detection and Endoscopic Resection of Polyps in a Rat Model of Colorectal Cancer</Title>
+		<DOI>10.1177/1536012118790065</DOI>
+		<JournalName>Molecular Imaging</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Jones JE, Busi SB, Mitchem JB, Amos-Landgraf JM, Lewis MR</ContributorList>
+		<Year>2018</Year>
+		<Month>1</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fmicb.2018.01085</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Acclimation and Institutionalization of the Mouse Microbiota Following Transportation</Title>
+		<DOI>10.3389/fmicb.2018.01085</DOI>
+		<JournalName>Frontiers in Microbiology</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Montonye DR, Ericsson AC, Busi SB, Lutz C, Wardwell K, Franklin CL</ContributorList>
+		<Year>2018</Year>
+		<Month>5</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-1-4939-9581-3_9</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Characterization of the Rat Gut Microbiota via 16S rRNA Amplicon Library Sequencing</Title>
+		<DOI>10.1007/978-1-4939-9581-3_9</DOI>
+		<JournalName />
+		<BookTitle>Rat Genomics</BookTitle>
+		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>195-212</JournalPages>
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Ericsson AC, Busi SB, Amos-Landgraf JM</ContributorList>
+		<Year>2019</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12885-020-07007-9</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Integration of genomics, metagenomics, and metabolomics to identify interplay between susceptibility alleles and microbiota in adenoma initiation</Title>
+		<DOI>10.1186/s12885-020-07007-9</DOI>
+		<JournalName>BMC Cancer</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Moskowitz JE, Doran AG, Lei Z, Busi SB, Hart ML, Franklin CL, Sumner LW, Keane TM, Amos-Landgraf JM</ContributorList>
+		<Year>2020</Year>
+		<Month>6</Month>
+		<Day>29</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.07.24.220269</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Integrated metabolome and transcriptome analyses provide insight into colon cancer development by the gut microbiota</Title>
+		<DOI>10.1101/2020.07.24.220269</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Busi SB, Lei Z, Sumner LW, Amos-Landgraf J</ContributorList>
+		<Year>2020</Year>
+		<Month>7</Month>
+		<Day>25</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fvets.2020.00558</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evaluation of Healthy Canine Conjunctival, Periocular Haired Skin, and Nasal Microbiota Compared to Conjunctival Culture</Title>
+		<DOI>10.3389/fvets.2020.00558</DOI>
+		<JournalName>Frontiers in Veterinary Science</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Banks KC, Giuliano EA, Busi SB, Reinero CR, Ericsson AC</ContributorList>
+		<Year>2020</Year>
+		<Month>8</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.04.30.069724</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Optimised biomolecular extraction for metagenomic analysis of microbial biofilms from high-mountain streams</Title>
+		<DOI>10.1101/2020.04.30.069724</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Busi SB, Pramateftaki P, Brandani J, Fodelianakis S, Peter H, Halder R, Wilmes P, Battin TJ</ContributorList>
+		<Year>2020</Year>
+		<Month>5</Month>
+		<Day>2</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.7717/peerj.9973</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Optimised biomolecular extraction for metagenomic analysis of microbial biofilms from high-mountain streams</Title>
+		<DOI>10.7717/peerj.9973</DOI>
+		<JournalName>PeerJ</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages>e9973</JournalPages>
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Busi SB, Pramateftaki P, Brandani J, Fodelianakis S, Peter H, Halder R, Wilmes P, Battin TJ</ContributorList>
+		<Year>2020</Year>
+		<Month>10</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fmicb.2020.591465</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Patterns and Drivers of Extracellular Enzyme Activity in New Zealand Glacier-Fed Streams</Title>
+		<DOI>10.3389/fmicb.2020.591465</DOI>
+		<JournalName>Frontiers in Microbiology</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Kohler TJ, Peter H, Fodelianakis S, Pramateftaki P, Styllas M, Tolosano M, de Staercke V, Schön M, Busi SB, Wilmes P, Washburne A, Battin TJ</ContributorList>
+		<Year>2020</Year>
+		<Month>11</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41598-020-77622-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Depthwise microbiome and isotopic profiling of a moderately saline microbial mat in a solar saltern</Title>
+		<DOI>10.1038/s41598-020-77622-w</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Paul V, Banerjee Y, Ghosh P, Busi SB</ContributorList>
+		<Year>2020</Year>
+		<Month>11</Month>
+		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.12.03.409391</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Homogeneous selection promotes microdiversity in the glacier-fed stream microbiome</Title>
+		<DOI>10.1101/2020.12.03.409391</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Fodelianakis S, Washburne AD, Bourquin M, Pramateftaki P, Kohler TJ, Styllas M, Tolosano M, De Staercke V, Schön M, Busi SB, Brandani J, Wilmes P, Peter H, Battin TJ</ContributorList>
+		<Year>2020</Year>
+		<Month>12</Month>
+		<Day>3</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s40168-020-00993-9</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>PathoFact: a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data</Title>
+		<DOI>10.1186/s40168-020-00993-9</DOI>
+		<JournalName>Microbiome</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>de Nies L, Lopes S, Busi SB, Galata V, Heintz-Buschart A, Laczny CC, May P, Wilmes P</ContributorList>
+		<Year>2021</Year>
+		<Month>2</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2021.04.22.440869</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Synergistic effect of short- and long-read sequencing on functional meta-omics</Title>
+		<DOI>10.1101/2021.04.22.440869</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Galata V, Busi SB, Kunath BJ, de Nies L, Calusinska M, Halder R, May P, Wilmes P, Laczny CC</ContributorList>
+		<Year>2021</Year>
+		<Month>4</Month>
+		<Day>23</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fgene.2021.666244</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Challenges, Strategies, and Perspectives for Reference-Independent Longitudinal Multi-Omic Microbiome Studies</Title>
+		<DOI>10.3389/fgene.2021.666244</DOI>
+		<JournalName>Frontiers in Genetics</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Martínez Arbas S, Busi SB, Queirós P, de Nies L, Herold M, May P, Wilmes P, Muller EEL, Narayanasamy S</ContributorList>
+		<Year>2021</Year>
+		<Month>6</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s42523-021-00116-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Molecular and culture-based assessment of the microbiome in a zebrafish (Danio rerio) housing system during set-up and equilibration</Title>
+		<DOI>10.1186/s42523-021-00116-1</DOI>
+		<JournalName>Animal Microbiome</JournalName>
+		<JournalVolume>3</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Ericsson AC, Busi SB, Davis DJ, Nabli H, Eckhoff DC, Dorfmeyer RA, Turner G, Oswalt PS, Crim MJ, Bryda EC</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day>5</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41396-021-01106-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Microdiversity characterizes prevalent phylogenetic clades in the glacier-fed stream microbiome</Title>
+		<DOI>10.1038/s41396-021-01106-6</DOI>
+		<JournalName>The ISME Journal</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages>666-675</JournalPages>
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Fodelianakis S, Washburne AD, Bourquin M, Pramateftaki P, Kohler TJ, Styllas M, Tolosano M, De Staercke V, Schön M, Busi SB, Brandani J, Wilmes P, Peter H, Battin TJ</ContributorList>
+		<Year>2021</Year>
+		<Month>9</Month>
+		<Day>15</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2021.10.07.463499</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Genomic and metabolic adaptations of biofilms to ecological windows of opportunities in glacier-fed streams</Title>
+		<DOI>10.1101/2021.10.07.463499</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Busi SB, Bourquin M, Fodelianakis S, Michoud G, Kohler TJ, Peter H, Pramateftaki P, Styllas M, Tolosano M, De Staercke V, Schön M, de Nies L, Marasco R, Daffonchio D, Ezzat L, Wilmes P, Battin TJ</ContributorList>
+		<Year>2021</Year>
+		<Month>10</Month>
+		<Day>7</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2021.11.15.468621</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Mobilome-driven segregation of the resistome in biological wastewater treatment</Title>
+		<DOI>10.1101/2021.11.15.468621</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>de Nies L, Busi SB, Kunath BJ, May P, Wilmes P</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2021.11.18.469141</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Glacier-fed stream biofilms harbour diverse resistomes and biosynthetic gene clusters</Title>
+		<DOI>10.1101/2021.11.18.469141</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Busi SB, de Nies L, Pramateftaki P, Bourquin M, Ezzat L, Kohler TJ, Fodelianakis S, Michoud G, Peter H, Styllas M, Tolosano M, De Staercke V, Schön M, Galata V, Battin T, Wilmes P</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>18</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bib/bbab330</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Functional meta-omics provide critical insights into long- and short-read assemblies</Title>
+		<DOI>10.1093/bib/bbab330</DOI>
+		<JournalName>Briefings in Bioinformatics</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Galata V, Busi SB, Kunath BJ, de Nies L, Calusinska M, Halder R, May P, Wilmes P, Laczny CC</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s43705-021-00078-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Systematic characterization of human gut microbiome-secreted molecules by integrated multi-omics</Title>
+		<DOI>10.1038/s43705-021-00078-0</DOI>
+		<JournalName>ISME Communications</JournalName>
+		<JournalVolume>1</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>De Saedeleer B, Malabirade A, Ramiro-Garcia J, Habier J, Trezzi J, Peters SL, Daujeumont A, Halder R, Jäger C, Busi SB, May P, Oertel W, Mollenhauer B, Laczny CC, Hettich RL, Wilmes P</ContributorList>
+		<Year>2021</Year>
+		<Month>12</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/gcb.16169</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Glacier shrinkage will accelerate downstream decomposition of organic matter and alters microbiome structure and function</Title>
+		<DOI>10.1111/gcb.16169</DOI>
+		<JournalName>Global Change Biology</JournalName>
+		<JournalVolume>28</JournalVolume>
+		<JournalPages>3846-3859</JournalPages>
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Kohler TJ, Fodelianakis S, Michoud G, Ezzat L, Bourquin M, Peter H, Busi SB, Pramateftaki P, Deluigi N, Styllas M, Tolosano M, de Staercke V, Schön M, Brandani J, Marasco R, Daffonchio D, Wilmes P, Battin TJ</ContributorList>
+		<Year>2022</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-022-29914-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genomic and metabolic adaptations of biofilms to ecological windows of opportunity in glacier-fed streams</Title>
+		<DOI>10.1038/s41467-022-29914-0</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Busi SB, Bourquin M, Fodelianakis S, Michoud G, Kohler TJ, Peter H, Pramateftaki P, Styllas M, Tolosano M, De Staercke V, Schön M, de Nies L, Marasco R, Daffonchio D, Ezzat L, Wilmes P, Battin TJ</ContributorList>
+		<Year>2022</Year>
+		<Month>4</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-022-29919-9</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evolution of the murine gut resistome following broad-spectrum antibiotic treatment</Title>
+		<DOI>10.1038/s41467-022-29919-9</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>de Nies L, Busi SB, Tsenkova M, Halder R, Letellier E, Wilmes P</ContributorList>
+		<Year>2022</Year>
+		<Month>4</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-022-30816-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The microbiome of cryospheric ecosystems</Title>
+		<DOI>10.1038/s41467-022-30816-4</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Bourquin M, Busi SB, Fodelianakis S, Peter H, Washburne A, Kohler TJ, Ezzat L, Michoud G, Wilmes P, Battin TJ</ContributorList>
+		<Year>2022</Year>
+		<Month>6</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/aem.00421-22</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Benthic Biofilms in Glacier-Fed Streams from Scandinavia to the Himalayas Host Distinct Bacterial Communities Compared with the Streamwater</Title>
+		<DOI>10.1128/aem.00421-22</DOI>
+		<JournalName>Applied and Environmental Microbiology</JournalName>
+		<JournalVolume>88</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Ezzat L, Fodelianakis S, Kohler TJ, Bourquin M, Brandani J, Busi SB, Daffonchio D, De Staercke V, Marasco R, Michoud G, Oppliger E, Peter H, Pramateftaki P, Schön M, Styllas M, Tadei V, Tolosano M, Battin TJ</ContributorList>
+		<Year>2022</Year>
+		<Month>6</Month>
+		<Day>28</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2022.07.26.501613</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Biofilm competency of Desulfovibrio vulgaris Hildenborough facilitates colonization in the gut and represses adenoma development in a rat model of colon cancer</Title>
+		<DOI>10.1101/2022.07.26.501613</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Busi SB, De León KB, Montonye DR, Wall JD, Landgraf JA</ContributorList>
+		<Year>2022</Year>
+		<Month>7</Month>
+		<Day>26</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fmicb.2022.948165</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Spatial patterns of benthic biofilm diversity among streams draining proglacial floodplains</Title>
+		<DOI>10.3389/fmicb.2022.948165</DOI>
+		<JournalName>Frontiers in Microbiology</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Brandani J, Peter H, Busi SB, Kohler TJ, Fodelianakis S, Ezzat L, Michoud G, Bourquin M, Pramateftaki P, Roncoroni M, Lane SN, Battin TJ</ContributorList>
+		<Year>2022</Year>
+		<Month>8</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2022.09.12.507288</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Multi-omics analysis of mouse fecal microbiome reveals supplier-dependent functional differences and novel metagenome-assembled genomes</Title>
+		<DOI>10.1101/2022.09.12.507288</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>McAdams ZL, Busi SB, Gustafson KL, Bivens N, Franklin CL, Wilmes P, Ericsson AC</ContributorList>
+		<Year>2022</Year>
+		<Month>9</Month>
+		<Day>13</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.7554/elife.81196</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Mobilome-driven segregation of the resistome in biological wastewater treatment</Title>
+		<DOI>10.7554/elife.81196</DOI>
+		<JournalName>eLife</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>de Nies L, Busi SB, Kunath BJ, May P, Wilmes P</ContributorList>
+		<Year>2022</Year>
+		<Month>9</Month>
+		<Day>16</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-1969025/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Biofilm competency of Desulfovibrio vulgaris Hildenborough facilitates colonization in the gut and represses adenoma development in a rat model of colon cancer</Title>
+		<DOI>10.21203/rs.3.rs-1969025/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>Amos-Landgraf J, busi S, De Leόn K, Montonye D, Wall J</ContributorList>
+		<Year>2022</Year>
+		<Month>9</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2022.10.20.512999</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Altered infective competence of the human gut microbiome in COVID-19</Title>
+		<DOI>10.1101/2022.10.20.512999</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>de Nies L, Galata V, Martin-Gallausiaux C, Despotovic M, Busi SB, Snoeck CJ, Delacour L, Budagavi DP, Laczny CC, Habier J, Lupu P, Halder R, Fritz JV, Marques T, Sandt E, O’Sullivan MP, Ghosh S, Satagopam V, CON-VINCE Consortium, Krüger R, Fagherazzi G, Ollert M, Hefeng FQ, May P, Wilmes P</ContributorList>
+		<Year>2022</Year>
+		<Month>10</Month>
+		<Day>20</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3390/applmicrobiol4040109</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Multi-Omics Analysis of Mouse Fecal Microbiome Reveals Supplier-Dependent Functional Differences and Novel Metagenome-Assembled Genomes</Title>
+		<DOI>10.3390/applmicrobiol4040109</DOI>
+		<JournalName>Applied Microbiology</JournalName>
+		<JournalVolume>4</JournalVolume>
+		<JournalPages>1600-1615</JournalPages>
+		<ContributorIds>kar23heg</ContributorIds>
+		<ContributorList>McAdams ZL, Busi SB, Gustafson KL, Bivens N, Franklin CL, Wilmes P, Ericsson AC</ContributorList>
+		<Year>2024</Year>
+		<Month>11</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/s00723-009-0077-4</id>
@@ -36290,9 +36921,9 @@
 		<JournalPages>39-58</JournalPages>
 		<ContributorIds>haertyw, blakesle, cardings, dipalmaf, hallli, jbrooks, korcsmat, olbeim, rek24cel, sudhakap, treveila, wilemant, wrzesint</ContributorIds>
 		<ContributorList>Treveil A, Sudhakar P, Matthews ZJ, Wrzesiński T, Jones EJ, Brooks J, Ölbei M, Hautefort I, Hall LJ, Carding SR, Mayer U, Powell PP, Wileman T, Di Palma F, Haerty W, Korcsmáros T</ContributorList>
-		<Year>2020</Year>
-		<Month />
-		<Day />
+		<Year>2019</Year>
+		<Month>12</Month>
+		<Day>10</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
