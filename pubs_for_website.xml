@@ -3555,7 +3555,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>taz23zir</ContributorIds>
-		<ContributorList>Kamzolas I, Koutsandreas T, Barker CG, Vathrakokoili Pournara A, Weston HN, Fujiwara N, Hoshida Y, Anstee QM, Vacca M, Papatheodorou I, Vidal-Puig A, Petsalaki E</ContributorList>
+		<ContributorList>Kamzolas I, Koutsandreas T, Barker CG, Vathrakokoili Pournara A, Weston H, Fujiwara N, Hoshida Y, Anstee QM, Vacca M, Papatheodorou I, Vidal-Puig A, Petsalaki E</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
 		<Day>18</Day>
@@ -4861,7 +4861,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>A phylogenomic and ecological analysis of the globally abundant Marine Group II archaea ( Ca . Poseidoniales ord. nov.)</Title>
+		<Title>A phylogenomic and ecological analysis of the globally abundant Marine Group II archaea (Ca. Poseidoniales ord. nov.)</Title>
 		<DOI>10.1038/s41396-018-0282-y</DOI>
 		<JournalName>The ISME Journal</JournalName>
 		<JournalVolume>13</JournalVolume>
