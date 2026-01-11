@@ -9306,6 +9306,23 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.64898/2026.01.07.698260</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Efficient in vitro refactoring and biosynthetic gene cluster amplification for the overproduction and accelerated discovery of anticancer thioamitides</Title>
+		<DOI>10.64898/2026.01.07.698260</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>taf22big, grandell</ContributorIds>
+		<ContributorList>Santos-Aberturas J, Frattaruolo L, Tassinari E, Rejzek M, Fong LKW, Kawicha P, Sangdee A, Grandellis C, Cappello AR, Truman AW</ContributorList>
+		<Year>2026</Year>
+		<Month>1</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1159/000516014</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -13778,6 +13795,23 @@
 		<Month>9</Month>
 		<Day>3</Day>
 		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3390/genes17010071</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Molecular and Genetic Biomarkers in Prostate Cancer Active Surveillance: Recent Developments and Future Perspectives</Title>
+		<DOI>10.3390/genes17010071</DOI>
+		<JournalName>Genes</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages>71</JournalPages>
+		<ContributorIds>brewerd</ContributorIds>
+		<ContributorList>Smith SF, Mills RD, Cooper CS, Brewer DS</ContributorList>
+		<Year>2026</Year>
+		<Month>1</Month>
+		<Day>6</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/tpj.12246</id>
