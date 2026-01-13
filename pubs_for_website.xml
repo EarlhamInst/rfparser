@@ -9306,23 +9306,6 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.64898/2026.01.07.698260</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Efficient in vitro refactoring and biosynthetic gene cluster amplification for the overproduction and accelerated discovery of anticancer thioamitides</Title>
-		<DOI>10.64898/2026.01.07.698260</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>taf22big, grandell</ContributorIds>
-		<ContributorList>Santos-Aberturas J, Frattaruolo L, Tassinari E, Rejzek M, Fong LKW, Kawicha P, Sangdee A, Grandellis C, Cappello AR, Truman AW</ContributorList>
-		<Year>2026</Year>
-		<Month>1</Month>
-		<Day>8</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1159/000516014</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -14664,6 +14647,23 @@
 		<Month>11</Month>
 		<Day>21</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.64898/2026.01.07.698260</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Efficient in vitro refactoring and biosynthetic gene cluster amplification for the overproduction and accelerated discovery of anticancer thioamitides</Title>
+		<DOI>10.64898/2026.01.07.698260</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>taf22big, grandell</ContributorIds>
+		<ContributorList>Santos-Aberturas J, Frattaruolo L, Tassinari E, Rejzek M, Fong LKW, Kawicha P, Sangdee A, Grandellis C, Cappello AR, Truman AW</ContributorList>
+		<Year>2026</Year>
+		<Month>1</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/gr.280550.125</id>
