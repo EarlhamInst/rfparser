@@ -260,7 +260,7 @@ def get_url(
     else:
         raise Exception(f"Failed too many times to get URL {url}")
     if isinstance(s, CachedSession):
-        log.debug("URL %s retrieved from cache: %s", url, r.from_cache)  # type:ignore[attr-defined]
+        log.debug("URL %s retrieved from cache: %s", url, r.from_cache)  # type: ignore[attr-defined]
     return r
 
 
