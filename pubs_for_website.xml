@@ -2414,12 +2414,12 @@
 		<DOI>10.1039/c3mb25485b</DOI>
 		<JournalName>Molecular BioSystems</JournalName>
 		<JournalVolume>9</JournalVolume>
-		<JournalPages>1756</JournalPages>
+		<JournalPages>1756-1764</JournalPages>
 		<ContributorIds>taz23zir</ContributorIds>
 		<ContributorList>Ivanov DK, Papatheodorou I, Ziehm M, Thornton JM</ContributorList>
 		<Year>2013</Year>
-		<Month />
-		<Day />
+		<Month>4</Month>
+		<Day>16</Day>
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -10879,8 +10879,8 @@
 		<Title>Engineering Conditional Transgene Expression in Nicotiana benthamiana</Title>
 		<DOI>10.1111/pbi.70350</DOI>
 		<JournalName>Plant Biotechnology Journal</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>24</JournalVolume>
+		<JournalPages>18-30</JournalPages>
 		<ContributorIds>lak25yir</ContributorIds>
 		<ContributorList>Garcia‐Perez E, Vazquez‐Vilar M, Orzaez D</ContributorList>
 		<Year>2025</Year>
@@ -14666,6 +14666,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1007/s42729-025-02772-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Utilizing Biochar to Enhance Morphophysiology and Antioxidative Defense Mechanisms in Lactuca sativa(lettuce) Exposed to Industrial Wastewater and Canal Water</Title>
+		<DOI>10.1007/s42729-025-02772-7</DOI>
+		<JournalName>Journal of Soil Science and Plant Nutrition</JournalName>
+		<JournalVolume>25</JournalVolume>
+		<JournalPages>10017-10032</JournalPages>
+		<ContributorIds />
+		<ContributorList>Almas HI, Rasul F, Shahbaz M, Mustafa G</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>28</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.scijus.2025.101347</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>PedaLEGOgy – Using LEGO® crime scenes as an inclusive way to ‘build’ student learning, engagement and educational experience in forensic science</Title>
+		<DOI>10.1016/j.scijus.2025.101347</DOI>
+		<JournalName>Science &amp;amp; Justice</JournalName>
+		<JournalVolume>65</JournalVolume>
+		<JournalPages>101347</JournalPages>
+		<ContributorIds>macaulai</ContributorIds>
+		<ContributorList>Dawnay L, Tidy H, Brown K, Dawson L, Macaulay I, Dawnay N</ContributorList>
+		<Year>2025</Year>
+		<Month>11</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.37044/osf.io/2jgk4_v1</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -18386,7 +18420,7 @@
 		<JournalName>PeerJ Preprints</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr</ContributorIds>
+		<ContributorIds>aylingm, leggettr</ContributorIds>
 		<ContributorList>Ayling M, Clark MD, Leggett RM</ContributorList>
 		<Year>2018</Year>
 		<Month>11</Month>
@@ -35608,7 +35642,7 @@
 		<JournalName>PeerJ Preprints</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr, aylingm</ContributorIds>
+		<ContributorIds>aylingm, leggettr</ContributorIds>
 		<ContributorList>Ayling M, Clark MD, Leggett RM</ContributorList>
 		<Year>2018</Year>
 		<Month>11</Month>
@@ -35967,7 +36001,7 @@
 		<JournalName>Briefings in Bioinformatics</JournalName>
 		<JournalVolume>21</JournalVolume>
 		<JournalPages>584-594</JournalPages>
-		<ContributorIds>leggettr, aylingm</ContributorIds>
+		<ContributorIds>aylingm, leggettr</ContributorIds>
 		<ContributorList>Ayling M, Clark MD, Leggett RM</ContributorList>
 		<Year>2019</Year>
 		<Month>2</Month>
@@ -39490,7 +39524,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr, aylingm, martins</ContributorIds>
+		<ContributorIds>aylingm, leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -41005,7 +41039,7 @@
 		<JournalName>Bioinformatics</JournalName>
 		<JournalVolume>39</JournalVolume>
 		<JournalPages />
-		<ContributorIds>leggettr, aylingm, martins</ContributorIds>
+		<ContributorIds>aylingm, leggettr, martins</ContributorIds>
 		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
 		<Year>2023</Year>
 		<Month>1</Month>
