@@ -274,6 +274,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.3389/fmicb.2016.00629</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The incC Sequence Is Required for R27 Plasmid Stability</Title>
+		<DOI>10.3389/fmicb.2016.00629</DOI>
+		<JournalName>Frontiers in Microbiology</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages />
+		<ContributorIds>taf22big</ContributorIds>
+		<ContributorList>Tassinari E, Aznar S, Urcola I, Prieto A, Hüttener M, Juárez A</ContributorList>
+		<Year>2016</Year>
+		<Month>5</Month>
+		<Day>3</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1126/sciadv.abi5075</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -9492,6 +9509,91 @@
 		<Year>2025</Year>
 		<Month>12</Month>
 		<Day>13</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/tpj.15375</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Reciprocal allopolyploid grasses (Festuca × Lolium) display stable patterns of genome dominance</Title>
+		<DOI>10.1111/tpj.15375</DOI>
+		<JournalName>The Plant Journal</JournalName>
+		<JournalVolume>107</JournalVolume>
+		<JournalPages>1166-1182</JournalPages>
+		<ContributorIds>his25diz</ContributorIds>
+		<ContributorList>Glombik M, Copetti D, Bartos J, Stoces S, Zwierzykowski Z, Ruttink T, Wendel JF, Duchoslav M, Dolezel J, Studer B, Kopecky D</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day />
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/nph.18753</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Both male and female meiosis contribute to non‐Mendelian inheritance of parental chromosomes in interspecific plant hybrids (Lolium × Festuca)</Title>
+		<DOI>10.1111/nph.18753</DOI>
+		<JournalName>New Phytologist</JournalName>
+		<JournalVolume>238</JournalVolume>
+		<JournalPages>624-636</JournalPages>
+		<ContributorIds>his25diz</ContributorIds>
+		<ContributorList>Majka J, Glombik M, Doležalová A, Kneřová J, Ferreira MTM, Zwierzykowski Z, Duchoslav M, Studer B, Doležel J, Bartoš J, Kopecký D</ContributorList>
+		<Year>2023</Year>
+		<Month>2</Month>
+		<Day>9</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/tpj.16659</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Cytonuclear interplay in auto‐ and allopolyploids: a multifaceted perspective from the Festuca‐Lolium complex</Title>
+		<DOI>10.1111/tpj.16659</DOI>
+		<JournalName>The Plant Journal</JournalName>
+		<JournalVolume>118</JournalVolume>
+		<JournalPages>1102-1118</JournalPages>
+		<ContributorIds>his25diz</ContributorIds>
+		<ContributorList>Shahbazi M, Majka J, Kubíková D, Zwierzykowski Z, Glombik M, Wendel JF, Sharbrough J, Hartmann S, Szecówka M, Doležel J, Bartoš J, Kopecký D, Kneřová J</ContributorList>
+		<Year>2024</Year>
+		<Month>2</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.08.01.606180</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Rapid reprogramming and stabilisation of homoeolog expression bias in hexaploid wheat biparental populations</Title>
+		<DOI>10.1101/2024.08.01.606180</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>his25diz</ContributorIds>
+		<ContributorList>Glombik M, Arunkumar R, Burrows S, Mogg SL, Wang X, Borrill P</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>5</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s13059-025-03598-3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Rapid reprogramming and stabilization of homoeolog expression bias in hexaploid wheat biparental populations</Title>
+		<DOI>10.1186/s13059-025-03598-3</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages />
+		<ContributorIds>his25diz</ContributorIds>
+		<ContributorList>Glombik M, Arunkumar R, Burrows S, Mogg SL, Wang X, Borrill P</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>28</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
