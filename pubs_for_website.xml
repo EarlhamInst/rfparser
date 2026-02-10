@@ -9495,23 +9495,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1093/plcell/koaf282</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Spatial transcriptomics reveals expression gradients in developing wheat inflorescences at cellular resolution</Title>
-		<DOI>10.1093/plcell/koaf282</DOI>
-		<JournalName>The Plant Cell</JournalName>
-		<JournalVolume>38</JournalVolume>
-		<JournalPages />
-		<ContributorIds>abinnie, goldson, vknitlho, kaithakg, haertyw, macaulai</ContributorIds>
-		<ContributorList>Long KA, Lister A, Jones MRW, Adamski NM, Ellis RE, Chedid C, Carpenter SJ, Liu X, Backhaus AE, Goldson A, Knitlhoffer V, Pei Y, Vickers M, Steuernagel B, Kaithakottil GG, Xiao J, Haerty W, Macaulay IC, Uauy C</ContributorList>
-		<Year>2025</Year>
-		<Month>12</Month>
-		<Day>13</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1111/tpj.15375</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -14765,6 +14748,23 @@
 		<Year>2024</Year>
 		<Month>11</Month>
 		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/plcell/koaf282</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Spatial transcriptomics reveals expression gradients in developing wheat inflorescences at cellular resolution</Title>
+		<DOI>10.1093/plcell/koaf282</DOI>
+		<JournalName>The Plant Cell</JournalName>
+		<JournalVolume>38</JournalVolume>
+		<JournalPages />
+		<ContributorIds>abinnie, goldson, vknitlho, kaithakg, haertyw, macaulai</ContributorIds>
+		<ContributorList>Long KA, Lister A, Jones MRW, Adamski NM, Ellis RE, Chedid C, Carpenter SJ, Liu X, Backhaus AE, Goldson A, Knitlhoffer V, Pei Y, Vickers M, Steuernagel B, Kaithakottil GG, Xiao J, Haerty W, Macaulay IC, Uauy C</ContributorList>
+		<Year>2025</Year>
+		<Month>12</Month>
+		<Day>13</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
