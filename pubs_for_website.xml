@@ -4085,7 +4085,7 @@
 		<ContributorList>Chang F, Theis JF, Miller J, Nieduszynski CA, Newlon CS, Weinreich M</ContributorList>
 		<Year>2008</Year>
 		<Month>8</Month>
-		<Day>1</Day>
+		<Day />
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -26520,7 +26520,7 @@
 		<Year>2013</Year>
 		<Month>3</Month>
 		<Day>21</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/emboj.2013.165</id>
