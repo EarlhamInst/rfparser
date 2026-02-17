@@ -753,23 +753,6 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2025.07.03.662955</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>A comparison of long-read single-cell transcriptomic approaches</Title>
-		<DOI>10.1101/2025.07.03.662955</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>scoones, lany, abinnie, kudashev, irishn, swarbred, gharbik, haertyw, dwright, macaulai</ContributorIds>
-		<ContributorList>Scoones ALA, Lan Y, Utting C, Pouncey L, Lister A, Kudasheva S, Mehta N, Irish N, Swarbreck D, Gharbi K, Haerty W, Cribbs AP, Wright DJ, Macaulay IC</ContributorList>
-		<Year>2025</Year>
-		<Month>7</Month>
-		<Day>5</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/B978-0-12-394290-6.00002-1</id>
 		<Organisation>EI</Organisation>
 		<Category>Book chapter</Category>
@@ -3766,176 +3749,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1186/1471-2105-8-s8-p4</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Optimising oligonucleotide array design for ChIP-on-chip</Title>
-		<DOI>10.1186/1471-2105-8-s8-p4</DOI>
-		<JournalName>BMC Bioinformatics</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages />
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Nielsen F, Graef S, Zhang X, Kurtz S, Denissov S, Green R, Birney E, Flicek P, Huynen M, Stunnenberg H</ContributorList>
-		<Year>2007</Year>
-		<Month>11</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/bioinformatics/btm200</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Optimized design and assessment of whole genome tiling arrays</Title>
-		<DOI>10.1093/bioinformatics/btm200</DOI>
-		<JournalName>Bioinformatics</JournalName>
-		<JournalVolume>23</JournalVolume>
-		<JournalPages>i195-i204</JournalPages>
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Gräf S, Nielsen FGG, Kurtz S, Huynen MA, Birney E, Stunnenberg H, Flicek P</ContributorList>
-		<Year>2007</Year>
-		<Month>7</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1371/journal.pone.0028272</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>CATCHprofiles: Clustering and Alignment Tool for ChIP Profiles</Title>
-		<DOI>10.1371/journal.pone.0028272</DOI>
-		<JournalName>PLoS ONE</JournalName>
-		<JournalVolume>7</JournalVolume>
-		<JournalPages>e28272</JournalPages>
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Nielsen FGG, Markus KG, Friborg RM, Favrholdt LM, Stunnenberg HG, Huynen M</ContributorList>
-		<Year>2012</Year>
-		<Month>1</Month>
-		<Day>4</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1158/1538-7445.am2012-3179</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Abstract 3179: Targeted re-sequencing of cancer-related genes from matched FFPE and fresh-frozen tumor samples using the Illumina sequencing platform</Title>
-		<DOI>10.1158/1538-7445.am2012-3179</DOI>
-		<JournalName>Cancer Research</JournalName>
-		<JournalVolume>72</JournalVolume>
-		<JournalPages>3179-3179</JournalPages>
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Bibikova M, Chien J, Ho V, April C, Munchel S, Jaeger E, Cooper S, Grocock R, Nielsen F, Tarabishy Y, Visscher D, Manion M, Liu J, Wieben E, Hartmann L, Kalli K, Shridhar V, Fan J</ContributorList>
-		<Year>2012</Year>
-		<Month>4</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1182/blood-2011-10-386086</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Chromatin accessibility, p300, and histone acetylation define PML-RARα and AML1-ETO binding sites in acute myeloid leukemia</Title>
-		<DOI>10.1182/blood-2011-10-386086</DOI>
-		<JournalName>Blood</JournalName>
-		<JournalVolume>120</JournalVolume>
-		<JournalPages>3058-3068</JournalPages>
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Saeed S, Logie C, Francoijs K, Frigè G, Romanenghi M, Nielsen FG, Raats L, Shahhoseini M, Huynen M, Altucci L, Minucci S, Martens JHA, Stunnenberg HG</ContributorList>
-		<Year>2012</Year>
-		<Month>10</Month>
-		<Day>11</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1186/1756-0500-6-133</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The PinkThing for analysing ChIP profiling data in their genomic context</Title>
-		<DOI>10.1186/1756-0500-6-133</DOI>
-		<JournalName>BMC Research Notes</JournalName>
-		<JournalVolume>6</JournalVolume>
-		<JournalPages />
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Nielsen FG, Kooyman M, Kensche P, Marks H, Stunnenberg H, Huynen M</ContributorList>
-		<Year>2013</Year>
-		<Month>4</Month>
-		<Day>4</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.atg.2014.09.013</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The need to redefine genomic data sharing: A focus on data accessibility</Title>
-		<DOI>10.1016/j.atg.2014.09.013</DOI>
-		<JournalName>Applied &amp;amp; Translational Genomics</JournalName>
-		<JournalVolume>3</JournalVolume>
-		<JournalPages>100-104</JournalPages>
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>van Schaik TA, Kovalevskaya NV, Protopapas E, Wahid H, Nielsen FG</ContributorList>
-		<Year>2014</Year>
-		<Month>12</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3389/fmicb.2015.00224</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Beyond research: a primer for considerations on using viral metagenomics in the field and clinic</Title>
-		<DOI>10.3389/fmicb.2015.00224</DOI>
-		<JournalName>Frontiers in Microbiology</JournalName>
-		<JournalVolume>6</JournalVolume>
-		<JournalPages />
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Hall RJ, Draper JL, Nielsen FGG, Dutilh BE</ContributorList>
-		<Year>2015</Year>
-		<Month>3</Month>
-		<Day>25</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3389/fmicb.2015.01481</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Microbial Metabolism Shifts Towards an Adverse Profile with Supplementary Iron in the TIM-2 In vitro Model of the Human Colon</Title>
-		<DOI>10.3389/fmicb.2015.01481</DOI>
-		<JournalName>Frontiers in Microbiology</JournalName>
-		<JournalVolume>6</JournalVolume>
-		<JournalPages />
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Kortman GAM, Dutilh BE, Maathuis AJH, Engelke UF, Boekhorst J, Keegan KP, Nielsen FGG, Betley J, Weir JC, Kingsbury Z, Kluijtmans LAJ, Swinkels DW, Venema K, Tjalsma H</ContributorList>
-		<Year>2016</Year>
-		<Month>1</Month>
-		<Day>6</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1371/journal.pbio.1002418</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>DNAdigest and Repositive: Connecting the World of Genomic Data</Title>
-		<DOI>10.1371/journal.pbio.1002418</DOI>
-		<JournalName>PLOS Biology</JournalName>
-		<JournalVolume>14</JournalVolume>
-		<JournalPages>e1002418</JournalPages>
-		<ContributorIds>taf25bik</ContributorIds>
-		<ContributorList>Kovalevskaya NV, Whicher C, Richardson TD, Smith C, Grajciarova J, Cardama X, Moreira J, Alexa A, McMurray AA, Nielsen FGG</ContributorList>
-		<Year>2016</Year>
-		<Month>3</Month>
-		<Day>24</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1186/gb-2001-2-12-reports4030</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -6639,23 +6452,6 @@
 		<Year>2009</Year>
 		<Month />
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41467-025-64046-1</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>De novo annotation reveals transcriptomic complexity across the hexaploid wheat pan-genome</Title>
-		<DOI>10.1038/s41467-025-64046-1</DOI>
-		<JournalName>Nature Communications</JournalName>
-		<JournalVolume>16</JournalVolume>
-		<JournalPages />
-		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, clissold, gharbik, haertyw, swarbred, birdc, heavensd, halla</ContributorIds>
-		<ContributorList>White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KFX, Pozniak C, 10+ Wheat Genome Project, Walkowiak S, Klymiuk V, Byrns B, Nilsen K, Ens J, Wiebe K, N’Diaye A, Hucl PJ, Pozniak CJ, Fu BX, Gao L, Delorean E, Koo D, Fritz AK, Poland J, Monat C, Himmelbach A, Fiebig A, Padmarasu S, Scholz U, Mascher M, Haberer G, Kassa MT, Fobert P, Kagale S, Brinton J, Ramirez-Gonzalez RH, Bevan M, McKenzie N, Steuernagel B, Kolodziej MC, Krattinger SG, Keller B, Wicker T, Thambugala D, McCartney CA, Bandi V, Siri JN, Gutwin C, Aquino C, Hatakeyama M, Copetti D, Halstead-Nussloch G, Paape T, Shimizu-Inatsugi R, Shimizu KK, Ban T, Kawaura K, Tameshige T, Tsuji H, Venturini L, Clark M, Clavijo B, Fosker C, Accinelli GG, Heavens D, Krasileva K, Gardner KA, Fradgley N, Percival-Alwyn L, Cockram J, Gutierrez-Gonzalez J, Muehlbauer G, Koh CS, Sharpe AG, Deek J, Costamagna AC, Kanamori H, Kobayashi F, Tanaka T, Wu J, Handa H, Kuo T, Sese J, Murata K, Nabeka Y, Nasuda S, Juliana P, Singh R, Budak H, Small I, Melonek J, Cloutier S, Keeble-Gagnère G, Tibbets J, Legg E, Bharti A, Langridge P, Chalmers K, Distelfeld A, Spannagl M, Hall A</ContributorList>
-		<Year>2025</Year>
-		<Month>10</Month>
-		<Day>6</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -11842,23 +11638,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1093/g3journal/jkaf090</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genome-wide association mapping dissects the selective breeding of determinacy and photoperiod sensitivity in common bean (Phaseolus vulgaris L.)</Title>
-		<DOI>10.1093/g3journal/jkaf090</DOI>
-		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
-		<JournalVolume>15</JournalVolume>
-		<JournalPages />
-		<ContributorIds>denning, halla, devegaj</ContributorIds>
-		<ContributorList>Denning-James KE, Chater C, Cortés AJ, Blair MW, Peláez D, Hall A, De Vega JJ</ContributorList>
-		<Year>2025</Year>
-		<Month>4</Month>
-		<Day>19</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1093/g3journal/jkaf113</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -14765,6 +14544,312 @@
 		<Year>2024</Year>
 		<Month>11</Month>
 		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/nph.19007</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Phosphate deprivation‐induced changes in tomato are mediated by an interaction between brassinosteroid signaling and zinc</Title>
+		<DOI>10.1111/nph.19007</DOI>
+		<JournalName>New Phytologist</JournalName>
+		<JournalVolume>239</JournalVolume>
+		<JournalPages>1368-1383</JournalPages>
+		<ContributorIds />
+		<ContributorList>Demirer GS, Gibson DJ, Yue X, Pan K, Elishav E, Khandal H, Horev G, Tarkowská D, Cantó‐Pastor A, Kong S, Manzano C, Maloof JN, Savaldi‐Goldstein S, Brady SM</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>12</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-7095012/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Deterministically selected rare taxa drive changes in community composition in drinking water biological activated carbon filters</Title>
+		<DOI>10.21203/rs.3.rs-7095012/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Quinn D, Vignola M, Lenselink J, Moore G, Connelly S, Gauchotte-Lindsay C, Ijaz U, Sloan WT, Smith CJ</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1365-2745.70160</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Drought legacy effects on plant growth and plant–soil feedback are mediated by soil microbial communities independently of root exudates and root litter</Title>
+		<DOI>10.1111/1365-2745.70160</DOI>
+		<JournalName>Journal of Ecology</JournalName>
+		<JournalVolume>113</JournalVolume>
+		<JournalPages>3293-3312</JournalPages>
+		<ContributorIds />
+		<ContributorList>Enderle E, Hinojosa L, Lombard V, Hou F, de Vries FT</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/mra.00363-25</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genomic characterization of Citrobacter freundii clinical isolates from Tanzania</Title>
+		<DOI>10.1128/mra.00363-25</DOI>
+		<JournalName>Microbiology Resource Announcements</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Mboowa G, Kidenya BR, Sserwadda I, Kanyerezi S, Akaro IL, Mkinze B, Seni J</ContributorList>
+		<Year>2025</Year>
+		<Month>7</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1098/rsob.250009</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genomic, transcriptomic and epigenomic signatures of ageing and cold adaptation in the Antarctic clam Laternula elliptica</Title>
+		<DOI>10.1098/rsob.250009</DOI>
+		<JournalName>Open Biology</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Sleight VA, Clark MS, Yap-Chiongco MK, Turner F, Kocot KM</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.jmoldx.2025.03.003</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>High-Throughput Multiplex Detection of Antibiotic-Resistant Genes and Virulence Factors in Escherichia coli Using Digital Multiplex Ligation Assay</Title>
+		<DOI>10.1016/j.jmoldx.2025.03.003</DOI>
+		<JournalName>The Journal of Molecular Diagnostics</JournalName>
+		<JournalVolume>27</JournalVolume>
+		<JournalPages>511-524</JournalPages>
+		<ContributorIds />
+		<ContributorList>Conforti S, Rossi Orts P, Tamminen M, Julian TR</ContributorList>
+		<Year>2025</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41598-025-20856-3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Leveraging known Pacific colonisation times to test models for the ancestry of Southeast Asians</Title>
+		<DOI>10.1038/s41598-025-20856-3</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Almeida M, Gandini F, Rito T, Foody MG, Brandão A, Oliveira M, Olivieri A, Fichera A, Oteo-Garcia G, Zainuddin Z, Eng KK, Pomat W, Bryk J, Pereira L, Farr H, Pala M, Oppenheimer SJ, Richards MB, Soares P</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-7712477/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Modulatory effects of CeO2 nanoparticles on bleomycin-induced active pulmonary disease processes in animal and human airway epithelium models</Title>
+		<DOI>10.21203/rs.3.rs-7712477/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Guo C, Buckley A, Robertson S, Laycock A, Cui X, Valsami-Jones E, Gant T, Leonard MO, Smith R</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.01.08.631880</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Revisiting the Central Dogma: the distinct roles of genome, methylation, transcription, and translation on protein expression in Arabidopsis thaliana</Title>
+		<DOI>10.1101/2025.01.08.631880</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Zhong Z, Bailey M, Kim Y, Afsharyan NP, Parker B, Arathoon L, Li X, Rundle CA, Behrens A, Nedialkova D, Slavov G, Hassani-Pak K, Lilley KS, Theodoulou FL, Mott R</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/mra.01318-24</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The complete genome of Vibrio diabolicus isolated from coastal waters and Pacific oysters in England</Title>
+		<DOI>10.1128/mra.01318-24</DOI>
+		<JournalName>Microbiology Resource Announcements</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Ryder D, Adaway M, Batista FM, Wagley S, Powell A</ContributorList>
+		<Year>2025</Year>
+		<Month>7</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s13059-025-03741-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The distinct roles of genome, methylation, transcription, and translation on protein expression in Arabidopsis thaliana resolve the Central Dogma’s information flow</Title>
+		<DOI>10.1186/s13059-025-03741-0</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Zhong Z, Bailey M, Kim Y, Afsharyan NP, Parker B, Arathoon L, Li X, Rundle CA, Behrens A, Nedialkova D, Slavov G, Hassani-Pak K, Lilley KS, Theodoulou FL, Mott R</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>29</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3855/jidc.19938</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Prevalence, diversity, and antimicrobial resistance of Salmonella spp. isolated from river sediments in Northwest Mexico</Title>
+		<DOI>10.3855/jidc.19938</DOI>
+		<JournalName>The Journal of Infection in Developing Countries</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages>1875-1882</JournalPages>
+		<ContributorIds />
+		<ContributorList>Medrano-Félix JA, Guerra-Rodríguez JC, Verdugo Arredondo VA, González-Torres B, Garrido-Palazuelos LI, González-López I, Castro-del Campo N, López-Cuevas O, Chaidez Quiroz C</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-025-64046-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>De novo annotation reveals transcriptomic complexity across the hexaploid wheat pan-genome</Title>
+		<DOI>10.1038/s41467-025-64046-1</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, clissold, gharbik, haertyw, swarbred, birdc, heavensd, halla</ContributorIds>
+		<ContributorList>White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KFX, Pozniak C, 10+ Wheat Genome Project, Walkowiak S, Klymiuk V, Byrns B, Nilsen K, Ens J, Wiebe K, N’Diaye A, Hucl PJ, Pozniak CJ, Fu BX, Gao L, Delorean E, Koo D, Fritz AK, Poland J, Monat C, Himmelbach A, Fiebig A, Padmarasu S, Scholz U, Mascher M, Haberer G, Kassa MT, Fobert P, Kagale S, Brinton J, Ramirez-Gonzalez RH, Bevan M, McKenzie N, Steuernagel B, Kolodziej MC, Krattinger SG, Keller B, Wicker T, Thambugala D, McCartney CA, Bandi V, Siri JN, Gutwin C, Aquino C, Hatakeyama M, Copetti D, Halstead-Nussloch G, Paape T, Shimizu-Inatsugi R, Shimizu KK, Ban T, Kawaura K, Tameshige T, Tsuji H, Venturini L, Clark M, Clavijo B, Fosker C, Accinelli GG, Heavens D, Krasileva K, Gardner KA, Fradgley N, Percival-Alwyn L, Cockram J, Gutierrez-Gonzalez J, Muehlbauer G, Koh CS, Sharpe AG, Deek J, Costamagna AC, Kanamori H, Kobayashi F, Tanaka T, Wu J, Handa H, Kuo T, Sese J, Murata K, Nabeka Y, Nasuda S, Juliana P, Singh R, Budak H, Small I, Melonek J, Cloutier S, Keeble-Gagnère G, Tibbets J, Legg E, Bharti A, Langridge P, Chalmers K, Distelfeld A, Spannagl M, Hall A</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>6</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/g3journal/jkaf090</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genome-wide association mapping dissects the selective breeding of determinacy and photoperiod sensitivity in common bean (Phaseolus vulgaris L.)</Title>
+		<DOI>10.1093/g3journal/jkaf090</DOI>
+		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>denning, halla, devegaj</ContributorIds>
+		<ContributorList>Denning-James KE, Chater C, Cortés AJ, Blair MW, Peláez D, Hall A, De Vega JJ</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.lanmic.2025.101150</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Global diversity and evolution of Salmonella enterica serovar Panama: a genomic epidemiology study</Title>
+		<DOI>10.1016/j.lanmic.2025.101150</DOI>
+		<JournalName>The Lancet Microbe</JournalName>
+		<JournalVolume>6</JournalVolume>
+		<JournalPages>101150</JournalPages>
+		<ContributorIds>halln</ContributorIds>
+		<ContributorList>Pulford CV, Perez-Sepulveda BM, Ingle DJ, Bengtsson RJ, Bennett RJ, Rodwell EV, Pardos de la Gandara M, Chong CE, De Silva PM, Ravel M, Guibert V, Njamkepo E, Hall N, Chattaway MA, Howden BP, Williamson DA, Hinton JCD, Weill F, Baker KS</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-6790233/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Host immunogenetic variation and metagenomically- derived gut microbiome functionality in a wild vertebrate population</Title>
+		<DOI>10.21203/rs.3.rs-6790233/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Lee CZ, Worsley SF, Komdeur J, Hildebrand F, Dugdale HL, Richardson DS</ContributorList>
+		<Year>2025</Year>
+		<Month>6</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.07.03.662955</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A comparison of long-read single-cell transcriptomic approaches</Title>
+		<DOI>10.1101/2025.07.03.662955</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>scoones, lany, abinnie, kudashev, irishn, swarbred, gharbik, haertyw, dwright, macaulai</ContributorIds>
+		<ContributorList>Scoones ALA, Lan Y, Utting C, Pouncey L, Lister A, Kudasheva S, Mehta N, Irish N, Swarbreck D, Gharbi K, Haerty W, Cribbs AP, Wright DJ, Macaulay IC</ContributorList>
+		<Year>2025</Year>
+		<Month>7</Month>
+		<Day>5</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/mec.70085</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Whole Genome Sequencing Reveals How Plasticity and Genetic Differentiation Underlie Sympatric Morphs of Arctic Charr</Title>
+		<DOI>10.1111/mec.70085</DOI>
+		<JournalName>Molecular Ecology</JournalName>
+		<JournalVolume>34</JournalVolume>
+		<JournalPages />
+		<ContributorIds>bakerk, barkert, clissold, durrant, irishn, vknitlho, lucchins, mctaggar, swarbred, gharbik</ContributorIds>
+		<ContributorList>Kurta K, Fedi MO, Baker K, Barker T, Catchpole L, Ciofi C, Cocco A, Collins J, Diedericks G, Diroma MA, Durrant A, Hindar K, Iannucci A, Irish N, Knitlhoffer V, Laikre L, Leitão HG, Lucchini S, McTaggart S, Pálsson A, Pettersson ME, Ryman N, Snorrason SS, Svardal H, Swarbreck D, Waterhouse RM, Watkins C, Wood JMD, Xiao H, Gharbi K, Jónsson ZO, Andersson L</ContributorList>
+		<Year>2025</Year>
+		<Month>8</Month>
+		<Day>26</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -32223,7 +32308,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages />
-		<ContributorIds>taf25bik, corpasm, swand</ContributorIds>
+		<ContributorIds>corpasm, swand</ContributorIds>
 		<ContributorList>Corpas M, Valdivia-Granda W, Torres N, Greshake B, Coletta A, Knaus A, Harrison AP, Cariaso M, Moran F, Nielsen F, Swan D, Weiss Solís DY, Krawitz P, Schacherer F, Schols P, Yang H, Borry P, Glusman G, Robinson PN</ContributorList>
 		<Year>2015</Year>
 		<Month>11</Month>
