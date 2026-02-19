@@ -3630,125 +3630,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2022.04.25.489359</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Effector-dependent activation and oligomerization of NRC helper NLRs by Rpi-amr3 and Rpi-amr1</Title>
-		<DOI>10.1101/2022.04.25.489359</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Ahn H, Lin X, Olave-Achury AC, Derevnina L, Contreras MP, Kourelis J, Kamoun S, Jones JDG</ContributorList>
-		<Year>2022</Year>
-		<Month>4</Month>
-		<Day>25</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1094/phyto-04-21-0158-r</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Phenotypic and Genotypic Characterization of Phytophthora infestans Isolates Associated with Tomato and Potato Crops in Colombia</Title>
-		<DOI>10.1094/phyto-04-21-0158-r</DOI>
-		<JournalName>Phytopathology®</JournalName>
-		<JournalVolume>112</JournalVolume>
-		<JournalPages>1783-1794</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Olave-Achury A, Cardenas D, Restrepo S, Lucca F, Fry WE, Myers KL, Danies G, Soto-Suarez M</ContributorList>
-		<Year>2022</Year>
-		<Month>8</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.molp.2022.07.012</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A potato late blight resistance gene protects against multiple Phytophthora species by recognizing a broadly conserved RXLR-WY effector</Title>
-		<DOI>10.1016/j.molp.2022.07.012</DOI>
-		<JournalName>Molecular Plant</JournalName>
-		<JournalVolume>15</JournalVolume>
-		<JournalPages>1457-1469</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Lin X, Olave-Achury A, Heal R, Pais M, Witek K, Ahn H, Zhao H, Bhanvadia S, Karki HS, Song T, Wu C, Adachi H, Kamoun S, Vleeshouwers VG, Jones JD</ContributorList>
-		<Year>2022</Year>
-		<Month>9</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.15252/embj.2022111484</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Effector‐dependent activation and oligomerization of plant NRC class helper NLRs by sensor NLR immune receptors Rpi‐amr3 and Rpi‐amr1</Title>
-		<DOI>10.15252/embj.2022111484</DOI>
-		<JournalName>The EMBO Journal</JournalName>
-		<JournalVolume>42</JournalVolume>
-		<JournalPages />
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Ahn H, Lin X, Olave‐Achury AC, Derevnina L, Contreras MP, Kourelis J, Wu C, Kamoun S, Jones JDG</ContributorList>
-		<Year>2023</Year>
-		<Month>1</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41588-023-01486-9</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Solanum americanum genome-assisted discovery of immune receptors that detect potato late blight pathogen effectors</Title>
-		<DOI>10.1038/s41588-023-01486-9</DOI>
-		<JournalName>Nature Genetics</JournalName>
-		<JournalVolume>55</JournalVolume>
-		<JournalPages>1579-1588</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Lin X, Jia Y, Heal R, Prokchorchik M, Sindalovskaya M, Olave-Achury A, Makechemu M, Fairhead S, Noureen A, Heo J, Witek K, Smoker M, Taylor J, Shrestha R, Lee Y, Zhang C, Park SJ, Sohn KH, Huang S, Jones JDG</ContributorList>
-		<Year>2023</Year>
-		<Month>8</Month>
-		<Day>28</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41588-023-01550-4</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Publisher Correction: Solanum americanum genome-assisted discovery of immune receptors that detect potato late blight pathogen effectors</Title>
-		<DOI>10.1038/s41588-023-01550-4</DOI>
-		<JournalName>Nature Genetics</JournalName>
-		<JournalVolume>55</JournalVolume>
-		<JournalPages>1779-1779</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Lin X, Jia Y, Heal R, Prokchorchik M, Sindalovskaya M, Olave-Achury A, Makechemu M, Fairhead S, Noureen A, Heo J, Witek K, Smoker M, Taylor J, Shrestha R, Lee Y, Zhang C, Park SJ, Sohn KH, Huang S, Jones JDG</ContributorList>
-		<Year>2023</Year>
-		<Month>9</Month>
-		<Day>25</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2025.10.31.685743</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Diverse haplotypes at a complex Solanum americanum locus confer resistance to Phytophthora infestans and P. capsici</Title>
-		<DOI>10.1101/2025.10.31.685743</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Heal R, Olave-Achury AC, Sindalovskaya M, Long L, Karki HS, Taylor J, Wawryk-Khamdavong A, Bachowska K, Smoker M, Alam M, Pottinger S, Arora V, Sohn K, Witek K, Lin X, Jones JDG</ContributorList>
-		<Year>2025</Year>
-		<Month>10</Month>
-		<Day>31</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1186/gb-2001-2-12-reports4030</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -10966,7 +10847,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>425</JournalVolume>
 		<JournalPages>805-811</JournalPages>
-		<ContributorIds>birdc</ContributorIds>
+		<ContributorIds>hir26fap, birdc</ContributorIds>
 		<ContributorList>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JGR, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RIS, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJR, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJF, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S</ContributorList>
 		<Year>2003</Year>
 		<Month>10</Month>
@@ -11823,23 +11704,6 @@
 		<Month>4</Month>
 		<Day>3</Day>
 		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2025.10.03.678719</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Single-cell sequencing reveals unexpected genetic diversity among Bodo spp. flagellates and their bacterial endosymbionts</Title>
-		<DOI>10.1101/2025.10.03.678719</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>warring, mcgowan, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln</ContributorIds>
-		<ContributorList>Warring SD, McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, Gharbi K, McTaggart S, Richards TA, Swarbreck D, Hall N</ContributorList>
-		<Year>2025</Year>
-		<Month>10</Month>
-		<Day>3</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/S0140-6736(05)72006-7</id>
@@ -14544,6 +14408,23 @@
 		<Year>2024</Year>
 		<Month>11</Month>
 		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.10.03.678719</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Single-cell sequencing reveals unexpected genetic diversity among Bodo spp. flagellates and their bacterial endosymbionts</Title>
+		<DOI>10.1101/2025.10.03.678719</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>warring, mcgowan, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln</ContributorIds>
+		<ContributorList>Warring SD, McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, Gharbi K, McTaggart S, Richards TA, Swarbreck D, Hall N</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>3</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -18335,7 +18216,7 @@
 		<JournalName>Annals of Botany</JournalName>
 		<JournalVolume>133</JournalVolume>
 		<JournalPages>349-364</JournalPages>
-		<ContributorIds>olaveac, devegaj</ContributorIds>
+		<ContributorIds>devegaj</ContributorIds>
 		<ContributorList>Higgins J, Osorio-Guarín JA, Olave-Achury C, Toloza-Moreno DL, Enriquez A, Di Palma F, Yockteng R, De Vega JJ</ContributorList>
 		<Year>2023</Year>
 		<Month>12</Month>
@@ -18998,7 +18879,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>olaveac, devegaj</ContributorIds>
+		<ContributorIds>devegaj</ContributorIds>
 		<ContributorList>Higgins J, Osorio-Guarín JA, Olave-Achury C, Toloza-Moreno DL, Enriquez A, Palma FD, Yockteng R, De Vega JJ</ContributorList>
 		<Year>2023</Year>
 		<Month>6</Month>
@@ -40019,7 +39900,7 @@
 		<JournalName>Journal of Public Health</JournalName>
 		<JournalVolume>43</JournalVolume>
 		<JournalPages>e749-e750</JournalPages>
-		<ContributorIds>cosseys, gharbik, halln, lipscomj, nshearer</ContributorIds>
+		<ContributorIds>cosseys, hir26fap, gharbik, halln, lipscomj, nshearer</ContributorIds>
 		<ContributorList>Berger Gillam T, Chin J, Cossey S, Culley K, Davidson RK, Edwards DR, Gharbi K, Goodwin N, Hall N, Hitchcock M, Jupp OJ, Lipscombe J, Parr G, Shearer N, Smith R, Steel N</ContributorList>
 		<Year>2021</Year>
 		<Month>4</Month>
