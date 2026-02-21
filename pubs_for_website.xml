@@ -857,57 +857,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1128/mbio.00300-15</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Identification of Metabolic Signatures Linked to Anti-Inflammatory Effects of Faecalibacterium prausnitzii</Title>
-		<DOI>10.1128/mbio.00300-15</DOI>
-		<JournalName>mBio</JournalName>
-		<JournalVolume>6</JournalVolume>
-		<JournalPages />
-		<ContributorIds>raguidea</ContributorIds>
-		<ContributorList>Miquel S, Leclerc M, Martin R, Chain F, Lenoir M, Raguideau S, Hudault S, Bridonneau C, Northen T, Bowen B, Bermúdez-Humarán LG, Sokol H, Thomas M, Langella P</ContributorList>
-		<Year>2015</Year>
-		<Month>5</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1371/journal.pcbi.1005252</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Inferring Aggregated Functional Traits from Metagenomic Data Using Constrained Non-negative Matrix Factorization: Application to Fiber Degradation in the Human Gut Microbiota</Title>
-		<DOI>10.1371/journal.pcbi.1005252</DOI>
-		<JournalName>PLOS Computational Biology</JournalName>
-		<JournalVolume>12</JournalVolume>
-		<JournalPages>e1005252</JournalPages>
-		<ContributorIds>raguidea</ContributorIds>
-		<ContributorList>Raguideau S, Plancade S, Pons N, Leclerc M, Laroche B</ContributorList>
-		<Year>2016</Year>
-		<Month>12</Month>
-		<Day>16</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.17504/protocols.io.rm7vzjqo8lx1/v2</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Soil Metagenome PacBio V2 v2</Title>
-		<DOI>10.17504/protocols.io.rm7vzjqo8lx1/v2</DOI>
-		<JournalName>protocols.io</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>raguidea, galabone, quince</ContributorIds>
-		<ContributorList>S James R, Benoit G, raguideau s, Alabone G, Quince C</ContributorList>
-		<Year>2024</Year>
-		<Month>8</Month>
-		<Day>15</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/j.tpb.2003.10.003</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1971,7 +1920,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>18</JournalVolume>
 		<JournalPages />
-		<ContributorIds>quince, raguidea</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Quince C, Delmont TO, Raguideau S, Alneberg J, Darling AE, Collins G, Eren AM</ContributorList>
 		<Year>2017</Year>
 		<Month>9</Month>
@@ -2175,7 +2124,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Uluseker C, Raguideau S, Quince C, Kreft J</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -2192,7 +2141,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>26</JournalVolume>
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Cole J, Raguideau S, Abbaszadeh-Dahaji P, Hilton S, Muscatt G, Mushinski RM, Nilsson RH, Ryan MH, Quince C, Bending GD</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -11791,6 +11740,23 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.18272/aci.v13i2.2255</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>CyberColombia: a Regional Initiative to Teach HPC and Computational Sciences</Title>
+		<DOI>10.18272/aci.v13i2.2255</DOI>
+		<JournalName>ACI Avances en Ciencias e Ingenierías</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages>9</JournalPages>
+		<ContributorIds>devegaj</ContributorIds>
+		<ContributorList>Hernández Barragán E, Alvarez CE, Mallarino JP, De  Vega JJ, Varela CA</ContributorList>
+		<Year>2021</Year>
+		<Month>12</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.10.09.617134</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -11890,23 +11856,6 @@
 		<Year>2025</Year>
 		<Month>10</Month>
 		<Day>24</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/g3journal/jkag033</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A haplotype-complete chromosome-level assembly of octoploid Urochloa humidicola cv. Tully reveals multiple genomic compositions and evolutionary histories in the species</Title>
-		<DOI>10.1093/g3journal/jkag033</DOI>
-		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>devegaj, durrant, irishn, barkert</ContributorIds>
-		<ContributorList>De Vega JJ, Durrant A, Irish N, Barker T, Jauregui RN</ContributorList>
-		<Year>2026</Year>
-		<Month>2</Month>
-		<Day>12</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -15190,6 +15139,23 @@
 		<Year>2025</Year>
 		<Month>8</Month>
 		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/g3journal/jkag033</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A haplotype-complete chromosome-level assembly of octoploid Urochloa humidicola cv. Tully reveals multiple genomic compositions and evolutionary histories in the species</Title>
+		<DOI>10.1093/g3journal/jkag033</DOI>
+		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>devegaj, durrant, irishn, barkert</ContributorIds>
+		<ContributorList>De Vega JJ, Durrant A, Irish N, Barker T, Jauregui RN</ContributorList>
+		<Year>2026</Year>
+		<Month>2</Month>
+		<Day>12</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -19900,7 +19866,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Duxbury SJ, Raguideau S, Cremin K, Rosko J, Coates M, Randall K, Chen J, Quince C, Soyer OS</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -19917,7 +19883,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Muscatt G, Hilton S, Raguideau S, Teakle G, Lidbury IDEA, Wellington EMH, Quince C, Millard A, Bending GD, Jameson E</ContributorList>
 		<Year>2022</Year>
 		<Month>4</Month>
@@ -21470,7 +21436,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Raguideau S, Trego A, Farrell F, Collins G, Quince C, Soyer OS</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -21574,7 +21540,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Lidbury ID, Raguideau S, Liu S, Murphy ARJ, Stark R, Borsetto C, Fraser T, Goodall A, Bottrill A, Jones A, Bending GD, Tibbet M, Hammond JP, Quince C, Scanlan DJ, Pandhal J, Wellington EMH</ContributorList>
 		<Year>2021</Year>
 		<Month>9</Month>
@@ -23666,7 +23632,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Sheridan PO, Raguideau S, Quince C, Holden J, Zhang L, Thames Consortium, Gaze WH, Holden J, Mead A, Raguideau S, Quince C, Singer AC, Wellington EMH, Zhang L, Williams TA, Gubry-Rangin C</ContributorList>
 		<Year>2020</Year>
 		<Month>10</Month>
@@ -39864,7 +39830,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince, jamesro, rjames</ContributorIds>
+		<ContributorIds>quince, jamesro, raguidea, rjames</ContributorIds>
 		<ContributorList>Delaney J, Raguideau S, Holden J, Zhang L, Tipper H, Hill G, Klümper U, Zhang T, Cha C, Lee K, James R, Travis E, Bowes M, Hawkey P, Lindstrom H, Tang C, Gaze W, Mead A, Quince C, Singer A, Wellington E</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -40102,7 +40068,7 @@
 		<JournalName>Water Research</JournalName>
 		<JournalVolume>201</JournalVolume>
 		<JournalPages>117382</JournalPages>
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince, raguidea</ContributorIds>
 		<ContributorList>Borsetto C, Raguideau S, Travis E, Kim D, Lee D, Bottrill A, Stark R, Song L, Cha C, Pearson J, Quince C, Singer AC, Wellington EM</ContributorList>
 		<Year>2021</Year>
 		<Month>8</Month>
@@ -41345,7 +41311,7 @@
 		<JournalName>Microbiome</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince, raguidea</ContributorIds>
 		<ContributorList>Muscatt G, Hilton S, Raguideau S, Teakle G, Lidbury IDEA, Wellington EMH, Quince C, Millard A, Bending GD, Jameson E</ContributorList>
 		<Year>2022</Year>
 		<Month>10</Month>
@@ -41651,7 +41617,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>14</JournalVolume>
 		<JournalPages />
-		<ContributorIds>raguidea, hildebrf, quince</ContributorIds>
+		<ContributorIds>hildebrf, quince, raguidea</ContributorIds>
 		<ContributorList>Lee K, Raguideau S, Sirén K, Asnicar F, Cumbo F, Hildebrand F, Segata N, Cha C, Quince C</ContributorList>
 		<Year>2023</Year>
 		<Month>3</Month>
@@ -41872,7 +41838,7 @@
 		<JournalName>Nature Biotechnology</JournalName>
 		<JournalVolume>42</JournalVolume>
 		<JournalPages>1378-1383</JournalPages>
-		<ContributorIds>raguidea, quince, jamesro, rjames</ContributorIds>
+		<ContributorIds>quince, jamesro, raguidea, rjames</ContributorIds>
 		<ContributorList>Benoit G, Raguideau S, James R, Phillippy AM, Chikhi R, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>1</Month>
@@ -42212,7 +42178,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince, raguidea</ContributorIds>
 		<ContributorList>Cole J, Raguideau S, Abbaszadeh-Dahaji P, Hilton S, Muscatt G, Mushinski RM, Nilsson RH, Ryan MH, Quince C, Bending GD</ContributorList>
 		<Year>2024</Year>
 		<Month>11</Month>
@@ -42280,7 +42246,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>quince, raguidea</ContributorIds>
 		<ContributorList>O’Grady CJ, Hilton S, Picot E, Raguideau S, Quince C, van der Gast CJ, Schäfer H, Bending GD</ContributorList>
 		<Year>2025</Year>
 		<Month>4</Month>
