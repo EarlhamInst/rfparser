@@ -14649,6 +14649,176 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1111/nph.19289</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>ER body‐resident myrosinases and tryptophan specialized metabolism modulate root microbiota assembly</Title>
+		<DOI>10.1111/nph.19289</DOI>
+		<JournalName>New Phytologist</JournalName>
+		<JournalVolume>241</JournalVolume>
+		<JournalPages>329-342</JournalPages>
+		<ContributorIds />
+		<ContributorList>Basak AK, Piasecka A, Hucklenbroich J, Türksoy GM, Guan R, Zhang P, Getzke F, Garrido‐Oter R, Hacquard S, Strzałka K, Bednarek P, Yamada K, Nakano RT</ContributorList>
+		<Year>2023</Year>
+		<Month>9</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41564-024-01619-8</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Chromosomal barcodes for simultaneous tracking of near-isogenic bacterial strains in plant microbiota</Title>
+		<DOI>10.1038/s41564-024-01619-8</DOI>
+		<JournalName>Nature Microbiology</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages>1117-1129</JournalPages>
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Ordon J, Thouin J, Nakano RT, Ma K, Zhang P, Huettel B, Garrido-Oter R, Schulze-Lefert P</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.chom.2024.02.014</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Sugar transporters spatially organize microbiota colonization along the longitudinal root axis of Arabidopsis</Title>
+		<DOI>10.1016/j.chom.2024.02.014</DOI>
+		<JournalName>Cell Host &amp;amp; Microbe</JournalName>
+		<JournalVolume>32</JournalVolume>
+		<JournalPages>543-556.e6</JournalPages>
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Loo EP, Durán P, Pang TY, Westhoff P, Deng C, Durán C, Lercher M, Garrido-Oter R, Frommer WB</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41564-024-01833-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Community standards and future opportunities for synthetic communities in plant–microbiota research</Title>
+		<DOI>10.1038/s41564-024-01833-4</DOI>
+		<JournalName>Nature Microbiology</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages>2774-2784</JournalPages>
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Northen TR, Kleiner M, Torres M, Kovács ÁT, Nicolaisen MH, Krzyżanowska DM, Sharma S, Lund G, Jelsbak L, Baars O, Kindtler NL, Wippel K, Dinesen C, Ferrarezi JA, Marian M, Pioppi A, Xu X, Andersen T, Geldner N, Schulze-Lefert P, Vorholt JA, Garrido-Oter R</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day>30</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/nph.20250</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>From synthetic communities to synthetic ecosystems: exploring causalities in plant–microbe–environment interactions</Title>
+		<DOI>10.1111/nph.20250</DOI>
+		<JournalName>New Phytologist</JournalName>
+		<JournalVolume>245</JournalVolume>
+		<JournalPages>496-502</JournalPages>
+		<ContributorIds />
+		<ContributorList>Chesneau G, Herpell J, Garrido‐Oter R, Hacquard S</ContributorList>
+		<Year>2024</Year>
+		<Month>11</Month>
+		<Day>5</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41477-025-01918-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Conserved immunomodulation and variation in host association by Xanthomonadales commensals in Arabidopsis root microbiota</Title>
+		<DOI>10.1038/s41477-025-01918-w</DOI>
+		<JournalName>Nature Plants</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages>612-631</JournalPages>
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Ordon J, Logemann E, Maier L, Lee T, Dahms E, Oosterwijk A, Flores-Uribe J, Miyauchi S, Paoli L, Stolze SC, Nakagami H, Felix G, Garrido-Oter R, Ma K, Schulze-Lefert P</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.cell.2025.03.033</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Root microbiota regulates tiller number in rice</Title>
+		<DOI>10.1016/j.cell.2025.03.033</DOI>
+		<JournalName>Cell</JournalName>
+		<JournalVolume>188</JournalVolume>
+		<JournalPages>3152-3166.e16</JournalPages>
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Zhang J, Wang B, Xu H, Liu W, Yu J, Wang Q, Yu H, Wei J, Dai R, Zhou J, He Y, Zou D, Yang J, Ban X, Hu Q, Meng X, Liu Y, Wang B, Hu B, Wang M, Xin P, Chu J, Li C, Garrido-Oter R, Yu P, van Dijk ADJ, Dong L, Bouwmeester H, Gao S, Huang A, Chu C, Li J, Bai Y</ContributorList>
+		<Year>2025</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.08.25.672100</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Darwin21 Genome Database: A Curated Whole-Genome Repository of Endophytic Bacteria from Desert Plants</Title>
+		<DOI>10.1101/2025.08.25.672100</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Parween S, Nagarajan AP, Alghamdi AK, Eida AA, Lafi FF, Albanna L, Salem N, Abu-Irmaileh B, Pirzada ZA, Siddique S, Garrido-Oter R, Schulze-Lefert P, Saad MM, Hirt H</ContributorList>
+		<Year>2025</Year>
+		<Month>8</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41564-025-02131-3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A nitrogen-fixing bacterium forms symbioses on land and at sea</Title>
+		<DOI>10.1038/s41564-025-02131-3</DOI>
+		<JournalName>Nature Microbiology</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages>2363-2364</JournalPages>
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Garrido-Oter R</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>17</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/msystems.00564-25</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Integrated diversity and network analyses reveal drivers of microbiome dynamics</Title>
+		<DOI>10.1128/msystems.00564-25</DOI>
+		<JournalName>mSystems</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds>garrido</ContributorIds>
+		<ContributorList>Guan R, Garrido-Oter R</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2025.04.22.649928</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
