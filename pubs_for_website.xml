@@ -14649,6 +14649,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/bioinformatics/btaf271</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>ISMB/ECCB 2025 Proceedings</Title>
+		<DOI>10.1093/bioinformatics/btaf271</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages>i1-i2</JournalPages>
+		<ContributorIds />
+		<ContributorList>Borgwardt K, Milenković T</ContributorList>
+		<Year>2025</Year>
+		<Month>7</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/nph.19289</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
