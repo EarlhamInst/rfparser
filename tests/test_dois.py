@@ -14,12 +14,13 @@ def test_DOI():
     doi = DOI(doi_str)
     assert str(doi) == doi_str
     assert doi == DOI(doi_str.lower())
+    assert doi.startswith(doi_str[:12])
     with pytest.raises(ValueError, match="no DOI"):
         DOI("")
     with pytest.raises(ValueError, match="malformed DOI"):
         DOI("foo")
-    assert doi.startswith(doi_str[:12])
-    assert not doi.startswith("foo")
+    with pytest.raises(ValueError, match="A DOI should start with '10.'"):
+        DOI(".1128/AEM.72.1.946-949.2006")
 
 
 def test_get_dois_RA():

@@ -90,7 +90,8 @@ UNPAYWALL_OA_STATUS_TO_XML_OPENACCESS = {
     "green": "Green Open Access",
     "hybrid": "Gold Open Access",
 }
-VALID_DOI = re.compile(r"[\d.]+/.+")
+# DOI regular expression based on the DOI Handbook
+VALID_DOI = re.compile(r"\d+(\.\d+)*/.+")
 VALID_ORCID_ID = re.compile(r"^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$")
 
 log = logging.getLogger(__name__)
@@ -176,7 +177,7 @@ class DOI(str):
     def __new__(cls, doi: str | None) -> "Self":
         """
         Sanitise a DOI, see
-        https://www.doi.org/doi-handbook/DOI_Handbook_Final.pdf
+        https://www.doi.org/doi-handbook/html/
         """
         doi = (doi or "").strip()
         if doi in ("", "A", "NA", "n/a"):
@@ -184,7 +185,11 @@ class DOI(str):
         match = VALID_DOI.search(doi)
         if not match:
             raise ValueError("malformed DOI")
-        return super().__new__(cls, match.group(0))
+        match_str = match.group(0)
+        # All real DOIs actually start with "10."
+        if not match_str.startswith("10."):
+            raise ValueError("A DOI should start with '10.'")
+        return super().__new__(cls, match_str)
 
     def lower(self) -> str:
         # Change only ASCII characters to lowercase
