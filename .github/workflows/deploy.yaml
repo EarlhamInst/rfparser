@@ -7,10 +7,13 @@ on:
 concurrency:
   group: deploy-${{ github.ref }}
   cancel-in-progress: true
+permissions: {}
 jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v7
         with:
@@ -39,6 +42,8 @@ jobs:
           NBIROS_PUB_EXPORT_XML_URL: ${{ secrets.NBIROS_PUB_EXPORT_XML_URL }}
           PEOPLE_DATA_CSV_URL: ${{ secrets.PEOPLE_DATA_CSV_URL }}
           ORCID_ACCESS_TOKEN: ${{ secrets.ORCID_ACCESS_TOKEN }}
+      # Split in a separate job with upload/download-artifact actions to
+      # restrict `content: write` permissions only to this part of the workflow?
       - name: Upload to 'artifacts' branch
         uses: s0/git-publish-subdir-action@develop
         env:
