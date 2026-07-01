@@ -3579,125 +3579,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2022.04.25.489359</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Effector-dependent activation and oligomerization of NRC helper NLRs by Rpi-amr3 and Rpi-amr1</Title>
-		<DOI>10.1101/2022.04.25.489359</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Ahn H, Lin X, Olave-Achury AC, Derevnina L, Contreras MP, Kourelis J, Kamoun S, Jones JDG</ContributorList>
-		<Year>2022</Year>
-		<Month>4</Month>
-		<Day>25</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1094/phyto-04-21-0158-r</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Phenotypic and Genotypic Characterization of Phytophthora infestans Isolates Associated with Tomato and Potato Crops in Colombia</Title>
-		<DOI>10.1094/phyto-04-21-0158-r</DOI>
-		<JournalName>Phytopathology®</JournalName>
-		<JournalVolume>112</JournalVolume>
-		<JournalPages>1783-1794</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Olave-Achury A, Cardenas D, Restrepo S, Lucca F, Fry WE, Myers KL, Danies G, Soto-Suarez M</ContributorList>
-		<Year>2022</Year>
-		<Month>8</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.molp.2022.07.012</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A potato late blight resistance gene protects against multiple Phytophthora species by recognizing a broadly conserved RXLR-WY effector</Title>
-		<DOI>10.1016/j.molp.2022.07.012</DOI>
-		<JournalName>Molecular Plant</JournalName>
-		<JournalVolume>15</JournalVolume>
-		<JournalPages>1457-1469</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Lin X, Olave-Achury A, Heal R, Pais M, Witek K, Ahn H, Zhao H, Bhanvadia S, Karki HS, Song T, Wu C, Adachi H, Kamoun S, Vleeshouwers VG, Jones JD</ContributorList>
-		<Year>2022</Year>
-		<Month>9</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.15252/embj.2022111484</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Effector‐dependent activation and oligomerization of plant NRC class helper NLRs by sensor NLR immune receptors Rpi‐amr3 and Rpi‐amr1</Title>
-		<DOI>10.15252/embj.2022111484</DOI>
-		<JournalName>The EMBO Journal</JournalName>
-		<JournalVolume>42</JournalVolume>
-		<JournalPages />
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Ahn H, Lin X, Olave‐Achury AC, Derevnina L, Contreras MP, Kourelis J, Wu C, Kamoun S, Jones JDG</ContributorList>
-		<Year>2023</Year>
-		<Month>1</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41588-023-01486-9</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Solanum americanum genome-assisted discovery of immune receptors that detect potato late blight pathogen effectors</Title>
-		<DOI>10.1038/s41588-023-01486-9</DOI>
-		<JournalName>Nature Genetics</JournalName>
-		<JournalVolume>55</JournalVolume>
-		<JournalPages>1579-1588</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Lin X, Jia Y, Heal R, Prokchorchik M, Sindalovskaya M, Olave-Achury A, Makechemu M, Fairhead S, Noureen A, Heo J, Witek K, Smoker M, Taylor J, Shrestha R, Lee Y, Zhang C, Park SJ, Sohn KH, Huang S, Jones JDG</ContributorList>
-		<Year>2023</Year>
-		<Month>8</Month>
-		<Day>28</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41588-023-01550-4</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Publisher Correction: Solanum americanum genome-assisted discovery of immune receptors that detect potato late blight pathogen effectors</Title>
-		<DOI>10.1038/s41588-023-01550-4</DOI>
-		<JournalName>Nature Genetics</JournalName>
-		<JournalVolume>55</JournalVolume>
-		<JournalPages>1779-1779</JournalPages>
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Lin X, Jia Y, Heal R, Prokchorchik M, Sindalovskaya M, Olave-Achury A, Makechemu M, Fairhead S, Noureen A, Heo J, Witek K, Smoker M, Taylor J, Shrestha R, Lee Y, Zhang C, Park SJ, Sohn KH, Huang S, Jones JDG</ContributorList>
-		<Year>2023</Year>
-		<Month>9</Month>
-		<Day>25</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2025.10.31.685743</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Diverse haplotypes at a complex Solanum americanum locus confer resistance to Phytophthora infestans and P. capsici</Title>
-		<DOI>10.1101/2025.10.31.685743</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>olaveac</ContributorIds>
-		<ContributorList>Heal R, Olave-Achury AC, Sindalovskaya M, Long L, Karki HS, Taylor J, Wawryk-Khamdavong A, Bachowska K, Smoker M, Alam M, Pottinger S, Arora V, Sohn K, Witek K, Lin X, Jones JDG</ContributorList>
-		<Year>2025</Year>
-		<Month>10</Month>
-		<Day>31</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1186/1471-2105-8-s8-p4</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -5569,312 +5450,6 @@
 		<Month>5</Month>
 		<Day>29</Day>
 		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/genomea.00789-17</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Draft Genome Sequence of Dermatophagoides pteronyssinus , the European House Dust Mite</Title>
-		<DOI>10.1128/genomea.00789-17</DOI>
-		<JournalName>Genome Announcements</JournalName>
-		<JournalVolume>5</JournalVolume>
-		<JournalPages />
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Waldron R, McGowan J, Gordon N, McCarthy C, Mitchell EB, Doyle S, Fitzpatrick DA</ContributorList>
-		<Year>2017</Year>
-		<Month>8</Month>
-		<Day>10</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/mSphere.00408-17</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genomic, Network, and Phylogenetic Analysis of the Oomycete Effector Arsenal</Title>
-		<DOI>10.1128/mSphere.00408-17</DOI>
-		<JournalName>mSphere</JournalName>
-		<JournalVolume>2</JournalVolume>
-		<JournalPages />
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>McGowan J, Fitzpatrick DA</ContributorList>
-		<Year>2017</Year>
-		<Month>12</Month>
-		<Day>27</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/gbe/evy267</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Comparative Analysis of Oomycete Genome Evolution Using the Oomycete Gene Order Browser (OGOB)</Title>
-		<DOI>10.1093/gbe/evy267</DOI>
-		<JournalName>Genome Biology and Evolution</JournalName>
-		<JournalVolume>11</JournalVolume>
-		<JournalPages>189-206</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>McGowan J, Byrne KP, Fitzpatrick DA</ContributorList>
-		<Year>2018</Year>
-		<Month>12</Month>
-		<Day>11</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1099/acmi.ac2019.po0550</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Proteomic analysis of three ubiquitous phytophthora species threatening global forest ecosystems</Title>
-		<DOI>10.1099/acmi.ac2019.po0550</DOI>
-		<JournalName>Access Microbiology</JournalName>
-		<JournalVolume>1</JournalVolume>
-		<JournalPages />
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>McGowan J, O’Connor E, O’Hanlon R, Owens RA, Fitzpatrick DA</ContributorList>
-		<Year>2019</Year>
-		<Month>3</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1371/journal.pone.0216171</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Proteome and allergenome of the European house dust mite Dermatophagoides pteronyssinus</Title>
-		<DOI>10.1371/journal.pone.0216171</DOI>
-		<JournalName>PLOS ONE</JournalName>
-		<JournalVolume>14</JournalVolume>
-		<JournalPages>e0216171</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Waldron R, McGowan J, Gordon N, McCarthy C, Mitchell EB, Fitzpatrick DA</ContributorList>
-		<Year>2019</Year>
-		<Month>5</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1534/genetics.119.302277</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Control of Development, Secondary Metabolism and Light-Dependent Carotenoid Biosynthesis by the Velvet Complex of Neurospora crassa</Title>
-		<DOI>10.1534/genetics.119.302277</DOI>
-		<JournalName>Genetics</JournalName>
-		<JournalVolume>212</JournalVolume>
-		<JournalPages>691-710</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Bayram ÖS, Dettmann A, Karahoda B, Moloney NM, Ormsby T, McGowan J, Cea-Sánchez S, Miralles-Durán A, Brancini GTP, Luque EM, Fitzpatrick DA, Cánovas D, Corrochano LM, Doyle S, Selker EU, Seiler S, Bayram Ö</ContributorList>
-		<Year>2019</Year>
-		<Month>5</Month>
-		<Day>8</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.ibmb.2019.103242</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Characterisation of three novel β-1,3 glucanases from the medically important house dust mite Dermatophagoides pteronyssinus (airmid)</Title>
-		<DOI>10.1016/j.ibmb.2019.103242</DOI>
-		<JournalName>Insect Biochemistry and Molecular Biology</JournalName>
-		<JournalVolume>115</JournalVolume>
-		<JournalPages>103242</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Waldron R, McGowan J, Gordon N, Mitchell EB, Fitzpatrick DA, Doyle S</ContributorList>
-		<Year>2019</Year>
-		<Month>12</Month>
-		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1534/g3.119.400563</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Whole Genome Sequence of the Commercially Relevant Mushroom StrainAgaricus bisporusvar.bisporusARP23</Title>
-		<DOI>10.1534/g3.119.400563</DOI>
-		<JournalName>G3 Genes|Genomes|Genetics</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages>3057-3066</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>O’Connor E, McGowan J, McCarthy CGP, Amini A, Grogan H, Fitzpatrick DA</ContributorList>
-		<Year>2019</Year>
-		<Month>10</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3390/microorganisms8050653</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Comparative Genomic and Proteomic Analyses of Three Widespread Phytophthora Species: Phytophthora chlamydospora, Phytophthora gonapodyides and Phytophthora pseudosyringae</Title>
-		<DOI>10.3390/microorganisms8050653</DOI>
-		<JournalName>Microorganisms</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages>653</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>McGowan J, O’Hanlon R, Owens RA, Fitzpatrick DA</ContributorList>
-		<Year>2020</Year>
-		<Month>4</Month>
-		<Day>30</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/g3journal/jkab211</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genomic diversity, chromosomal rearrangements, and interspecies hybridization in the Ogataea polymorpha species complex</Title>
-		<DOI>10.1093/g3journal/jkab211</DOI>
-		<JournalName>G3</JournalName>
-		<JournalVolume>11</JournalVolume>
-		<JournalPages />
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Hanson SJ, Cinnéide EÓ, Salzberg LI, Wolfe KH, McGowan J, Fitzpatrick DA, Matlin K</ContributorList>
-		<Year>2021</Year>
-		<Month>6</Month>
-		<Day>18</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3389/fmicb.2021.765872</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Dual-Transcriptomic, Microscopic, and Biocontrol Analyses of the Interaction Between the Bioeffector Pythium oligandrum and the Pythium Soft-Rot of Ginger Pathogen Pythium myriotylum</Title>
-		<DOI>10.3389/fmicb.2021.765872</DOI>
-		<JournalName>Frontiers in Microbiology</JournalName>
-		<JournalVolume>12</JournalVolume>
-		<JournalPages />
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Daly P, Chen S, Xue T, Li J, Sheikh TMM, Zhang Q, Wang X, Zhang J, Fitzpatrick DA, McGowan J, Shi X, Deng S, Jiu M, Zhou D, Druzhinina IS, Wei L</ContributorList>
-		<Year>2021</Year>
-		<Month>11</Month>
-		<Day>16</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/spectrum.02268-21</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genome of Pythium myriotylum Uncovers an Extensive Arsenal of Virulence-Related Genes among the Broad-Host-Range Necrotrophic Pythium Plant Pathogens</Title>
-		<DOI>10.1128/spectrum.02268-21</DOI>
-		<JournalName>Microbiology Spectrum</JournalName>
-		<JournalVolume>10</JournalVolume>
-		<JournalPages />
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Daly P, Zhou D, Shen D, Chen Y, Xue T, Chen S, Zhang Q, Zhang J, McGowan J, Cai F, Pang G, Wang N, Sheikh TMM, Deng S, Li J, Soykam HO, Kara I, Fitzpatrick DA, Druzhinina IS, Bayram Akcapinar G, Wei L</ContributorList>
-		<Year>2022</Year>
-		<Month>8</Month>
-		<Day>31</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1371/journal.pgen.1010502</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>F-box receptor mediated control of substrate stability and subcellular location organizes cellular development of Aspergillus nidulans</Title>
-		<DOI>10.1371/journal.pgen.1010502</DOI>
-		<JournalName>PLOS Genetics</JournalName>
-		<JournalVolume>18</JournalVolume>
-		<JournalPages>e1010502</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Sarikaya Bayram Ö, Bayram Ö, Karahoda B, Meister C, Köhler AM, Thieme S, Elramli N, Frawley D, McGowan J, Fitzpatrick DA, Schmitt K, de Assis LJ, Valerius O, Goldman GH, Braus GH</ContributorList>
-		<Year>2022</Year>
-		<Month>12</Month>
-		<Day>12</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.12688/wellcomeopenres.20189.1</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The genome sequence of the Heterolobosean amoeboflagellate, Tetramitus jugosus CCAP 1588/3C</Title>
-		<DOI>10.12688/wellcomeopenres.20189.1</DOI>
-		<JournalName>Wellcome Open Research</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages>513</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Green DH, Rad-Menéndez C, Culture Collection of Algae and Protozoa collective, Earlham Institute Genome Acquisition Lab and Protists Project, University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life programme, Wellcome Sanger Institute Scientific Operations: DNA Pipelines collective, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium</ContributorList>
-		<Year>2023</Year>
-		<Month>11</Month>
-		<Day>10</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.12688/wellcomeopenres.20190.1</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The genome sequence of the chlorophyte Dunaliella primolecta CCAP 11/34 (Butcher, 1959)</Title>
-		<DOI>10.12688/wellcomeopenres.20190.1</DOI>
-		<JournalName>Wellcome Open Research</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages>523</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Rad-Menéndez C, Green DH, Culture Collection of Algae and Protozoa collective, Earlham Institute Genome Acquisition Lab and Protists Project, University of Oxford and Wytham Woods Genome Acquisition Lab, Wellcome Sanger Institute Tree of Life programme, Wellcome Sanger Institute Scientific Operations: DNA Pipelines collective, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium</ContributorList>
-		<Year>2023</Year>
-		<Month>11</Month>
-		<Day>13</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.12688/wellcomeopenres.20345.1</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The genome sequence of Pycnococcus provasolii (CCAP190/2) (Guillard, 1991)</Title>
-		<DOI>10.12688/wellcomeopenres.20345.1</DOI>
-		<JournalName>Wellcome Open Research</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages>520</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Green DH, Rad-Menéndez C, Campbell C, Kilias ES, Culture Collection of Algae and Protozoa collective, University of Oxford and Wytham Woods Genome Acquisition Lab, Earlham Institute Genome Acquisition Lab and Protists Project, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life programme, Wellcome Sanger Institute Scientific Operations: DNA Pipelines collective, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium</ContributorList>
-		<Year>2023</Year>
-		<Month>11</Month>
-		<Day>13</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.12688/wellcomeopenres.22472.1</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The genome sequence of the chlorophyte Pseudopediastrum boryanum CCAP 291/2 (Turpin) E. Hegewald 2005</Title>
-		<DOI>10.12688/wellcomeopenres.22472.1</DOI>
-		<JournalName>Wellcome Open Research</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages>338</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Allen R, Rad-Menéndez C, Green DH, Campbell CN, De Boever F, Field J, MacKechnie K, Ross M, Saxon R, Thomas N, Culture Collection of Algae and Protozoa collective, University of Oxford and Wytham Woods Genome Acquisition Lab, Earlham Institute Genome Acquisition Lab and Protists Project, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium</ContributorList>
-		<Year>2024</Year>
-		<Month>6</Month>
-		<Day>24</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.12688/wellcomeopenres.22468.1</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The genome sequence of the chlorophyte Marvania coccoides CCAP 251/1B (Naumann) Henley, Hironaka, Guillou, M. Buchheim, J. Buchheim, M. Fawley &amp; K. Fawley 2004</Title>
-		<DOI>10.12688/wellcomeopenres.22468.1</DOI>
-		<JournalName>Wellcome Open Research</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages>334</JournalPages>
-		<ContributorIds>mcgowan</ContributorIds>
-		<ContributorList>Allen R, Rad-Menéndez C, Green DH, Campbell CN, De Boever F, Field J, MacKechnie K, Ross M, Saxon R, Thomas N, Culture Collection of Algae and Protozoa collective, University of Oxford and Wytham Woods Genome Acquisition Lab, Earlham Institute Genome Acquisition Lab and Protists Project, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium</ContributorList>
-		<Year>2024</Year>
-		<Month>6</Month>
-		<Day>24</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1042/bst0220953</id>
@@ -11987,7 +11562,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mcgowan, lipscomj, barkert, clissold, durrant, irishn, mctaggar, warring, gharbik, halln, swarbred</ContributorIds>
+		<ContributorIds>lipscomj, barkert, clissold, durrant, irishn, mctaggar, warring, gharbik, halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Lipscombe J, Kilias ES, Barker T, Catchpole L, Durrant A, Irish N, McTaggart S, Warring SD, Gharbi K, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2026</Year>
 		<Month>6</Month>
@@ -15988,7 +15563,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>warring, mcgowan, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln</ContributorIds>
+		<ContributorIds>warring, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln</ContributorIds>
 		<ContributorList>Warring SD, McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, Gharbi K, McTaggart S, Richards TA, Swarbreck D, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -16532,7 +16107,7 @@
 		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
 		<JournalVolume>15</JournalVolume>
 		<JournalPages />
-		<ContributorIds>denning, halla, devegaj</ContributorIds>
+		<ContributorIds>halla, devegaj</ContributorIds>
 		<ContributorList>Denning-James KE, Chater C, Cortés AJ, Blair MW, Peláez D, Hall A, De Vega JJ</ContributorList>
 		<Year>2025</Year>
 		<Month>4</Month>
@@ -16583,7 +16158,7 @@
 		<JournalName>eLife</JournalName>
 		<JournalVolume>14</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mcmullam, kaithakg, rel22vaz, lowr, warring, heavensd, peeln, swarbred, halln</ContributorIds>
+		<ContributorIds>mcmullam, kaithakg, rel22vaz, warring, heavensd, peeln, swarbred, halln</ContributorIds>
 		<ContributorList>McMullan M, Percival-Alwyn L, Kaithakottil GG, Gardiner L, Hill R, Yvanne H, Grey M, Sawford K, Ward SJ, Low R, Warring SD, Heavens D, Peel N, Kroboth J, Stevens M, Swarbreck D, Clark MD, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>4</Month>
@@ -16787,7 +16362,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mcgowan, halln, swarbred</ContributorIds>
+		<ContributorIds>halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2024</Year>
 		<Month>7</Month>
@@ -17467,7 +17042,7 @@
 		<JournalName>PLOS Neglected Tropical Diseases</JournalName>
 		<JournalVolume>19</JournalVolume>
 		<JournalPages>e0012801</JournalPages>
-		<ContributorIds>heavensd, lowr, halln</ContributorIds>
+		<ContributorIds>heavensd, halln</ContributorIds>
 		<ContributorList>Li Y, Pulford CV, Díaz P, Perez-Sepulveda BM, Duarte C, Predeus AV, Wiesner M, Heavens D, Low R, Schudoma C, Montaño A, Hall N, Moreno J, Hinton JCD</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -17518,7 +17093,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages>e1011512</JournalPages>
-		<ContributorIds>mcgowan, halln, swarbred</ContributorIds>
+		<ContributorIds>halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2024</Year>
 		<Month>12</Month>
@@ -17756,7 +17331,7 @@
 		<JournalName>Genome Biology and Evolution</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages />
-		<ContributorIds>rel22vaz, mcgowan, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, clissold, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
+		<ContributorIds>rel22vaz, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, clissold, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
 		<ContributorList>Hill R, McGowan J, Brabcová V, McTaggart S, Irish N, Barker T, Knitlhoffer V, Lucchini S, Baker K, Catchpole L, Watkins C, Gharbi K, Kaithakottil G, Tracey A, Wood JMD, Tomšovský M, Baldrian P, Swarbreck D, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -18062,7 +17637,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>denning, halla, devegaj</ContributorIds>
+		<ContributorIds>halla, devegaj</ContributorIds>
 		<ContributorList>Denning-James KE, Chater C, Cortés AJ, Blair MW, Peláez D, Hall A, De Vega JJ</ContributorList>
 		<Year>2024</Year>
 		<Month>10</Month>
@@ -19631,7 +19206,7 @@
 		<JournalName>Access Microbiology</JournalName>
 		<JournalVolume>4</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, lowr, lipscomj, watkinsc, nshearer, halln</ContributorIds>
+		<ContributorIds>heavensd, lipscomj, watkinsc, nshearer, halln</ContributorIds>
 		<ContributorList>Perez-Sepulveda B, Heavens D, Pulford C, Predeus A, Low R, Webster H, Dykes G, Schudoma C, Rowe W, Lipscombe J, Watkins C, Kumwenda B, Shearer N, Costigan K, Baker K, Feasey N, Hinton J, Hall N, The 10KSG Consortium</ContributorList>
 		<Year>2022</Year>
 		<Month>5</Month>
@@ -19682,7 +19257,7 @@
 		<JournalName>Annals of Botany</JournalName>
 		<JournalVolume>133</JournalVolume>
 		<JournalPages>349-364</JournalPages>
-		<ContributorIds>olaveac, devegaj</ContributorIds>
+		<ContributorIds>devegaj</ContributorIds>
 		<ContributorList>Higgins J, Osorio-Guarín JA, Olave-Achury C, Toloza-Moreno DL, Enriquez A, Di Palma F, Yockteng R, De Vega JJ</ContributorList>
 		<Year>2023</Year>
 		<Month>12</Month>
@@ -20345,7 +19920,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>olaveac, devegaj</ContributorIds>
+		<ContributorIds>devegaj</ContributorIds>
 		<ContributorList>Higgins J, Osorio-Guarín JA, Olave-Achury C, Toloza-Moreno DL, Enriquez A, Palma FD, Yockteng R, De Vega JJ</ContributorList>
 		<Year>2023</Year>
 		<Month>6</Month>
@@ -21604,7 +21179,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mcgowan, lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
+		<ContributorIds>lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Kilias ES, Alacid E, Lipscombe J, Jenkins BH, Gharbi K, Kaithakottil GG, Macaulay IC, McTaggart S, Warring SD, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -21706,7 +21281,7 @@
 		<JournalName>Agronomy</JournalName>
 		<JournalVolume>12</JournalVolume>
 		<JournalPages>2285</JournalPages>
-		<ContributorIds>denning, devegaj</ContributorIds>
+		<ContributorIds>devegaj</ContributorIds>
 		<ContributorList>Peláez D, Aguilar PA, Mercado M, López-Hernández F, Guzmán M, Burbano-Erazo E, Denning-James K, Medina CI, Blair MW, De Vega JJ, Cortés AJ</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
@@ -22700,7 +22275,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>lowr, halln</ContributorIds>
+		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Bengtsson RJ, Simpkin AJ, Pulford CV, Low R, Rasko DA, Rigden DJ, Hall N, Barry EM, Tennant SM, Baker KS</ContributorList>
 		<Year>2021</Year>
 		<Month>6</Month>
@@ -23942,7 +23517,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, lowr, lipscomj, watkinsc, nshearer, halln</ContributorIds>
+		<ContributorIds>heavensd, lipscomj, watkinsc, nshearer, halln</ContributorIds>
 		<ContributorList>Perez-Sepulveda BM, Heavens D, Pulford CV, Predeus AV, Low R, Webster H, Schudoma C, Rowe W, Lipscombe J, Watkins C, Kumwenda B, Shearer N, Costigan K, Baker KS, Feasey NA, Hinton JCD, Hall N, The 10KSG consortium</ContributorList>
 		<Year>2020</Year>
 		<Month>7</Month>
@@ -25372,7 +24947,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, lowr, lipscomj, halln</ContributorIds>
+		<ContributorIds>heavensd, lipscomj, halln</ContributorIds>
 		<ContributorList>Li Y, Pulford CV, Díaz P, Perez-Sepulveda BM, Duarte C, Predeus AV, Wiesner M, Heavens D, Low R, Schudoma C, Lipscombe J, Montaño A, Hall N, Moreno J, Hinton JCD</ContributorList>
 		<Year>2019</Year>
 		<Month>3</Month>
@@ -25715,7 +25290,7 @@
 		<JournalName>Communications Biology</JournalName>
 		<JournalVolume>2</JournalVolume>
 		<JournalPages />
-		<ContributorIds>lowr</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Mennie AK, Moser BA, Hoyle A, Low RS, Tanaka K, Nakamura TM</ContributorList>
 		<Year>2019</Year>
 		<Month>8</Month>
@@ -38130,7 +37705,7 @@
 		<JournalName>Genome Biology and Evolution</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages>2391-2402</JournalPages>
-		<ContributorIds>lowr, halln</ContributorIds>
+		<ContributorIds>halln, lowr</ContributorIds>
 		<ContributorList>Alrefaei AF, Low R, Hall N, Jardim R, Dávila A, Gerhold R, John S, Steinbiss S, Cunningham AA, Lawson B, Bell D, Tyler K</ContributorList>
 		<Year>2019</Year>
 		<Month>7</Month>
@@ -41143,7 +40718,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mcmullam, kaithakg, yvanne, lowr, warring, heavensd, peeln, swarbred, halln, greym</ContributorIds>
+		<ContributorIds>mcmullam, kaithakg, yvanne, warring, heavensd, peeln, swarbred, halln, greym, lowr</ContributorIds>
 		<ContributorList>McMullan M, Percival-Alwyn L, Sawford K, Kaithakottil G, Grey M, Yvanne H, Low R, Warring S, Heavens D, Peel N, Kroboth J, Stevens M, Swarbreck D, Clark M, Hall N</ContributorList>
 		<Year>2021</Year>
 		<Month>8</Month>
@@ -41160,7 +40735,7 @@
 		<JournalName>Clinical Infectious Diseases</JournalName>
 		<JournalVolume>73</JournalVolume>
 		<JournalPages>631-641</JournalPages>
-		<ContributorIds>heavensd, lowr, halln</ContributorIds>
+		<ContributorIds>heavensd, halln</ContributorIds>
 		<ContributorList>Kasumba IN, Pulford CV, Perez-Sepulveda BM, Sen S, Sayed N, Permala-Booth J, Livio S, Heavens D, Low R, Hall N, Roose A, Powell H, Farag T, Panchalingham S, Berkeley L, Nasrin D, Blackwelder WC, Wu Y, Tamboura B, Sanogo D, Onwuchekwa U, Sow SO, Ochieng JB, Omore R, Oundo JO, Breiman RF, Mintz ED, O’Reilly CE, Antonio M, Saha D, Hossain MJ, Mandomando I, Bassat Q, Alonso PL, Ramamurthy T, Sur D, Qureshi S, Zaidi AKM, Hossain A, Faruque ASG, Nataro JP, Kotloff KL, Levine MM, Hinton JCD, Tennant SM</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -41417,7 +40992,7 @@
 		<JournalName>Vaccines</JournalName>
 		<JournalVolume>9</JournalVolume>
 		<JournalPages>1427</JournalPages>
-		<ContributorIds>sabir, lowr, halln</ContributorIds>
+		<ContributorIds>sabir, halln</ContributorIds>
 		<ContributorList>Sabir MJ, Low R, Hall N, Kamli MR, Malik MZ</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -41434,7 +41009,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, lowr, lipscomj, watkinsc, nshearer, halln</ContributorIds>
+		<ContributorIds>heavensd, lipscomj, watkinsc, nshearer, halln</ContributorIds>
 		<ContributorList>Perez-Sepulveda BM, Heavens D, Pulford CV, Predeus AV, Low R, Webster H, Dykes GF, Schudoma C, Rowe W, Lipscombe J, Watkins C, Kumwenda B, Shearer N, Costigan K, Baker KS, Feasey NA, Hinton JCD, Hall N, The 10KSG consortium, Perez-Sepulveda BM, Heavens D, Pulford CV, Acuña MT, Antic D, Antonio M, Baker KS, Bernal J, Bolaños H, Chattaway M, Cheesbrough J, Chirambo A, Costigan K, Darboe S, Díaz P, Donado P, Duarte C, Duarte F, Everett D, Fanning S, Feasey NA, Feglo P, Ferreira AM, Floyd R, Gavilán RG, Gordon MA, Hall N, Hernandes RT, Hernández-Mora G, Hinton JCD, Hurley D, Kasumba IN, Kumwenda B, Kwambana-Adams B, Lipscombe J, Low R, Mattar S, Montaño LA, Moreira CG, Moreno J, Muthappa DM, Nair S, Parry CM, Peno C, Permala-Booth J, Petrović J, Predeus AV, Puente JL, Rebrie G, Redway M, Rowe W, Sadatsune T, Schudoma C, Shearer N, Silva C, Smith AM, Tennant S, Tran-Dien A, Watkins C, Webster H, Weill F, Wiesner M, Wilson C</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -41740,7 +41315,7 @@
 		<JournalName>Nature Microbiology</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>251-261</JournalPages>
-		<ContributorIds>lowr, halln</ContributorIds>
+		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Bengtsson RJ, Simpkin AJ, Pulford CV, Low R, Rasko DA, Rigden DJ, Hall N, Barry EM, Tennant SM, Baker KS</ContributorList>
 		<Year>2022</Year>
 		<Month>1</Month>
@@ -42420,7 +41995,7 @@
 		<JournalName>Biology Open</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>lowr, halln</ContributorIds>
+		<ContributorIds>halln, lowr</ContributorIds>
 		<ContributorList>Ebenezer TE, Low RS, O'Neill EC, Huang I, DeSimone A, Farrow SC, Field RA, Ginger ML, Guerrero SA, Hammond M, Hampl V, Horst G, Ishikawa T, Karnkowska A, Linton EW, Myler P, Nakazawa M, Cardol P, Sánchez-Thomas R, Saville BJ, Shah MR, Simpson AGB, Sur A, Suzuki K, Tyler KM, Zimba PV, Hall N, Field MC</ContributorList>
 		<Year>2022</Year>
 		<Month>11</Month>
@@ -42437,7 +42012,7 @@
 		<JournalName>Computational and Structural Biotechnology Journal</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages>6388-6402</JournalPages>
-		<ContributorIds>lowr, halln</ContributorIds>
+		<ContributorIds>halln, lowr</ContributorIds>
 		<ContributorList>Gerasimov ES, Afonin DA, Korzhavina OA, Lukeš J, Low R, Hall N, Tyler K, Yurchenko V, Zimmer SL</ContributorList>
 		<Year>2022</Year>
 		<Month>1</Month>
@@ -42794,7 +42369,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>19</JournalVolume>
 		<JournalPages>e1010913</JournalPages>
-		<ContributorIds>mcgowan, lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
+		<ContributorIds>lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred, mcgowan</ContributorIds>
 		<ContributorList>McGowan J, Kilias ES, Alacid E, Lipscombe J, Jenkins BH, Gharbi K, Kaithakottil GG, Macaulay IC, McTaggart S, Warring SD, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2023</Year>
 		<Month>10</Month>
@@ -43491,7 +43066,7 @@
 		<JournalName>mSphere</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mcgowan, lipscomj, barkert, clissold, mctaggar, warring, gharbik, halln, swarbred</ContributorIds>
+		<ContributorIds>lipscomj, barkert, clissold, mctaggar, warring, gharbik, halln, swarbred, mcgowan</ContributorIds>
 		<ContributorList>McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, McTaggart S, Warring SD, Gharbi K, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2025</Year>
 		<Month>9</Month>
@@ -43610,7 +43185,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>12</JournalVolume>
 		<JournalPages />
-		<ContributorIds>warring, mcgowan, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln</ContributorIds>
+		<ContributorIds>warring, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln, mcgowan</ContributorIds>
 		<ContributorList>Warring SD, McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, Gharbi K, McTaggart S, Richards TA, Swarbreck D, Hall N</ContributorList>
 		<Year>2026</Year>
 		<Month>3</Month>
