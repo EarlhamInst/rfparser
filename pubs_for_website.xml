@@ -3763,7 +3763,7 @@
 		<Year>2001</Year>
 		<Month />
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/gb-2002-3-12-research0070</id>
@@ -8603,6 +8603,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.64898/2026.07.07.736956</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Barcoded-Plasmid DNA library construction for recording cell lineage trees enabled by a Scalable and modular Biofoundry-based Automated Robotic Pipeline</Title>
+		<DOI>10.64898/2026.07.07.736956</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>taf22big, pek24giz, yor25yat, jod23rof, lany, haertyw, wojtowic, grandell</ContributorIds>
+		<ContributorList>Tassinari E, Ives L, Hawkins E, Annese D, Fonseca S, Lan Y, Haerty W, Wojtowicz E, Grandellis C</ContributorList>
+		<Year>2026</Year>
+		<Month>7</Month>
+		<Day>8</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/nar/gkw624</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -8653,7 +8670,7 @@
 		<Year>2019</Year>
 		<Month />
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-019-08391-y</id>
@@ -27221,7 +27238,7 @@
 		<Year>2012</Year>
 		<Month />
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/1758-907x-3-4</id>
@@ -30647,7 +30664,7 @@
 		<Year>2013</Year>
 		<Month />
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/gbe/evt060</id>
