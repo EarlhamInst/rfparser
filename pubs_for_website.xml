@@ -675,8 +675,8 @@
 		<Title>Galaxy for accessible, reproducible, and collaborative data analyses: 2026 update</Title>
 		<DOI>10.1093/nar/gkag469</DOI>
 		<JournalName>Nucleic Acids Research</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>54</JournalVolume>
+		<JournalPages>W105-W116</JournalPages>
 		<ContributorIds>soranzon</ContributorIds>
 		<ContributorList>The Galaxy Community, Afgan E, Amoukou N, Buono RA, Anton M, Antoniewski C, Austin P, Awan AH, Backofen R, Bacon WA, Baker D, Barreau A, Batut B, Bernt M, Blankenberg D, Bretaudeau A, Bromhead CJ, Burhans R, Burke M, Cain S, Callan D, Cech M, Chavero-Díez M, Chei H, Chen Y, Chiang D, Chilton JM, Collins TJ, Coppens F, Coraor N, Coulombe C, Crusoe MR, Cumbo F, Cumunel T, D'Silva M, Dadras A, Dalle C, Dang K, Davis JY, De Geest P, de Koning W, Defazio G, Depoortere B, Do K, Domínguez Begines JM, Droesbeke B, Duarte EN, Fernández-del-Castillo E, Fix J, Formenti G, Frey J, Föll MC, Gauthier C, Gerberding K, Giacomoni F, Goecks J, Goonasekera NA, Goué N, Griffin TJ, Grüning BA, Guerler A, Guitton Y, Gustafsson OJR, Gömöryová K, Harakalova M, Hecht H, Heidari A, Heyl F, Hillman-Jackson J, Hiltemann S, Ansari MH, Hotz H, Hyde CJ, Jacques P, Jagtap PD, Joshi J, Jossé M, Jumah KMA, Elyaderani AK, Kamieniecka K, Kattenborn T, Konkol M, Kostrykin L, Kucher N, Kumar A, Kuntz M, Langhorst BW, Lariviere D, Le Bras Y, Le Corguillé G, Le Cras J, Lee J, Leendertse J, Lefeuvre H, Leskošek B, Liborio LM, Libouban R, Loach M, Tabernero JDL, Lopez-Delisle L, Lusk D, Mahmoud A, Mahé M, Maier W, Makunin I, McCaffrey K, Medico JA, Mehta S, Mei H, Minkova M, Momin S, Junior PCML, Müller T, Nilchi AN, Nandi T, Nasr EMT, Nekrutenko A, Nelson T, Nussbaum J, Oba AJ, Opioła Ł, Payet K, Petera M, Polunina PV, Pond S, Poterlowicz K, Price GR, Qiu J, Rasche H, Raubenolt B, Reynolds TN, Rogers D, Rohr K, Saudade GF, Savage MT, Savchenko V, Schatz MC, Schmitz I, Schneider D, Seguineau P, Serrano-Solano B, Siguret C, Smeds P, Sollitto M, Soranzo N, Srikakulam SK, Sterck L, Strepis N, Stubbs A, Suderman K, Syme A, Tangaro MA, Koopaei RT, Tedds JA, Tekman M, Thang WC(, Thanki AS, Uhl M, Vajna-Jehle J, van den Beek M, Varshney D, Vazov NA, Vessio J, Videm P, Vondrak T, Wagner R, Watson GR, Weber RJM, Whitaker-Allen N, Zambelli F, Zierep P, Zoabi R</ContributorList>
 		<Year>2026</Year>
@@ -8613,7 +8613,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>taf22big, pek24giz, yor25yat, jod23rof, lany, haertyw, wojtowic, grandell</ContributorIds>
-		<ContributorList>Tassinari E, Ives L, Hawkins E, Annese D, Fonseca S, Lan Y, Haerty W, Wojtowicz E, Grandellis C</ContributorList>
+		<ContributorList>Tassinari E, Ives L, Hawkins E, Annese D, Fonseca S, Lan Y, Haerty W, Wojtowicz EE, Grandellis C</ContributorList>
 		<Year>2026</Year>
 		<Month>7</Month>
 		<Day>8</Day>
