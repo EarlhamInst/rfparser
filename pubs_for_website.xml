@@ -5112,23 +5112,6 @@
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2025.02.28.640774</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>High-quality genome assembly for the genetically improved Abbassa Nile tilapia enables the reconstruction of X and Y haplotypes</Title>
-		<DOI>10.1101/2025.02.28.640774</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>ethering, duf26ror, mehtat, barkert, fraser, kidgells, irishn, kaithakg, vknitlho, watkinsc, swarbred, gharbik, haertyw</ContributorIds>
-		<ContributorList>Etherington GJ, Ciezarek A, Mehta T, Barker T, Durant A, Fraser F, Henderson S, Irish N, Kaithakottil GG, Knitlhoffer V, Ali S, Trong T, Watkins C, Swarbreck D, Gharbi K, Benzie JA, Haerty W</ContributorList>
-		<Year>2025</Year>
-		<Month>3</Month>
-		<Day>6</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.4103/jpbs.jpbs_1012_25</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -6974,7 +6957,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>438</JournalVolume>
 		<JournalPages>1151-1156</JournalPages>
-		<ContributorIds>halln</ContributorIds>
+		<ContributorIds>sog26rik, halln</ContributorIds>
 		<ContributorList>Nierman WC, Pain A, Anderson MJ, Wortman JR, Kim HS, Arroyo J, Berriman M, Abe K, Archer DB, Bermejo C, Bennett J, Bowyer P, Chen D, Collins M, Coulsen R, Davies R, Dyer PS, Farman M, Fedorova N, Fedorova N, Feldblyum TV, Fischer R, Fosker N, Fraser A, García JL, García MJ, Goble A, Goldman GH, Gomi K, Griffith-Jones S, Gwilliam R, Haas B, Haas H, Harris D, Horiuchi H, Huang J, Humphray S, Jiménez J, Keller N, Khouri H, Kitamoto K, Kobayashi T, Konzack S, Kulkarni R, Kumagai T, Lafton A, Latgé J, Li W, Lord A, Lu C, Majoros WH, May GS, Miller BL, Mohamoud Y, Molina M, Monod M, Mouyna I, Mulligan S, Murphy L, O'Neil S, Paulsen I, Peñalva MA, Pertea M, Price C, Pritchard BL, Quail MA, Rabbinowitsch E, Rawlins N, Rajandream M, Reichard U, Renauld H, Robson GD, de Córdoba SR, Rodríguez-Peña JM, Ronning CM, Rutter S, Salzberg SL, Sanchez M, Sánchez-Ferrero JC, Saunders D, Seeger K, Squares R, Squares S, Takeuchi M, Tekaia F, Turner G, de Aldana CRV, Weidman J, White O, Woodward J, Yu J, Fraser C, Galagan JE, Asai K, Machida M, Hall N, Barrell B, Denning DW</ContributorList>
 		<Year>2005</Year>
 		<Month>12</Month>
@@ -7212,7 +7195,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>439</JournalVolume>
 		<JournalPages>502-502</JournalPages>
-		<ContributorIds>halln</ContributorIds>
+		<ContributorIds>sog26rik, halln</ContributorIds>
 		<ContributorList>Nierman WC, Pain A, Anderson MJ, Wortman JR, Kim HS, Arroyo J, Berriman M, Abe K, Archer DB, Bermejo C, Bennett J, Bowyer P, Chen D, Collins M, Coulsen R, Davies R, Dyer PS, Farman M, Fedorova N, Fedorova N, Feldblyum TV, Fischer R, Fosker N, Fraser A, García JL, García MJ, Goble A, Goldman GH, Gomi K, Griffith-Jones S, Gwilliam R, Haas B, Haas H, Harris D, Horiuchi H, Huang J, Humphray S, Jiménez J, Keller N, Khouri H, Kitamoto K, Kobayashi T, Konzack S, Kulkarni R, Kumagai T, Lafon A, Latgé J, Li W, Lord A, Lu C, Majoros WH, May GS, Miller BL, Mohamoud Y, Molina M, Monod M, Mouyna I, Mulligan S, Murphy L, O'Neil S, Paulsen I, Peñalva MA, Pertea M, Price C, Pritchard BL, Quail MA, Rabbinowitsch E, Rawlins N, Rajandream M, Reichard U, Renauld H, Robson GD, de Córdoba SR, Rodríguez-Peña JM, Ronning CM, Rutter S, Salzberg SL, Sanchez M, Sánchez-Ferrero JC, Saunders D, Seeger K, Squares R, Squares S, Takeuchi M, Tekaia F, Turner G, de Aldana CRV, Weidman J, White O, Woodward J, Yu J, Fraser C, Galagan JE, Asai K, Machida M, Hall N, Barrell B, Denning DW</ContributorList>
 		<Year>2006</Year>
 		<Month>1</Month>
@@ -14359,6 +14342,142 @@
 		<Year>2024</Year>
 		<Month>11</Month>
 		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/cei/uxae004</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Revolutionizing immune research with organoid-based co-culture and chip systems</Title>
+		<DOI>10.1093/cei/uxae004</DOI>
+		<JournalName>Clinical and Experimental Immunology</JournalName>
+		<JournalVolume>218</JournalVolume>
+		<JournalPages>40-54</JournalPages>
+		<ContributorIds />
+		<ContributorList>Papp D, Korcsmaros T, Hautefort I</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/femsmc/xtaf008</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Soil properties in agricultural systems affect microbial genomic traits</Title>
+		<DOI>10.1093/femsmc/xtaf008</DOI>
+		<JournalName>FEMS Microbes</JournalName>
+		<JournalVolume>6</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Goodall T, Busi SB, Griffiths RI, Jones B, Pywell RF, Richards A, Nowakowski M, Read DS</ContributorList>
+		<Year>2025</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-024-51719-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>CTLA-4 expressing innate lymphoid cells modulate mucosal homeostasis in a microbiota dependent manner</Title>
+		<DOI>10.1038/s41467-024-51719-6</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Lo JW, Schroeder J, Roberts LB, Mohamed R, Cozzetto D, Beattie G, Omer OS, Ross EM, Heuts F, Jowett GM, Read E, Madgwick M, Neves JF, Korcsmaros T, Jenner RG, Walker LSK, Powell N, Lord GM</ContributorList>
+		<Year>2024</Year>
+		<Month>11</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12859-024-05948-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>mulea: An R package for enrichment analysis using multiple ontologies and empirical false discovery rate</Title>
+		<DOI>10.1186/s12859-024-05948-7</DOI>
+		<JournalName>BMC Bioinformatics</JournalName>
+		<JournalVolume>25</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Turek C, Ölbei M, Stirling T, Fekete G, Tasnádi E, Gul L, Bohár B, Papp B, Jurkowski W, Ari E</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/msystems.01239-25</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>SalmonAct deciphers transcription factor regulatory activity in Salmonella transcriptomics</Title>
+		<DOI>10.1128/msystems.01239-25</DOI>
+		<JournalName>mSystems</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Olbei M, Bohar B, Kingsley RA, Korcsmaros T</ContributorList>
+		<Year>2026</Year>
+		<Month>4</Month>
+		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1098/rspb.2024.2374</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Sexual selection matters in genetic rescue, but productivity benefits fade over time: a multi-generation experiment to inform conservation</Title>
+		<DOI>10.1098/rspb.2024.2374</DOI>
+		<JournalName>Proceedings of the Royal Society B: Biological Sciences</JournalName>
+		<JournalVolume>292</JournalVolume>
+		<JournalPages />
+		<ContributorIds>nashw</ContributorIds>
+		<ContributorList>West G, Pointer M, Nash W, Lewis R, Gage MJG, Richardson DS</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1098/rspb.2025.2036</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Does genetic rescue disrupt local adaptation? An experimental test using thermally adapted Tribolium castaneum lines</Title>
+		<DOI>10.1098/rspb.2025.2036</DOI>
+		<JournalName>Proceedings of the Royal Society B: Biological Sciences</JournalName>
+		<JournalVolume>292</JournalVolume>
+		<JournalPages />
+		<ContributorIds>nashw</ContributorIds>
+		<ContributorList>West G, Pointer MD, Nash WJ, Lewis R, Richardson DS</ContributorList>
+		<Year>2025</Year>
+		<Month>11</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.02.28.640774</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>High-quality genome assembly for the genetically improved Abbassa Nile tilapia enables the reconstruction of X and Y haplotypes</Title>
+		<DOI>10.1101/2025.02.28.640774</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering, duf26ror, mehtat, barkert, fraser, kidgells, irishn, kaithakg, vknitlho, watkinsc, swarbred, gharbik, haertyw</ContributorIds>
+		<ContributorList>Etherington GJ, Ciezarek A, Mehta T, Barker T, Durant A, Fraser F, Henderson S, Irish N, Kaithakottil GG, Knitlhoffer V, Ali S, Trong T, Watkins C, Swarbreck D, Gharbi K, Benzie JA, Haerty W</ContributorList>
+		<Year>2025</Year>
+		<Month>3</Month>
+		<Day>6</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
