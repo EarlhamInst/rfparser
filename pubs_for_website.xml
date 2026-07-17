@@ -10430,6 +10430,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.64898/2026.06.11.730069</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Long-read single-cell genomics: resolving chimeras in multiple displacement amplification</Title>
+		<DOI>10.64898/2026.06.11.730069</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>lipscomj, barkert, durrant, irishn, mctaggar, warring, gharbik, halln, swarbred</ContributorIds>
+		<ContributorList>McGowan J, Lipscombe J, Kilias ES, Barker T, Catchpole L, Durrant A, Irish N, McTaggart S, Warring SD, Gharbi K, Richards TA, Hall N, Swarbreck D</ContributorList>
+		<Year>2026</Year>
+		<Month>6</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1126/sciadv.adk1992</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -11568,23 +11585,6 @@
 		<Month>4</Month>
 		<Day>3</Day>
 		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.64898/2026.06.11.730069</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Long-read single-cell genomics: resolving chimeras in multiple displacement amplification</Title>
-		<DOI>10.64898/2026.06.11.730069</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>lipscomj, barkert, clissold, durrant, irishn, mctaggar, warring, gharbik, halln, swarbred</ContributorIds>
-		<ContributorList>McGowan J, Lipscombe J, Kilias ES, Barker T, Catchpole L, Durrant A, Irish N, McTaggart S, Warring SD, Gharbi K, Richards TA, Hall N, Swarbreck D</ContributorList>
-		<Year>2026</Year>
-		<Month>6</Month>
-		<Day>15</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/S0140-6736(05)72006-7</id>
@@ -14524,7 +14524,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>wez23nor, abinnie, lany, kidgells, fraser, barkert, brabbst, bakerk, clissold, swarbred, macaulai, haertyw</ContributorIds>
+		<ContributorIds>wez23nor, abinnie, lany, kidgells, fraser, barkert, brabbst, bakerk, swarbred, macaulai, haertyw</ContributorIds>
 		<ContributorList>Di Z, Singh D, Lister A, Cai YM, Bian C, Talasila M, Lan Y, Henderson S, Fraser F, Barker T, Brabbs T, Baker K, Catchpole L, Swarbreck D, Urhig RG, Macaulay I, Haerty W, Brady SM, Patron NJ</ContributorList>
 		<Year>2026</Year>
 		<Month>6</Month>
@@ -15376,7 +15376,7 @@
 		<JournalName>Molecular Ecology</JournalName>
 		<JournalVolume>34</JournalVolume>
 		<JournalPages />
-		<ContributorIds>bakerk, barkert, clissold, durrant, irishn, vknitlho, lucchins, mctaggar, swarbred, gharbik</ContributorIds>
+		<ContributorIds>bakerk, barkert, durrant, irishn, vknitlho, lucchins, mctaggar, swarbred, gharbik</ContributorIds>
 		<ContributorList>Kurta K, Fedi MO, Baker K, Barker T, Catchpole L, Ciofi C, Cocco A, Collins J, Diedericks G, Diroma MA, Durrant A, Hindar K, Iannucci A, Irish N, Knitlhoffer V, Laikre L, Leitão HG, Lucchini S, McTaggart S, Pálsson A, Pettersson ME, Ryman N, Snorrason SS, Svardal H, Swarbreck D, Waterhouse RM, Watkins C, Wood JMD, Xiao H, Gharbi K, Jónsson ZO, Andersson L</ContributorList>
 		<Year>2025</Year>
 		<Month>8</Month>
@@ -15733,7 +15733,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>warring, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln</ContributorIds>
+		<ContributorIds>warring, lipscomj, barkert, gharbik, mctaggar, swarbred, halln</ContributorIds>
 		<ContributorList>Warring SD, McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, Gharbi K, McTaggart S, Richards TA, Swarbreck D, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -17042,7 +17042,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>bakerk, barkert, clissold, irishn, vknitlho, lucchins, mctaggar, swarbred, gharbik</ContributorIds>
+		<ContributorIds>bakerk, barkert, irishn, vknitlho, lucchins, mctaggar, swarbred, gharbik</ContributorIds>
 		<ContributorList>Kurta K, Fedi MO, Baker K, Barker T, Catchpole L, Ciofi C, Cocco A, Diedericks G, Diroma MA, Hindar K, Iannucci A, Irish N, Knitlhoffer V, Laikre L, Leitão HG, Lucchini S, McTaggart S, Pálsson A, Pettersson ME, Ryman N, Snorrason SS, Svardal H, Swarbreck D, Waterhouse RM, Watkins C, Xiao HH, Gharbi K, Jónsson ZO, Andersson L</ContributorList>
 		<Year>2025</Year>
 		<Month>2</Month>
@@ -17501,7 +17501,7 @@
 		<JournalName>Genome Biology and Evolution</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages />
-		<ContributorIds>rel22vaz, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, clissold, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
+		<ContributorIds>rel22vaz, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
 		<ContributorList>Hill R, McGowan J, Brabcová V, McTaggart S, Irish N, Barker T, Knitlhoffer V, Lucchini S, Baker K, Catchpole L, Watkins C, Gharbi K, Kaithakottil G, Tracey A, Wood JMD, Tomšovský M, Baldrian P, Swarbreck D, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -17552,7 +17552,7 @@
 		<JournalName>Scientific Data</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>wrightj, bakerk, barkert, clissold, durrant, fraser, gharbik, kidgells, irishn, kaithakg, lucchins, swarbred, watkinsc, mctaggar, halla</ContributorIds>
+		<ContributorIds>wrightj, bakerk, barkert, durrant, fraser, gharbik, kidgells, irishn, kaithakg, lucchins, swarbred, watkinsc, mctaggar, halla</ContributorIds>
 		<ContributorList>Wright J, Baker K, Barker T, Catchpole L, Durrant A, Fraser F, Gharbi K, Harrison C, Henderson S, Irish N, Kaithakottil G, Leitch IJ, Li J, Lucchini S, Neve P, Powell R, Rees H, Swarbreck D, Watkins C, Wood J, McTaggart S, Hall A, MacGregor D</ContributorList>
 		<Year>2024</Year>
 		<Month>12</Month>
@@ -17841,7 +17841,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>wrightj, bakerk, barkert, clissold, durrant, fraser, gharbik, kidgells, irishn, kaithakg, lucchins, swarbred, watkinsc, mctaggar, halla</ContributorIds>
+		<ContributorIds>wrightj, bakerk, barkert, durrant, fraser, gharbik, kidgells, irishn, kaithakg, lucchins, swarbred, watkinsc, mctaggar, halla</ContributorIds>
 		<ContributorList>Wright J, Baker K, Barker T, Catchpole L, Durrant A, Fraser F, Gharbi K, Harrison C, Henderson S, Irish N, Kaithakottil G, Leitch IJ, Li J, Lucchini S, Neve P, Powell R, Rees H, Swarbreck D, Watkins C, Wood J, McTaggart S, Hall A, MacGregor DR</ContributorList>
 		<Year>2024</Year>
 		<Month>10</Month>
@@ -17960,7 +17960,7 @@
 		<JournalName>Heredity</JournalName>
 		<JournalVolume>133</JournalVolume>
 		<JournalPages>381-387</JournalPages>
-		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
+		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, durrant, gharbik, irishn, kaithakg, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
 		<ContributorList>Nash WJ, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, McCartney AM, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>9</Month>
@@ -18317,7 +18317,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>cik24tir, thiyagar, barkert, clissold, durrant, vknitlho, watkinsc, gharbik, nieduszc</ContributorIds>
+		<ContributorIds>cik24tir, thiyagar, barkert, durrant, vknitlho, watkinsc, gharbik, nieduszc</ContributorIds>
 		<ContributorList>Carrington JT, Wilson RHC, de La Vega E, Thiyagarajan S, Barker T, Catchpole L, Durrant A, Knitlhoffer V, Watkins C, Gharbi K, Nieduszynski CA</ContributorList>
 		<Year>2024</Year>
 		<Month>5</Month>
@@ -25902,7 +25902,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>brabbst, clissold, halla</ContributorIds>
+		<ContributorIds>brabbst, halla</ContributorIds>
 		<ContributorList>Gardiner L, Brabbs T, Akhunova A, Jordan K, Budak H, Richmond T, Singh S, Catchpole L, Akhunov E, Hall A</ContributorList>
 		<Year>2018</Year>
 		<Month>7</Month>
@@ -26551,7 +26551,7 @@
 		<JournalName>GigaScience</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>brabbst, clissold, halla</ContributorIds>
+		<ContributorIds>brabbst, halla</ContributorIds>
 		<ContributorList>Gardiner L, Brabbs T, Akhunov A, Jordan K, Budak H, Richmond T, Singh S, Catchpole L, Akhunov E, Hall A</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -42692,7 +42692,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, clissold, gharbik, haertyw, swarbred, halla, borrillp, bward, colmer, coombes, duncan, hchapman, joynsonr, reesh, simmonds, uauyc, whiteb</ContributorIds>
+		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, gharbik, haertyw, swarbred, halla, borrillp, bward, clissold, colmer, coombes, duncan, hchapman, joynsonr, reesh, simmonds, uauyc, whiteb</ContributorIds>
 		<ContributorList>White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KF, Pozniak C, 10+ Wheat Genome Project, Spannagl M, Hall A</ContributorList>
 		<Year>2024</Year>
 		<Month>1</Month>
@@ -42760,7 +42760,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, providen, fshaw, swarbred, watkinsc, haertyw, zef22hak</ContributorIds>
+		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, durrant, gharbik, irishn, kaithakg, providen, fshaw, swarbred, watkinsc, haertyw, clissold, zef22hak</ContributorIds>
 		<ContributorList>Nash W, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, Mc Cartney A, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>4</Month>
@@ -43185,7 +43185,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>26</JournalVolume>
 		<JournalPages />
-		<ContributorIds>cik24tir, thiyagar, barkert, clissold, durrant, vknitlho, watkinsc, gharbik, nieduszc</ContributorIds>
+		<ContributorIds>cik24tir, thiyagar, barkert, durrant, vknitlho, watkinsc, gharbik, nieduszc, clissold</ContributorIds>
 		<ContributorList>Carrington JT, Wilson RHC, de La Vega E, Thiyagarajan S, Barker T, Catchpole L, Durrant A, Knitlhoffer V, Watkins C, Gharbi K, Nieduszynski CA</ContributorList>
 		<Year>2025</Year>
 		<Month>5</Month>
@@ -43236,7 +43236,7 @@
 		<JournalName>mSphere</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages />
-		<ContributorIds>lipscomj, barkert, clissold, mctaggar, warring, gharbik, halln, swarbred, mcgowan</ContributorIds>
+		<ContributorIds>lipscomj, barkert, mctaggar, warring, gharbik, halln, swarbred, clissold, mcgowan</ContributorIds>
 		<ContributorList>McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, McTaggart S, Warring SD, Gharbi K, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2025</Year>
 		<Month>9</Month>
@@ -43270,7 +43270,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages />
-		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, clissold, gharbik, haertyw, swarbred, birdc, heavensd, halla, borrillp, bward, colmer, duncan, hchapman, joynsonr, nal24mas, reesh, simmonds, uauyc, whiteb</ContributorIds>
+		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, gharbik, haertyw, swarbred, birdc, heavensd, halla, borrillp, bward, clissold, colmer, duncan, hchapman, joynsonr, nal24mas, reesh, simmonds, uauyc, whiteb</ContributorIds>
 		<ContributorList>White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KFX, Pozniak C, 10+ Wheat Genome Project, Walkowiak S, Klymiuk V, Byrns B, Nilsen K, Ens J, Wiebe K, N’Diaye A, Hucl PJ, Pozniak CJ, Fu BX, Gao L, Delorean E, Koo D, Fritz AK, Poland J, Monat C, Himmelbach A, Fiebig A, Padmarasu S, Scholz U, Mascher M, Haberer G, Kassa MT, Fobert P, Kagale S, Brinton J, Ramirez-Gonzalez RH, Bevan M, McKenzie N, Steuernagel B, Kolodziej MC, Krattinger SG, Keller B, Wicker T, Thambugala D, McCartney CA, Bandi V, Siri JN, Gutwin C, Aquino C, Hatakeyama M, Copetti D, Halstead-Nussloch G, Paape T, Shimizu-Inatsugi R, Shimizu KK, Ban T, Kawaura K, Tameshige T, Tsuji H, Venturini L, Clark M, Clavijo B, Fosker C, Accinelli GG, Heavens D, Krasileva K, Gardner KA, Fradgley N, Percival-Alwyn L, Cockram J, Gutierrez-Gonzalez J, Muehlbauer G, Koh CS, Sharpe AG, Deek J, Costamagna AC, Kanamori H, Kobayashi F, Tanaka T, Wu J, Handa H, Kuo T, Sese J, Murata K, Nabeka Y, Nasuda S, Juliana P, Singh R, Budak H, Small I, Melonek J, Cloutier S, Keeble-Gagnère G, Tibbets J, Legg E, Bharti A, Langridge P, Chalmers K, Distelfeld A, Spannagl M, Hall A</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -43355,7 +43355,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>12</JournalVolume>
 		<JournalPages />
-		<ContributorIds>warring, lipscomj, barkert, clissold, gharbik, mctaggar, swarbred, halln, mcgowan</ContributorIds>
+		<ContributorIds>warring, lipscomj, barkert, gharbik, mctaggar, swarbred, halln, clissold, mcgowan</ContributorIds>
 		<ContributorList>Warring SD, McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, Gharbi K, McTaggart S, Richards TA, Swarbreck D, Hall N</ContributorList>
 		<Year>2026</Year>
 		<Month>3</Month>
