@@ -13510,40 +13510,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1111/tpj.12246</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The stochastic silencing phenotype of Arabidopsis morc6mutants reveals a role in efficient RNA‐directed DNAmethylation</Title>
-		<DOI>10.1111/tpj.12246</DOI>
-		<JournalName>The Plant Journal</JournalName>
-		<JournalVolume>75</JournalVolume>
-		<JournalPages>836-846</JournalPages>
-		<ContributorIds>brabbst</ContributorIds>
-		<ContributorList>Brabbs TR, He Z, Hogg K, Kamenski A, Li Y, Paszkiewicz KH, Moore KA, O'Toole P, Graham IA, Jones L</ContributorList>
-		<Year>2013</Year>
-		<Month>6</Month>
-		<Day>18</Day>
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1002/ps.3907</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Prospects for the use of biological control agents against Anoplophora in Europe</Title>
-		<DOI>10.1002/ps.3907</DOI>
-		<JournalName>Pest Management Science</JournalName>
-		<JournalVolume>71</JournalVolume>
-		<JournalPages>7-14</JournalPages>
-		<ContributorIds>brabbst</ContributorIds>
-		<ContributorList>Brabbs T, Collins D, Hérard F, Maspero M, Eyre D</ContributorList>
-		<Year>2014</Year>
-		<Month>10</Month>
-		<Day>14</Day>
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1158/1538-7445.am2015-2880</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -14524,7 +14490,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>wez23nor, abinnie, lany, kidgells, fraser, barkert, brabbst, bakerk, swarbred, macaulai, haertyw</ContributorIds>
+		<ContributorIds>wez23nor, abinnie, lany, kidgells, fraser, barkert, bakerk, swarbred, macaulai, haertyw</ContributorIds>
 		<ContributorList>Di Z, Singh D, Lister A, Cai YM, Bian C, Talasila M, Lan Y, Henderson S, Fraser F, Barker T, Brabbs T, Baker K, Catchpole L, Swarbreck D, Urhig RG, Macaulay I, Haerty W, Brady SM, Patron NJ</ContributorList>
 		<Year>2026</Year>
 		<Month>6</Month>
@@ -22735,7 +22701,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>brabbst</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Scott MF, Fradgley N, Bentley AR, Brabbs T, Corke F, Gardner KA, Horsnell R, Howell P, Ladejobi O, Mackay IJ, Mott R, Cockram J</ContributorList>
 		<Year>2021</Year>
 		<Month>5</Month>
@@ -23551,7 +23517,7 @@
 		<JournalName>medRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>gharbik, brabbst, lipscomj, cosseys, halln</ContributorIds>
+		<ContributorIds>gharbik, lipscomj, cosseys, halln</ContributorIds>
 		<ContributorList>Gillam TB, Cole J, Gharbi K, Hitchcock M, Edwards D, Brabbs T, Lipscombe J, Davidson R, Rushworth S, Steel N</ContributorList>
 		<Year>2020</Year>
 		<Month>9</Month>
@@ -23738,7 +23704,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>brabbst</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Scott MF, Fradgley N, Bentley AR, Brabbs T, Corke F, Gardner KA, Horsnell R, Howell P, Ladejobi O, Mackay IJ, Mott R, Cockram J</ContributorList>
 		<Year>2020</Year>
 		<Month>9</Month>
@@ -25902,7 +25868,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>brabbst, halla</ContributorIds>
+		<ContributorIds>halla</ContributorIds>
 		<ContributorList>Gardiner L, Brabbs T, Akhunova A, Jordan K, Budak H, Richmond T, Singh S, Catchpole L, Akhunov E, Hall A</ContributorList>
 		<Year>2018</Year>
 		<Month>7</Month>
@@ -25919,7 +25885,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>brabbst, halla</ContributorIds>
+		<ContributorIds>halla</ContributorIds>
 		<ContributorList>Rees H, Duncan S, Gould P, Wells R, Greenwood M, Brabbs T, Hall A</ContributorList>
 		<Year>2019</Year>
 		<Month>3</Month>
@@ -26534,7 +26500,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>brabbst, halln, halla</ContributorIds>
+		<ContributorIds>halln, halla</ContributorIds>
 		<ContributorList>Gardiner L, Wingen LU, Bailey P, Joynson R, Brabbs T, Wright J, Higgins JD, Hall N, Griffiths S, Clavijo BJ, Hall A</ContributorList>
 		<Year>2019</Year>
 		<Month>2</Month>
@@ -26551,7 +26517,7 @@
 		<JournalName>GigaScience</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>brabbst, halla</ContributorIds>
+		<ContributorIds>halla</ContributorIds>
 		<ContributorList>Gardiner L, Brabbs T, Akhunov A, Jordan K, Budak H, Richmond T, Singh S, Catchpole L, Akhunov E, Hall A</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -36307,7 +36273,7 @@
 		<JournalName>Plant Methods</JournalName>
 		<JournalVolume>15</JournalVolume>
 		<JournalPages />
-		<ContributorIds>brabbst, halla, duncan, reesh, wellsr</ContributorIds>
+		<ContributorIds>halla, brabbst, duncan, reesh, wellsr</ContributorIds>
 		<ContributorList>Rees H, Duncan S, Gould P, Wells R, Greenwood M, Brabbs T, Hall A</ContributorList>
 		<Year>2019</Year>
 		<Month>5</Month>
@@ -36562,7 +36528,7 @@
 		<JournalName>Scientific Reports</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>brabbst, halla, joynsonr</ContributorIds>
+		<ContributorIds>halla, brabbst, joynsonr</ContributorIds>
 		<ContributorList>Singh S, Vikram P, Sehgal D, Burgueño J, Sharma A, Singh SK, Sansaloni CP, Joynson R, Brabbs T, Ortiz C, Solis-Moya E, Govindan V, Gupta N, Sidhu HS, Basandrai AK, Basandrai D, Ledesma-Ramires L, Suaste-Franco MP, Fuentes-Dávila G, Moreno JI, Sonder K, Singh VK, Singh S, Shokat S, Arif MAR, Laghari KA, Srivastava P, Bhavani S, Kumar S, Pal D, Jaiswal JP, Kumar U, Chaudhary HK, Crossa J, Payne TS, Imtiaz M, Sohu VS, Singh GP, Bains NS, Hall A, Pixley KV</ContributorList>
 		<Year>2018</Year>
 		<Month>8</Month>
@@ -37484,7 +37450,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages />
-		<ContributorIds>brabbst, halln, halla, joynsonr</ContributorIds>
+		<ContributorIds>halln, halla, brabbst, joynsonr</ContributorIds>
 		<ContributorList>Gardiner L, Wingen LU, Bailey P, Joynson R, Brabbs T, Wright J, Higgins JD, Hall N, Griffiths S, Clavijo BJ, Hall A</ContributorList>
 		<Year>2019</Year>
 		<Month>4</Month>
@@ -40495,7 +40461,7 @@
 		<JournalName>Journal of Public Health</JournalName>
 		<JournalVolume>43</JournalVolume>
 		<JournalPages>82-88</JournalPages>
-		<ContributorIds>gharbik, angiolie, barkert, brabbst, cosseys, durrant, halln, kidgells, irishn, lipscomj, nshearer, bickertp, coenen, davey, gjones, edwardsj</ContributorIds>
+		<ContributorIds>gharbik, angiolie, barkert, cosseys, durrant, halln, kidgells, irishn, lipscomj, nshearer, bickertp, brabbst, coenen, davey, gjones, edwardsj</ContributorIds>
 		<ContributorList>Gillam TB, Cole J, Gharbi K, Angiolini E, Barker T, Bickerton P, Brabbs T, Chin J, Coen E, Cossey S, Davey R, Davidson R, Durrant A, Edwards D, Hall N, Henderson S, Hitchcock M, Irish N, Lipscombe J, Jones G, Parr G, Rushworth S, Shearer N, Smith R, Steel N</ContributorList>
 		<Year>2020</Year>
 		<Month>10</Month>
