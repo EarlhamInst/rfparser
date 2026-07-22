@@ -6387,40 +6387,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.64898/2026.05.12.724544</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>The impact of long-read sequencing on fungal genome assemblies: progress and disparity</Title>
-		<DOI>10.64898/2026.05.12.724544</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>rel22vaz</ContributorIds>
-		<ContributorList>Kroll E, Zoclanclounon Y, Urban M, Hill R, Hammond-Kosack K</ContributorList>
-		<Year>2026</Year>
-		<Month>5</Month>
-		<Day>14</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.funeco.2026.101519</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Host range and global distribution of Gaeumannomyces root fungi of cereal crops and wild grasses</Title>
-		<DOI>10.1016/j.funeco.2026.101519</DOI>
-		<JournalName>Fungal Ecology</JournalName>
-		<JournalVolume>82</JournalVolume>
-		<JournalPages>101519</JournalPages>
-		<ContributorIds>rel22vaz</ContributorIds>
-		<ContributorList>Hill R</ContributorList>
-		<Year>2026</Year>
-		<Month>8</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1093/hmg/10.1.55</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -14325,6 +14291,58 @@
 		<Year>2024</Year>
 		<Month>11</Month>
 		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1145/3748522.3779958</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Context-Aware Graph Neural Network for Skin Lesion Classification</Title>
+		<DOI>10.1145/3748522.3779958</DOI>
+		<JournalName />
+		<BookTitle>Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing</BookTitle>
+		<JournalVolume />
+		<JournalPages>164-173</JournalPages>
+		<ContributorIds />
+		<ContributorList>Azeem M, Nazir S, Ahmed A, Behera A</ContributorList>
+		<Year>2026</Year>
+		<Month>3</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.funeco.2026.101519</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Host range and global distribution of Gaeumannomyces root fungi of cereal crops and wild grasses</Title>
+		<DOI>10.1016/j.funeco.2026.101519</DOI>
+		<JournalName>Fungal Ecology</JournalName>
+		<JournalVolume>82</JournalVolume>
+		<JournalPages>101519</JournalPages>
+		<ContributorIds>rel22vaz</ContributorIds>
+		<ContributorList>Hill R</ContributorList>
+		<Year>2026</Year>
+		<Month>8</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.64898/2026.05.12.724544</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>The impact of long-read sequencing on fungal genome assemblies: progress and disparity</Title>
+		<DOI>10.64898/2026.05.12.724544</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz</ContributorIds>
+		<ContributorList>Kroll E, Zoclanclounon Y, Urban M, Hill R, Hammond-Kosack K</ContributorList>
+		<Year>2026</Year>
+		<Month>5</Month>
+		<Day>14</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
