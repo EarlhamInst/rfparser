@@ -719,6 +719,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1016/j.margen.2016.06.003</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Targeted sequencing for high-resolution evolutionary analyses following genome duplication in salmonid fish: Proof of concept for key components of the insulin-like growth factor axis</Title>
+		<DOI>10.1016/j.margen.2016.06.003</DOI>
+		<JournalName>Marine Genomics</JournalName>
+		<JournalVolume>30</JournalVolume>
+		<JournalPages>15-26</JournalPages>
+		<ContributorIds>shawr</ContributorIds>
+		<ContributorList>Lappin FM, Shaw RL, Macqueen DJ</ContributorList>
+		<Year>2016</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/2041-210x.70338</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Data‐ and code‐archiving in the British Ecological Society journals: Present status and recommendations for future improvements</Title>
+		<DOI>10.1111/2041-210x.70338</DOI>
+		<JournalName>Methods in Ecology and Evolution</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages>1954-1966</JournalPages>
+		<ContributorIds>shawr</ContributorIds>
+		<ContributorList>Cooper N, the BES Data and Code Hackathon Group</ContributorList>
+		<Year>2026</Year>
+		<Month>6</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1109/mmul.2016.63</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -15887,7 +15921,7 @@
 		<JournalName>Molecular Ecology</JournalName>
 		<JournalVolume>34</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ethering, haertyw</ContributorIds>
+		<ContributorIds>shawr, ethering, haertyw</ContributorIds>
 		<ContributorList>Shaw R, MacPherson J, Kitchener AC, Etherington GJ, Haerty W</ContributorList>
 		<Year>2025</Year>
 		<Month>9</Month>
@@ -17723,7 +17757,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, haertyw</ContributorIds>
+		<ContributorIds>shawr, ethering, haertyw</ContributorIds>
 		<ContributorList>Shaw R, MacPherson J, Kitchener AC, Etherington GJ, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>11</Month>
@@ -21486,7 +21520,7 @@
 		<JournalName>Journal of Heredity</JournalName>
 		<JournalVolume>113</JournalVolume>
 		<JournalPages>500-515</JournalPages>
-		<ContributorIds>ethering, duf26ror, haertyw</ContributorIds>
+		<ContributorIds>ethering, duf26ror, shawr, haertyw</ContributorIds>
 		<ContributorList>Etherington GJ, Ciezarek A, Shaw R, Michaux J, Croose E, Haerty W, Di Palma F</ContributorList>
 		<Year>2022</Year>
 		<Month>8</Month>
@@ -22838,7 +22872,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, duf26ror, haertyw</ContributorIds>
+		<ContributorIds>ethering, duf26ror, shawr, haertyw</ContributorIds>
 		<ContributorList>Etherington GJ, Ciezarek A, Shaw R, Michaux J, Croose E, Haerty W, Di Palma F</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
