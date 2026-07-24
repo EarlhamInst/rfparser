@@ -6226,7 +6226,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr</ContributorIds>
+		<ContributorIds>leggettr, tas26cip</ContributorIds>
 		<ContributorList>Uttin A, Leggett RM, Moulton V, Dicks J</ContributorList>
 		<Year>2026</Year>
 		<Month>5</Month>
@@ -11154,7 +11154,7 @@
 		<JournalName>Bioinformatics</JournalName>
 		<JournalVolume>21</JournalVolume>
 		<JournalPages>278-281</JournalPages>
-		<ContributorIds>ethering</ContributorIds>
+		<ContributorIds>ethering, tas26cip</ContributorIds>
 		<ContributorList>Etherington GJ, Dicks J, Roberts IN</ContributorList>
 		<Year>2004</Year>
 		<Month>8</Month>
@@ -11171,7 +11171,7 @@
 		<JournalName>New Phytologist</JournalName>
 		<JournalVolume>191</JournalVolume>
 		<JournalPages>432-448</JournalPages>
-		<ContributorIds>ethering, salmon</ContributorIds>
+		<ContributorIds>ethering, tas26cip, salmon</ContributorIds>
 		<ContributorList>Inagaki Y, Etherington G, Geisler K, Field B, Dokarry M, Ikeda K, Mutsukado Y, Dicks J, Osbourn A</ContributorList>
 		<Year>2011</Year>
 		<Month>4</Month>
@@ -15003,7 +15003,7 @@
 		<JournalName>medRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>kam24goz, hildebrf</ContributorIds>
+		<ContributorIds>kam24goz, zaf26paf, hildebrf</ContributorIds>
 		<ContributorList>Fernandes N, Cai M, Warren FJ, Duncan A, Harris H, Serrano Contreras JI, Sidorczuk K, Bernal A, Castillo A, Petropoulou K, Blunt D, Perez-Moral N, Garcia-Perez I, Edwards C, Hildebrand F, Holmes E, Wist J, Frost G</ContributorList>
 		<Year>2025</Year>
 		<Month>11</Month>
@@ -16125,7 +16125,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorIds>zaf26paf, hildebrf</ContributorIds>
 		<ContributorList>Jakimowicz M, Sidorczuk K, Huyben D, Hildebrand F, Napora-Rutkowski Ł, Hajduk P, Sztuka M, Mielczarek M, Słomian D, Szulc U, Jarosz L, Szyda J</ContributorList>
 		<Year>2025</Year>
 		<Month>7</Month>
@@ -18966,7 +18966,7 @@
 		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
 		<JournalVolume />
 		<JournalPages>628-641</JournalPages>
-		<ContributorIds />
+		<ContributorIds>tas26cip</ContributorIds>
 		<ContributorList>Ursani Z, Dicks J</ContributorList>
 		<Year>2019</Year>
 		<Month />
@@ -26056,7 +26056,7 @@
 		<JournalName>Genetics</JournalName>
 		<JournalVolume>211</JournalVolume>
 		<JournalPages>277-288</JournalPages>
-		<ContributorIds />
+		<ContributorIds>tas26cip</ContributorIds>
 		<ContributorList>Bensasson D, Dicks J, Ludwig JM, Bond CJ, Elliston A, Roberts IN, James SA</ContributorList>
 		<Year>2018</Year>
 		<Month>11</Month>
@@ -28801,7 +28801,7 @@
 		<JournalName>Virology</JournalName>
 		<JournalVolume>345</JournalVolume>
 		<JournalPages>88-95</JournalPages>
-		<ContributorIds>ethering, dicks</ContributorIds>
+		<ContributorIds>ethering, tas26cip, dicks</ContributorIds>
 		<ContributorList>Etherington GJ, Dicks J, Roberts IN</ContributorList>
 		<Year>2006</Year>
 		<Month>2</Month>
@@ -28835,7 +28835,7 @@
 		<JournalName>Journal of General Virology</JournalName>
 		<JournalVolume>87</JournalVolume>
 		<JournalPages>1229-1235</JournalPages>
-		<ContributorIds>ethering, dicks</ContributorIds>
+		<ContributorIds>ethering, tas26cip, dicks</ContributorIds>
 		<ContributorList>Etherington GJ, Ring SM, Charleston MA, Dicks J, Rayward-Smith VJ, Roberts IN</ContributorList>
 		<Year>2006</Year>
 		<Month>5</Month>
@@ -28903,7 +28903,7 @@
 		<JournalName>Phytochemistry</JournalName>
 		<JournalVolume>69</JournalVolume>
 		<JournalPages>2417-2425</JournalPages>
-		<ContributorIds>baileyp, dicks, martin, wang</ContributorIds>
+		<ContributorIds>tas26cip, baileyp, dicks, martin, wang</ContributorIds>
 		<ContributorList>Bailey PC, Dicks J, Wang TL, Martin C</ContributorList>
 		<Year>2008</Year>
 		<Month>10</Month>
@@ -29194,7 +29194,7 @@
 		<JournalName>Genome</JournalName>
 		<JournalVolume>53</JournalVolume>
 		<JournalPages>1-13</JournalPages>
-		<ContributorIds>bevan, cheemaj, dicks, mckenzie, snape, trick, wrightj</ContributorIds>
+		<ContributorIds>tas26cip, bevan, cheemaj, dicks, mckenzie, snape, trick, wrightj</ContributorIds>
 		<ContributorList>Garvin DF, McKenzie N, Vogel JP, Mockler TC, Blankenheim ZJ, Wright J, Cheema JJ, Dicks J, Huo N, Hayden DM, Gu Y, Tobias C, Chang JH, Chu A, Trick M, Michael TP, Bevan MW, Snape JW</ContributorList>
 		<Year>2010</Year>
 		<Month>1</Month>
@@ -31495,7 +31495,7 @@
 		<JournalName>Systematic Biology</JournalName>
 		<JournalVolume>63</JournalVolume>
 		<JournalPages>543-554</JournalPages>
-		<ContributorIds>davey, dicksj, jamessa, robertsi</ContributorIds>
+		<ContributorIds>tas26cip, davey, dicksj, jamessa, robertsi</ContributorIds>
 		<ContributorList>West C, James SA, Davey RP, Dicks J, Roberts IN</ContributorList>
 		<Year>2014</Year>
 		<Month>3</Month>
@@ -32328,7 +32328,7 @@
 		<JournalName>Biotechnology for Biofuels</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>dicksj, elliston, robertsi, soucourj, tantaler, waldron, woodi</ContributorIds>
+		<ContributorIds>tas26cip, dicksj, elliston, robertsi, soucourj, tantaler, waldron, woodi</ContributorIds>
 		<ContributorList>Elliston A, Wood IP, Soucouri MJ, Tantale RJ, Dicks J, Roberts IN, Waldron KW</ContributorList>
 		<Year>2015</Year>
 		<Month>1</Month>
@@ -33061,7 +33061,7 @@
 		<JournalName>Molecular Biology and Evolution</JournalName>
 		<JournalVolume>32</JournalVolume>
 		<JournalPages>1628-1642</JournalPages>
-		<ContributorIds>dicksj, kettlebg, robertsi</ContributorIds>
+		<ContributorIds>tas26cip, dicksj, kettlebg, robertsi</ContributorIds>
 		<ContributorList>Kettleborough G, Dicks J, Roberts IN, Huber KT</ContributorList>
 		<Year>2015</Year>
 		<Month>2</Month>
@@ -34234,7 +34234,7 @@
 		<JournalName>Scientific Reports</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages />
-		<ContributorIds>davey, dicksj, jamessa, robertsi</ContributorIds>
+		<ContributorIds>tas26cip, davey, dicksj, jamessa, robertsi</ContributorIds>
 		<ContributorList>James SA, West C, Davey RP, Dicks J, Roberts IN</ContributorList>
 		<Year>2016</Year>
 		<Month>6</Month>
@@ -35645,7 +35645,7 @@
 		<JournalName>Frontiers in Immunology</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>dicksj, gbeasy, jamessa, kawasakn, korcsmat, lamprind, robertsi, wilemant, wittmana, zhekovaa</ContributorIds>
+		<ContributorIds>tas26cip, dicksj, gbeasy, jamessa, kawasakn, korcsmat, lamprind, robertsi, wilemant, wittmana, zhekovaa</ContributorIds>
 		<ContributorList>Lamprinaki D, Beasy G, Zhekova A, Wittmann A, James S, Dicks J, Iwakura Y, Saijo S, Wang X, Chow C, Roberts I, Korcsmaros T, Mayer U, Wileman T, Kawasaki N</ContributorList>
 		<Year>2017</Year>
 		<Month>10</Month>
@@ -35696,7 +35696,7 @@
 		<JournalName>Scientific Reports</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages />
-		<ContributorIds>collinss, colquhou, dicksj, elliston, glegall, robertsi, waldron, wuj</ContributorIds>
+		<ContributorIds>tas26cip, collinss, colquhou, dicksj, elliston, glegall, robertsi, waldron, wuj</ContributorIds>
 		<ContributorList>Wu J, Elliston A, Le Gall G, Colquhoun IJ, Collins SRA, Dicks J, Roberts IN, Waldron KW</ContributorList>
 		<Year>2017</Year>
 		<Month>10</Month>
@@ -36444,7 +36444,7 @@
 		<JournalName>Biotechnology for Biofuels</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>collinss, dicksj, elliston, robertsi, waldron, wellner, wuj</ContributorIds>
+		<ContributorIds>tas26cip, collinss, dicksj, elliston, robertsi, waldron, wellner, wuj</ContributorIds>
 		<ContributorList>Wu J, Collins SRA, Elliston A, Wellner N, Dicks J, Roberts IN, Waldron KW</ContributorList>
 		<Year>2018</Year>
 		<Month>6</Month>
@@ -42829,7 +42829,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>25</JournalVolume>
 		<JournalPages />
-		<ContributorIds>hildebrf, cerk, fritsche, hildebra, kar23yal, kingsler, kolenda</ContributorIds>
+		<ContributorIds>zaf26paf, hildebrf, cerk, fritsche, hildebra, kar23yal, kingsler, kolenda</ContributorIds>
 		<ContributorList>Sidorczuk K, Burdukiewicz M, Cerk K, Fritscher J, Kingsley RA, Schierack P, Hildebrand F, Kolenda R</ContributorList>
 		<Year>2024</Year>
 		<Month>6</Month>
@@ -43305,7 +43305,7 @@
 		<JournalName>Nucleic Acids Research</JournalName>
 		<JournalVolume>53</JournalVolume>
 		<JournalPages />
-		<ContributorIds>kam24goz, quince, hildebrf, duncana, frioux, hildebra, kar23yal, rak23yor</ContributorIds>
+		<ContributorIds>kam24goz, zaf26paf, quince, hildebrf, duncana, frioux, hildebra, kar23yal, rak23yor</ContributorIds>
 		<ContributorList>Duncan A, Koon W, Sidorczuk K, Quince C, Frioux C, Hildebrand F</ContributorList>
 		<Year>2025</Year>
 		<Month>11</Month>
