@@ -11502,6 +11502,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1002/aps3.70072</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Integrating machine learning, deep learning, and image analysis for seed species classification</Title>
+		<DOI>10.1002/aps3.70072</DOI>
+		<JournalName>Applications in Plant Sciences</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ashworth, halla, fshaw, devegaj</ContributorIds>
+		<ContributorList>Ashworth J, Barrett E, Haque R, Wildey B, Hall A, Shaw F, De Vega JJ</ContributorList>
+		<Year>2026</Year>
+		<Month>7</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1007/s10482-013-0041-z</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
