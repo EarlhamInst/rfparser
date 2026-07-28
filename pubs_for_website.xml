@@ -43482,4 +43482,21 @@
 		<Day>19</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
+	<publication>
+		<id>10.1016/j.copbio.2026.103510</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Mind the gap: the challenges and opportunities for genomics-driven harnessing of plant metabolic diversity for therapeutic applications</Title>
+		<DOI>10.1016/j.copbio.2026.103510</DOI>
+		<JournalName>Current Opinion in Biotechnology</JournalName>
+		<JournalVolume>99</JournalVolume>
+		<JournalPages>103510</JournalPages>
+		<ContributorIds>halln, osbourna, owenc, steuernb</ContributorIds>
+		<ContributorList>Owen C, Steuernagel B, Hall N, Paige B, Osbourn A</ContributorList>
+		<Year>2026</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
 </publications>
