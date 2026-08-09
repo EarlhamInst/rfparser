@@ -527,7 +527,7 @@
 		<Year>2012</Year>
 		<Month>7</Month>
 		<Day>15</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/978-3-642-45161-4_1</id>
@@ -1636,7 +1636,7 @@
 		<Year>2014</Year>
 		<Month>9</Month>
 		<Day>14</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ismej.2014.175</id>
@@ -4139,7 +4139,7 @@
 		<Year>2013</Year>
 		<Month>9</Month>
 		<Day>23</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/nar/gkt728</id>
@@ -6826,7 +6826,7 @@
 		<Year>2005</Year>
 		<Month>12</Month>
 		<Day>22</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1126/science.1110439</id>
@@ -8157,7 +8157,7 @@
 		<Year>2007</Year>
 		<Month>11</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1534/genetics.107.078865</id>
@@ -10379,6 +10379,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1099/mic.0.001748</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Engineering rhizobacterial communities for soil and plant health</Title>
+		<DOI>10.1099/mic.0.001748</DOI>
+		<JournalName>Microbiology</JournalName>
+		<JournalVolume>172</JournalVolume>
+		<JournalPages />
+		<ContributorIds>lak25yir, bil25gif, reg23vok</ContributorIds>
+		<ContributorList>Garcia-Perez E, Perrin L, Malone JG, Thompson CMA, Guiziou S</ContributorList>
+		<Year>2026</Year>
+		<Month>8</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.margen.2018.01.004</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -10870,7 +10887,7 @@
 		<Year>2007</Year>
 		<Month>10</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/gr.6675307</id>
@@ -22571,7 +22588,7 @@
 		<Year>2021</Year>
 		<Month>11</Month>
 		<Day>24</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41587-021-01058-4</id>
@@ -24169,7 +24186,7 @@
 		<Year>2020</Year>
 		<Month>12</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.apsoil.2020.103835</id>
@@ -24186,7 +24203,7 @@
 		<Year>2021</Year>
 		<Month>3</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.agee.2020.107083</id>
@@ -24203,7 +24220,7 @@
 		<Year>2020</Year>
 		<Month>10</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3390/d12110419</id>
@@ -25055,7 +25072,7 @@
 		<Year>2019</Year>
 		<Month>3</Month>
 		<Day>13</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.plaphy.2019.02.002</id>
@@ -26489,7 +26506,7 @@
 		<Year>2018</Year>
 		<Month>1</Month>
 		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41588-018-0051-x</id>
@@ -27409,7 +27426,7 @@
 		<Year>2012</Year>
 		<Month>5</Month>
 		<Day>16</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/s11032-013-9954-5</id>
@@ -30291,7 +30308,7 @@
 		<Year>2012</Year>
 		<Month>9</Month>
 		<Day>1</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ng.2392</id>
@@ -32590,7 +32607,7 @@
 		<Year>2015</Year>
 		<Month>3</Month>
 		<Day>30</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/nph.13373</id>
@@ -34171,7 +34188,7 @@
 		<Year>2016</Year>
 		<Month>8</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/1462-2920.12942</id>
@@ -41644,7 +41661,7 @@
 		<Year>2022</Year>
 		<Month>5</Month>
 		<Day>16</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2022.05.10.490902</id>
@@ -42732,7 +42749,7 @@
 		<Year>2023</Year>
 		<Month>8</Month>
 		<Day>7</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/plphys/kiae429</id>
