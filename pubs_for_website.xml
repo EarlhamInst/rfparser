@@ -2311,7 +2311,7 @@
 		<JournalName>Nucleic Acids Research</JournalName>
 		<JournalVolume>49</JournalVolume>
 		<JournalPages>W619-W623</JournalPages>
-		<ContributorIds>bil24laz</ContributorIds>
+		<ContributorIds>sar26cez, bil24laz</ContributorIds>
 		<ContributorList>Harrison PW, Lopez R, Rahman N, Allen SG, Aslam R, Buso N, Cummins C, Fathy Y, Felix E, Glont M, Jayathilaka S, Kadam S, Kumar M, Lauer KB, Malhotra G, Mosaku A, Edbali O, Park YM, Parton A, Pearce M, Estrada Pena JF, Rossetto J, Russell C, Selvakumar S, Sitjà XP, Sokolov A, Thorne R, Ventouratou M, Walter P, Yordanova G, Zadissa A, Cochrane G, Blomberg N, Apweiler R</ContributorList>
 		<Year>2021</Year>
 		<Month>5</Month>
@@ -12106,7 +12106,7 @@
 		<JournalName>Plant Physiology</JournalName>
 		<JournalVolume>191</JournalVolume>
 		<JournalPages>35-46</JournalPages>
-		<ContributorIds>taz23zir, kon24kop</ContributorIds>
+		<ContributorIds>sar26cez, taz23zir, kon24kop</ContributorIds>
 		<ContributorList>Fahlgren N, Kapoor M, Yordanova G, Papatheodorou I, Waese J, Cole B, Harrison P, Ware D, Tickle T, Paten B, Burdett T, Elsik CG, Tuggle CK, Provart NJ</ContributorList>
 		<Year>2022</Year>
 		<Month>10</Month>
@@ -12276,7 +12276,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>638</JournalVolume>
 		<JournalPages>351-359</JournalPages>
-		<ContributorIds>kon24kop</ContributorIds>
+		<ContributorIds>kon24kop, sar26cez</ContributorIds>
 		<ContributorList>Adli M, Przybyla L, Burdett T, Burridge PW, Cacheiro P, Chang HY, Engreitz JM, Gilbert LA, Greenleaf WJ, Hsu L, Huangfu D, Hung L, Kundaje A, Li S, Parkinson H, Qiu X, Robson P, Schürer SC, Shojaie A, Skarnes WC, Smedley D, Studer L, Sun W, Vidović D, Vierbuchen T, White BS, Yeung KY, Yue F, Zhou T, The MorPhiC Consortium, Abbaszadeh N, Diniz JA, Amiri A, Avireddy RNVSRK, Bai T, Baker DS, Baroch JJ, Chan C, Chen S, Chen X, Cho HS, Choudhary A, Chung CE, Dahlstrom TJ, Doty A, Eraslan B, Felsenfeld AL, Fleming PJ, Fletcher CF, Flores J, Flynn WF, Fu Y, Fukuda BN, Garofalo JL, Glenn RA, Goyal J, Griffiths AM, Guo T, Gupta R, Gupta D, Hu N, Huang Y, Huebner AJ, Hutter C, Kendra A, Kirsammer G, Koci OA, Kraft K, Li Z, Li S, Liu S, Liu Z, Liu D, Liu N, Luo R, Leite DL, Mao Y, Marengo G, McDonough JA, Melo-Carrillo A, Meng C, Metzl-Raz E, Mitchell JM, Mittal V, Nasam N, Neyisci O, Ning G, Parker D, Pilarczyk M, Pillai A, Poirion OB, Pongpamorn P, Rana A, Rivera-Diaz J, Ross NC, Ventura ES, Seker F, Sengupta K, Shivalikanjli A, Tang W, Torre D, Wang P, Wang X, Xing D, Yang D, Yordanova GN, Yu B, Zeng T, Zhang S, Zhang Z, Zhang N, Zhao H, Zheng S, Zhong A, Žurauskienė J</ContributorList>
 		<Year>2025</Year>
 		<Month>2</Month>
@@ -14953,7 +14953,7 @@
 		<JournalVolume>6</JournalVolume>
 		<JournalPages>101345</JournalPages>
 		<ContributorIds />
-		<ContributorList>Alper P, D'Anna F, Droesbeke B, Andrabi M, Andrade Buono R, Bianchini F, Bösl K, Chandramouliswaran I, Cook M, Faria D, Fatima N, Hooft R, Jareborg N, Jetten M, Pilvar D, Poires-Oliveira G, Popleteeva M, Portell-Silva L, Slifka J, Suchánek M, van Gelder C, Welter D, Wittig U, Coppens F, Goble C</ContributorList>
+		<ContributorList>Alper P, D'Anna F, Droesbeke B, Andrabi M, Andrade Buono R, Bianchini F, Bösl K, Chandramouliswaran I, Cook M, Faria D, Fatima N, Hooft R, Jareborg N, Jetten M, Pilvar D, Poiares-Oliveira G, Popleteeva M, Portell-Silva L, Slifka J, Suchánek M, van Gelder C, Welter D, Wittig U, Coppens F, Goble C</ContributorList>
 		<Year>2025</Year>
 		<Month>9</Month>
 		<Day />
@@ -17349,7 +17349,7 @@
 		<JournalName>Frontiers in Genetics</JournalName>
 		<JournalVolume>15</JournalVolume>
 		<JournalPages />
-		<ContributorIds>taz23zir, kon24kop</ContributorIds>
+		<ContributorIds>taz23zir, sar26cez, kon24kop</ContributorIds>
 		<ContributorList>Kapoor M, Ventura ES, Walsh A, Sokolov A, George N, Kumari S, Provart NJ, Cole B, Libault M, Tickle T, Warren WC, Koltes JE, Papatheodorou I, Ware D, Harrison PW, Elsik C, Yordanova G, Burdett T, Tuggle CK</ContributorList>
 		<Year>2024</Year>
 		<Month>11</Month>
