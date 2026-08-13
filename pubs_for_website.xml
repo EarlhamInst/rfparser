@@ -1,6 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1093/nar/gky984</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>PDX Finder: A portal for patient-derived tumor xenograft model discovery</Title>
+		<DOI>10.1093/nar/gky984</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>47</JournalVolume>
+		<JournalPages>D1073-D1079</JournalPages>
+		<ContributorIds>sar26cez</ContributorIds>
+		<ContributorList>Conte N, Mason JC, Halmagyi C, Neuhauser S, Mosaku A, Yordanova G, Chatzipli A, Begley DA, Krupke DM, Parkinson H, Meehan TF, Bult CC</ContributorList>
+		<Year>2018</Year>
+		<Month>12</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkab1061</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models</Title>
+		<DOI>10.1093/nar/gkab1061</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>D439-D444</JournalPages>
+		<ContributorIds>sar26cez</ContributorIds>
+		<ContributorList>Varadi M, Anyango S, Deshpande M, Nair S, Natassia C, Yordanova G, Yuan D, Stroe O, Wood G, Laydon A, Žídek A, Green T, Tunyasuvunakool K, Petersen S, Jumper J, Clancy E, Green R, Vora A, Lutfi M, Figurnov M, Cowie A, Hobbs N, Kohli P, Kleywegt G, Birney E, Hassabis D, Velankar S</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.11.12.688105</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A comprehensive AMR genotype-phenotype database (CABBAGE)</Title>
+		<DOI>10.1101/2025.11.12.688105</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>sar26cez</ContributorIds>
+		<ContributorList>Dickens E, Derelle R, Beardmore R, Suresh A, Uplekar S, Azov AG, Gurbich TA, El Houdaigui B, Keatley J, Ochkalova S, Koci O, Rahman NM, Shivalikanjli A, Winterbottom A, Yordanova G, Parkinson H, Yates AD, Finn RD, Lees JA, Chindelevitch L</ContributorList>
+		<Year>2025</Year>
+		<Month>11</Month>
+		<Day>13</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1002/ece3.4722</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
