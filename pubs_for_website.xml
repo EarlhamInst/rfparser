@@ -8518,6 +8518,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1111/mec.70513</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Over‐Representation of Sperm‐Associated Deleterious Mutations Across Wild and Ex Situ Cheetah ( Acinonyx jubatus ) Populations</Title>
+		<DOI>10.1111/mec.70513</DOI>
+		<JournalName>Molecular Ecology</JournalName>
+		<JournalVolume>35</JournalVolume>
+		<JournalPages />
+		<ContributorIds>jpeers, haertyw</ContributorIds>
+		<ContributorList>Peers JA, Sibley HR, Armstrong EE, Crosier AE, Nash WJ, Koepfli K, Haerty W</ContributorList>
+		<Year>2026</Year>
+		<Month>8</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/nar/gkw624</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -39913,7 +39930,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)1</Title>
+		<Title>Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition) 1</Title>
 		<DOI>10.1080/15548627.2020.1797280</DOI>
 		<JournalName>Autophagy</JournalName>
 		<JournalVolume>17</JournalVolume>
