@@ -8501,23 +8501,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.64898/2026.07.07.736956</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Barcoded-Plasmid DNA library construction for recording cell lineage trees enabled by a Scalable and modular Biofoundry-based Automated Robotic Pipeline</Title>
-		<DOI>10.64898/2026.07.07.736956</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>taf22big, pek24giz, yor25yat, jod23rof, lany, haertyw, wojtowic, grandell</ContributorIds>
-		<ContributorList>Tassinari E, Ives L, Hawkins E, Annese D, Fonseca S, Lan Y, Haerty W, Wojtowicz EE, Grandellis C</ContributorList>
-		<Year>2026</Year>
-		<Month>7</Month>
-		<Day>8</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1111/mec.70513</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -14274,6 +14257,23 @@
 		<Year>2024</Year>
 		<Month>11</Month>
 		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.64898/2026.07.07.736956</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Barcoded-Plasmid DNA library construction for recording cell lineage trees enabled by a Scalable and modular Biofoundry-based Automated Robotic Pipeline</Title>
+		<DOI>10.64898/2026.07.07.736956</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>taf22big, pek24giz, yor25yat, jod23rof, lany, haertyw, wojtowic, grandell</ContributorIds>
+		<ContributorList>Tassinari E, Ives L, Hawkins E, Annese D, Fonseca S, Lan Y, Haerty W, Wojtowicz EE, Grandellis C</ContributorList>
+		<Year>2026</Year>
+		<Month>7</Month>
+		<Day>8</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
