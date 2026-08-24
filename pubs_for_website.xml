@@ -271,7 +271,7 @@
 		<Year>2017</Year>
 		<Month>5</Month>
 		<Day>10</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.03.18.436017</id>
@@ -1330,7 +1330,7 @@
 		<Year>2011</Year>
 		<Month>4</Month>
 		<Day>27</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/j.1469-8137.2011.03755.x</id>
@@ -1347,7 +1347,7 @@
 		<Year>2011</Year>
 		<Month>5</Month>
 		<Day>9</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/bioinformatics/btr381</id>
@@ -1398,7 +1398,7 @@
 		<Year>2011</Year>
 		<Month>12</Month>
 		<Day>8</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/nar/gks002</id>
@@ -1568,7 +1568,7 @@
 		<Year>2013</Year>
 		<Month>5</Month>
 		<Day>6</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1136/gutjnl-2012-303249</id>
@@ -3950,7 +3950,7 @@
 		<Year>2004</Year>
 		<Month>10</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1530/rep.1.00131</id>
@@ -5262,7 +5262,7 @@
 		<Year>2013</Year>
 		<Month>9</Month>
 		<Day>16</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.4103/jpbs.jpbs_1012_25</id>
@@ -5313,7 +5313,7 @@
 		<Year>2007</Year>
 		<Month>1</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/molbev/msn087</id>
@@ -5449,7 +5449,7 @@
 		<Year>2014</Year>
 		<Month>11</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12864-015-1499-z</id>
@@ -5551,7 +5551,7 @@
 		<Year>2012</Year>
 		<Month>1</Month>
 		<Day>18</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1017/S0031182012001059</id>
@@ -5789,7 +5789,7 @@
 		<Year>2007</Year>
 		<Month>6</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.compbiolchem.2007.03.005</id>
@@ -5925,7 +5925,7 @@
 		<Year>2013</Year>
 		<Month>1</Month>
 		<Day>3</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ncb2709</id>
@@ -6537,7 +6537,7 @@
 		<Year>2001</Year>
 		<Month>1</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/sj.onc.1204110</id>
@@ -6962,7 +6962,7 @@
 		<Year>2005</Year>
 		<Month>5</Month>
 		<Day>5</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/nature03291</id>
@@ -7865,7 +7865,7 @@
 		<Year>2007</Year>
 		<Month>4</Month>
 		<Day>5</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1385/1-59745-257-2:143</id>
@@ -7900,7 +7900,7 @@
 		<Year>2007</Year>
 		<Month>3</Month>
 		<Day>23</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.cbpa.2008.04.396</id>
@@ -8070,7 +8070,7 @@
 		<Year>2012</Year>
 		<Month>7</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/j.1467-7652.2012.00713.x</id>
@@ -8412,7 +8412,7 @@
 		<Year>2007</Year>
 		<Month>11</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1534/genetics.107.078865</id>
@@ -8429,7 +8429,7 @@
 		<Year>2007</Year>
 		<Month>11</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/s00239-007-9048-2</id>
@@ -8668,7 +8668,7 @@
 		<Year>2016</Year>
 		<Month>9</Month>
 		<Day>29</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2025.08.29.673031</id>
@@ -8859,7 +8859,7 @@
 		<Year>2021</Year>
 		<Month>4</Month>
 		<Day>3</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/plphys/kiab336</id>
@@ -8876,7 +8876,7 @@
 		<Year>2021</Year>
 		<Month>8</Month>
 		<Day>26</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/978-1-0716-2617-7_8</id>
@@ -10206,7 +10206,7 @@
 		<Year>2017</Year>
 		<Month>7</Month>
 		<Day>31</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1534/g3.117.040717</id>
@@ -10230,7 +10230,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Development of a Medium Density Combined-Species SNP Array for Pacific and European Oysters (Crassostrea gigasandOstrea edulis)</Title>
+		<Title>Development of a Medium Density Combined-Species SNP Array for Pacific and European Oysters ( Crassostrea gigas and Ostrea edulis )</Title>
 		<DOI>10.1534/g3.117.041780</DOI>
 		<JournalName>G3 Genes|Genomes|Genetics</JournalName>
 		<JournalVolume>7</JournalVolume>
@@ -10989,7 +10989,7 @@
 		<Year>2005</Year>
 		<Month>12</Month>
 		<Day>25</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/nature04727</id>
@@ -11720,7 +11720,7 @@
 		<Year>2020</Year>
 		<Month>4</Month>
 		<Day>3</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/S0140-6736(05)72006-7</id>
@@ -12825,7 +12825,7 @@
 		<Year>2010</Year>
 		<Month>5</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1126/scitranslmed.3002004</id>
@@ -12893,7 +12893,7 @@
 		<Year>2012</Year>
 		<Month>6</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/S1470-2045(12)70372-8</id>
@@ -16589,7 +16589,7 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.21203/rs.3.rs-6080581/v1</id>
@@ -17813,7 +17813,7 @@
 		<Year>2022</Year>
 		<Month>6</Month>
 		<Day>20</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2020.08.04.236885</id>
@@ -18255,7 +18255,7 @@
 		<Year>2024</Year>
 		<Month>6</Month>
 		<Day>25</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3324/haematol.2023.283944</id>
@@ -18449,7 +18449,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Genome-wide association analyses using multilocus models on bananas (Musa spp.) reveal candidate genes related to morphology, fruit quality, and yield</Title>
+		<Title>Genome-wide association analyses using multilocus models on bananas ( Musa spp.) reveal candidate genes related to morphology, fruit quality, and yield</Title>
 		<DOI>10.1093/g3journal/jkae108</DOI>
 		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
 		<JournalVolume>14</JournalVolume>
@@ -21413,7 +21413,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Diverged subpopulations in tropicalUrochloa(Brachiaria) forage species indicate a role for facultative apomixis and varying ploidy in their population structure and evolution</Title>
+		<Title>Diverged subpopulations in tropical Urochloa ( Brachiaria ) forage species indicate a role for facultative apomixis and varying ploidy in their population structure and evolution</Title>
 		<DOI>10.1093/aob/mcac115</DOI>
 		<JournalName>Annals of Botany</JournalName>
 		<JournalVolume>130</JournalVolume>
@@ -22088,7 +22088,7 @@
 		<Year>2020</Year>
 		<Month>12</Month>
 		<Day>10</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3233/ds-210053</id>
@@ -24067,7 +24067,7 @@
 		<Year>2020</Year>
 		<Month>7</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1002/mrc.5023</id>
@@ -24936,7 +24936,7 @@
 		<Year>2019</Year>
 		<Month>8</Month>
 		<Day>26</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/mec.15160</id>
@@ -25414,7 +25414,7 @@
 		<Year>2019</Year>
 		<Month />
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/bioinformatics/btaa007</id>
@@ -25959,7 +25959,7 @@
 		<Year>2019</Year>
 		<Month>1</Month>
 		<Day>29</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/1755-0998.13002</id>
@@ -26231,7 +26231,7 @@
 		<Year>2018</Year>
 		<Month>11</Month>
 		<Day>21</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s40793-018-0316-0</id>
@@ -27271,7 +27271,7 @@
 		<Year>2013</Year>
 		<Month>10</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1152/physiolgenomics.00109.2013</id>
@@ -27458,7 +27458,7 @@
 		<Year>2013</Year>
 		<Month>5</Month>
 		<Day>15</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1099/ijs.0.047555-0</id>
@@ -28329,7 +28329,7 @@
 		<Year>2017</Year>
 		<Month>1</Month>
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/gr.207704.116</id>
@@ -28754,7 +28754,7 @@
 		<Year>2015</Year>
 		<Month>6</Month>
 		<Day>24</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1104/pp.15.01667</id>
@@ -28993,7 +28993,7 @@
 		<Year>2006</Year>
 		<Month>3</Month>
 		<Day>10</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1099/vir.0.81635-0</id>
@@ -29318,7 +29318,7 @@
 		<Year>2010</Year>
 		<Month>1</Month>
 		<Day>13</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1017/S0031182009991132</id>
@@ -29386,7 +29386,7 @@
 		<Year>2010</Year>
 		<Month>2</Month>
 		<Day>15</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.ygeno.2009.10.004</id>
@@ -29726,7 +29726,7 @@
 		<Year>2011</Year>
 		<Month>3</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/gb-2011-12-3-r28</id>
@@ -30308,7 +30308,7 @@
 		<Year>2012</Year>
 		<Month>2</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.cag.2012.03.033</id>
@@ -30750,7 +30750,7 @@
 		<Year>2013</Year>
 		<Month>1</Month>
 		<Day>7</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pone.0055240</id>
@@ -30801,7 +30801,7 @@
 		<Year>2013</Year>
 		<Month>4</Month>
 		<Day>7</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pone.0060058</id>
@@ -31313,7 +31313,7 @@
 		<Year>2013</Year>
 		<Month>12</Month>
 		<Day>16</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/1746-4811-9-37</id>
@@ -31762,7 +31762,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Colonic mucosa-associated diffusely adherentafaC+ Escherichia coliexpressinglpfAandpksare increased in inflammatory bowel disease and colon cancer</Title>
+		<Title>Colonic mucosa-associated diffusely adherent afaC+ Escherichia coli expressing lpfA and pks are increased in inflammatory bowel disease and colon cancer</Title>
 		<DOI>10.1136/gutjnl-2013-304739</DOI>
 		<JournalName>Gut</JournalName>
 		<JournalVolume>63</JournalVolume>
@@ -32350,7 +32350,7 @@
 		<Year>2015</Year>
 		<Month>1</Month>
 		<Day>22</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/gr.181990.114</id>
@@ -32656,7 +32656,7 @@
 		<Year>2015</Year>
 		<Month>6</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/nar/gku1341</id>
@@ -32777,7 +32777,7 @@
 		<Year>2015</Year>
 		<Month>4</Month>
 		<Day>11</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ng.3221</id>
@@ -33542,7 +33542,7 @@
 		<Year>2015</Year>
 		<Month>7</Month>
 		<Day>14</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/bioinformatics/btv623</id>
@@ -34290,7 +34290,7 @@
 		<Year>2016</Year>
 		<Month>7</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12864-016-2684-4</id>
@@ -34647,7 +34647,7 @@
 		<Year>2016</Year>
 		<Month>9</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1073/pnas.1606004113</id>
@@ -35973,7 +35973,7 @@
 		<Year>2017</Year>
 		<Month>9</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/219352</id>
@@ -37575,7 +37575,7 @@
 		<Year>2019</Year>
 		<Month>4</Month>
 		<Day>15</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/aob/mcy230</id>
@@ -38170,7 +38170,7 @@
 		<Year>2019</Year>
 		<Month>11</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.chom.2019.08.001</id>
