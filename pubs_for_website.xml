@@ -804,6 +804,601 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.20944/preprints202108.0303.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Ten Simple Rules for Sharing Experimental and Clinical Data with the Modeling Community</Title>
+		<DOI>10.20944/preprints202108.0303.v1</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>König M, Grzegorzewski J, Golebiewski M, Hermjakob H, Hucka M, Olivier B, Keating S, Nickerson D, Schreiber F, Sheriff R, Waltemath D</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day>13</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.20944/preprints202108.0303.v2</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Ten Simple Rules for FAIR Sharing of Experimental and Clinical Data with the Modeling Community</Title>
+		<DOI>10.20944/preprints202108.0303.v2</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>König M, Grzegorzewski J, Golebiewski M, Hermjakob H, Hucka M, Olivier B, Keating S, Nickerson D, Schreiber F, Sheriff R, Waltemath D</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>19</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.20944/preprints202206.0137.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>FAIR Sharing of Reproducible Models of Epidemic and Pandemic Forecast</Title>
+		<DOI>10.20944/preprints202206.0137.v1</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Ramachandran K, König M, Scharm M, Nguyen TVN, Hermjakob H, Waltemath D, Malik Sheriff RS</ContributorList>
+		<Year>2022</Year>
+		<Month>6</Month>
+		<Day>9</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12918-015-0170-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Uncovering distinct protein-network topologies in heterogeneous cell populations</Title>
+		<DOI>10.1186/s12918-015-0170-2</DOI>
+		<JournalName>BMC Systems Biology</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Wieczorek J, Malik-Sheriff RS, Fermin Y, Grecco HE, Zamir E, Ickstadt K</ContributorList>
+		<Year>2015</Year>
+		<Month>6</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.molcel.2016.09.018</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Positive Feedback Keeps Duration of Mitosis Temporally Insulated from Upstream Cell-Cycle Events</Title>
+		<DOI>10.1016/j.molcel.2016.09.018</DOI>
+		<JournalName>Molecular Cell</JournalName>
+		<JournalVolume>64</JournalVolume>
+		<JournalPages>362-375</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Araujo AR, Gelens L, Sheriff RS, Santos SD</ContributorList>
+		<Year>2016</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pone.0160591</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Highly Multiplexed Imaging Uncovers Changes in Compositional Noise within Assembling Focal Adhesions</Title>
+		<DOI>10.1371/journal.pone.0160591</DOI>
+		<JournalName>PLOS ONE</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages>e0160591</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Harizanova J, Fermin Y, Malik-Sheriff RS, Wieczorek J, Ickstadt K, Grecco HE, Zamir E</ContributorList>
+		<Year>2016</Year>
+		<Month>8</Month>
+		<Day>12</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/acn3.449</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Biased numerical cognition impairs economic decision‐making in Parkinson's disease</Title>
+		<DOI>10.1002/acn3.449</DOI>
+		<JournalName>Annals of Clinical and Translational Neurology</JournalName>
+		<JournalVolume>4</JournalVolume>
+		<JournalPages>739-748</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Arshad Q, Bonsu A, Lobo R, Fluri A, Sheriff R, Bain P, Pavese N, Bronstein AM</ContributorList>
+		<Year>2017</Year>
+		<Month>9</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41598-018-20252-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Diverse patterns of molecular changes in the mechano-responsiveness of focal adhesions</Title>
+		<DOI>10.1038/s41598-018-20252-0</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Malik-Sheriff RS, Imtiaz S, Grecco HE, Zamir E</ContributorList>
+		<Year>2018</Year>
+		<Month>2</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkx1023</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioModels: expanding horizons to include more modelling approaches and formats</Title>
+		<DOI>10.1093/nar/gkx1023</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>46</JournalVolume>
+		<JournalPages>D1248-D1253</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Glont M, Nguyen TVN, Graesslin M, Hälke R, Ali R, Schramm J, Wimalaratne SM, Kothamachu VB, Rodriguez N, Swat MJ, Eils J, Eils R, Laibe C, Malik-Sheriff RS, Chelliah V, Le Novère N, Hermjakob H</ContributorList>
+		<Year>2017</Year>
+		<Month>11</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/350991</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Memote: A community driven effort towards a standardized genome-scale metabolic model test suite</Title>
+		<DOI>10.1101/350991</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist A, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kim HU, King Z, Koehorst JJ, Klamt S, Klipp E, Lakshmanan M, Le Novère N, Lee D, Lee SY, Lee S, Lewis NE, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Resendis-Antonio O, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Richelle A, Rocha I, Sanchez BJ, Schaap PJ, Malik Sheriff RS, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JA, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
+		<Year>2018</Year>
+		<Month>6</Month>
+		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/psp4.12381</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Best Practices to Maximize the Use and Reuse of Quantitative and Systems Pharmacology Models: Recommendations From the United Kingdom Quantitative and Systems Pharmacology Network</Title>
+		<DOI>10.1002/psp4.12381</DOI>
+		<JournalName>CPT: Pharmacometrics &amp;amp; Systems Pharmacology</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages>259-272</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Cucurull‐Sanchez L, Chappell MJ, Chelliah V, Amy Cheung SY, Derks G, Penney M, Phipps A, Malik‐Sheriff RS, Timmis J, Tindall MJ, van der Graaf PH, Vicini P, Yates JWT</ContributorList>
+		<Year>2019</Year>
+		<Month>3</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1515/jib-2019-0021</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core Release 2</Title>
+		<DOI>10.1515/jib-2019-0021</DOI>
+		<JournalName>Journal of Integrative Bioinformatics</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Hucka M, Bergmann FT, Chaouiya C, Dräger A, Hoops S, Keating SM, König M, Novère NL, Myers CJ, Olivier BG, Sahle S, Schaff JC, Sheriff R, Smith LP, Waltemath D, Wilkinson DJ, Zhang F</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkz1055</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioModels—15 years of sharing computational models in life science</Title>
+		<DOI>10.1093/nar/gkz1055</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Malik-Sheriff RS, Glont M, Nguyen TVN, Tiwari K, Roberts MG, Xavier A, Vu MT, Men J, Maire M, Kananathan S, Fairbanks EL, Meyer JP, Arankalle C, Varusai TM, Knight-Schrijver V, Li L, Dueñas-Roca C, Dass G, Keating SM, Park YM, Buso N, Rodriguez N, Hucka M, Hermjakob H</ContributorList>
+		<Year>2019</Year>
+		<Month>11</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41587-020-0446-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>MEMOTE for standardized genome-scale metabolic model testing</Title>
+		<DOI>10.1038/s41587-020-0446-y</DOI>
+		<JournalName>Nature Biotechnology</JournalName>
+		<JournalVolume>38</JournalVolume>
+		<JournalPages>272-276</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist AM, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kaafarani A, Kim HU, King Z, Klamt S, Klipp E, Koehorst JJ, König M, Lakshmanan M, Lee D, Lee SY, Lee S, Lewis NE, Liu F, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Resendis-Antonio O, Richelle A, Rocha I, Sánchez BJ, Schaap PJ, Malik Sheriff RS, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JAH, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>1</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bib/bbaa046</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Setting the basis of best practices and standards for curation and annotation of logical models in biology—highlights of the [BC]2 2019 CoLoMoTo/SysMod Workshop</Title>
+		<DOI>10.1093/bib/bbaa046</DOI>
+		<JournalName>Briefings in Bioinformatics</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages>1848-1859</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Niarakis A, Kuiper M, Ostaszewski M, Malik Sheriff RS, Casals-Casas C, Thieffry D, Freeman TC, Thomas P, Touré V, Noël V, Stoll G, Saez-Rodriguez J, Naldi A, Oshurko E, Xenarios I, Soliman S, Chaouiya C, Helikar T, Calzone L</ContributorList>
+		<Year>2020</Year>
+		<Month>4</Month>
+		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41587-020-0477-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Publisher Correction: MEMOTE for standardized genome-scale metabolic model testing</Title>
+		<DOI>10.1038/s41587-020-0477-4</DOI>
+		<JournalName>Nature Biotechnology</JournalName>
+		<JournalVolume>38</JournalVolume>
+		<JournalPages>504-504</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist AM, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kaafarani A, Kim HU, King Z, Klamt S, Klipp E, Koehorst JJ, König M, Lakshmanan M, Lee D, Lee SY, Lee S, Lewis NE, Liu F, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Resendis-Antonio O, Richelle A, Rocha I, Sánchez BJ, Schaap PJ, Sheriff RSM, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JAH, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.stem.2020.03.005</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>GATA3 Mediates a Fast, Irreversible Commitment to BMP4-Driven Differentiation in Human Embryonic Stem Cells</Title>
+		<DOI>10.1016/j.stem.2020.03.005</DOI>
+		<JournalName>Cell Stem Cell</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages>693-706.e9</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Gunne-Braden A, Sullivan A, Gharibi B, Sheriff RS, Maity A, Wang Y, Edwards A, Jiang M, Howell M, Goldstone R, Wollman R, East P, Santos SD</ContributorList>
+		<Year>2020</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1515/jib-2020-0005</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The first 10 years of the international coordination network for standards in systems and synthetic biology (COMBINE)</Title>
+		<DOI>10.1515/jib-2020-0005</DOI>
+		<JournalName>Journal of Integrative Bioinformatics</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Waltemath D, Golebiewski M, Blinov ML, Gleeson P, Hermjakob H, Hucka M, Inau ET, Keating SM, König M, Krebs O, Malik-Sheriff RS, Nickerson D, Oberortner E, Sauro HM, Schreiber F, Smith L, Stefan MI, Wittig U, Myers CJ</ContributorList>
+		<Year>2020</Year>
+		<Month>6</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioinformatics/btaa560</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioModels Parameters: a treasure trove of parameter values from published systems biology models</Title>
+		<DOI>10.1093/bioinformatics/btaa560</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>36</JournalVolume>
+		<JournalPages>4649-4654</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Glont M, Arankalle C, Tiwari K, Nguyen TVN, Hermjakob H, Malik-Sheriff RS</ContributorList>
+		<Year>2020</Year>
+		<Month>6</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.athoracsur.2020.06.029</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Use of Frailty Scoring to Predict Early Physical Activity Levels After Cardiac Surgery</Title>
+		<DOI>10.1016/j.athoracsur.2020.06.029</DOI>
+		<JournalName>The Annals of Thoracic Surgery</JournalName>
+		<JournalVolume>111</JournalVolume>
+		<JournalPages>36-43</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Abdullahi YS, Salmasi MY, Moscarelli M, Parlanti A, Marotta M, Varone E, Solinas M, Sheriff RM, Casula RP, Athanasiou T</ContributorList>
+		<Year>2021</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.15252/msb.20199110</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>SBML Level 3: an extensible format for the exchange and reuse of biological models</Title>
+		<DOI>10.15252/msb.20199110</DOI>
+		<JournalName>Molecular Systems Biology</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Keating SM, Waltemath D, König M, Zhang F, Dräger A, Chaouiya C, Bergmann FT, Finney A, Gillespie CS, Helikar T, Hoops S, Malik‐Sheriff RS, Moodie SL, Moraru II, Myers CJ, Naldi A, Olivier BG, Sahle S, Schaff JC, Smith LP, Swat MJ, Thieffry D, Watanabe L, Wilkinson DJ, Blinov ML, Begley K, Faeder JR, Gómez HF, Hamm TM, Inagaki Y, Liebermeister W, Lister AL, Lucio D, Mjolsness E, Proctor CJ, Raman K, Rodriguez N, Shaffer CA, Shapiro BE, Stelling J, Swainston N, Tanimura N, Wagner J, Meier‐Schellersheim M, Sauro HM, Palsson B, Bolouri H, Kitano H, Funahashi A, Hermjakob H, Doyle JC, Hucka M, SBML Level 3 Community members, Adams RR, Allen NA, Angermann BR, Antoniotti M, Bader GD, Červený J, Courtot M, Cox CD, Dalle Pezze P, Demir E, Denney WS, Dharuri H, Dorier J, Drasdo D, Ebrahim A, Eichner J, Elf J, Endler L, Evelo CT, Flamm C, Fleming RM, Fröhlich M, Glont M, Gonçalves E, Golebiewski M, Grabski H, Gutteridge A, Hachmeister D, Harris LA, Heavner BD, Henkel R, Hlavacek WS, Hu B, Hyduke DR, de Jong H, Juty N, Karp PD, Karr JR, Kell DB, Keller R, Kiselev I, Klamt S, Klipp E, Knüpfer C, Kolpakov F, Krause F, Kutmon M, Laibe C, Lawless C, Li L, Loew LM, Machne R, Matsuoka Y, Mendes P, Mi H, Mittag F, Monteiro PT, Natarajan KN, Nielsen PM, Nguyen T, Palmisano A, Pettit J, Pfau T, Phair RD, Radivoyevitch T, Rohwer JM, Ruebenacker OA, Saez‐Rodriguez J, Scharm M, Schmidt H, Schreiber F, Schubert M, Schulte R, Sealfon SC, Smallbone K, Soliman S, Stefan MI, Sullivan DP, Takahashi K, Teusink B, Tolnay D, Vazirabad I, von Kamp A, Wittig U, Wrzodek C, Wrzodek F, Xenarios I, Zhukova A, Zucker J</ContributorList>
+		<Year>2020</Year>
+		<Month>8</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.11.11.378869</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A FGF2-mediated incoherent feedforward loop induces Erk inhibition and promotes naïve pluripotency</Title>
+		<DOI>10.1101/2020.11.11.378869</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Gharibi B, Gonçalves E, Nashun B, Montoya A, Mankalow K, Strohbuecker S, Sheriff RSM, Cicarrelli A, Carvalho J, Nye E, Kramer H, Rosewell I, Hajkova P, Beltrao P, Santos SDM</ContributorList>
+		<Year>2020</Year>
+		<Month>11</Month>
+		<Day>11</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.15252/msb.20209982</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Reproducibility in systems biology modelling</Title>
+		<DOI>10.15252/msb.20209982</DOI>
+		<JournalName>Molecular Systems Biology</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Tiwari K, Kananathan S, Roberts MG, Meyer JP, Sharif Shohan MU, Xavier A, Maire M, Zyoud A, Men J, Ng S, Nguyen TVN, Glont M, Hermjakob H, Malik‐Sheriff RS</ContributorList>
+		<Year>2021</Year>
+		<Month>2</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fphar.2021.708296</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Path4Drug: Data Science Workflow for Identification of Tissue-Specific Biological Pathways Modulated by Toxic Drugs</Title>
+		<DOI>10.3389/fphar.2021.708296</DOI>
+		<JournalName>Frontiers in Pharmacology</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Füzi B, Gurinova J, Hermjakob H, Ecker GF, Sheriff R</ContributorList>
+		<Year>2021</Year>
+		<Month>10</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkab1127</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The European Bioinformatics Institute (EMBL-EBI) in 2021</Title>
+		<DOI>10.1093/nar/gkab1127</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>D11-D19</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Cantelli G, Bateman A, Brooksbank C, Petrov AI, Malik-Sheriff RS, Ide-Smith M, Hermjakob H, Flicek P, Apweiler R, Birney E, McEntyre J</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fsysb.2022.822606</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Model Integration in Computational Biology: The Role of Reproducibility, Credibility and Utility</Title>
+		<DOI>10.3389/fsysb.2022.822606</DOI>
+		<JournalName>Frontiers in Systems Biology</JournalName>
+		<JournalVolume>2</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Karr J, Malik-Sheriff RS, Osborne J, Gonzalez-Parra G, Forgoston E, Bowness R, Liu Y, Thompson R, Garira W, Barhak J, Rice J, Torres M, Dobrovolny HM, Tang T, Waites W, Glazier JA, Faeder JR, Kulesza A</ContributorList>
+		<Year>2022</Year>
+		<Month>3</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41746-022-00610-z</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Building digital twins of the human immune system: toward a roadmap</Title>
+		<DOI>10.1038/s41746-022-00610-z</DOI>
+		<JournalName>npj Digital Medicine</JournalName>
+		<JournalVolume>5</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Laubenbacher R, Niarakis A, Helikar T, An G, Shapiro B, Malik-Sheriff RS, Sego TJ, Knapp A, Macklin P, Glazier JA</ContributorList>
+		<Year>2022</Year>
+		<Month>5</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkac331</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioSimulators: a central registry of simulation engines and services for recommending specific tools</Title>
+		<DOI>10.1093/nar/gkac331</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>W108-W114</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Anwar A, Beber ME, Bergmann FT, Brooks D, Brusch L, Calzone L, Choi K, Cooper J, Detloff J, Drawert B, Dumontier M, Ermentrout GB, Faeder JR, Freiburger AP, Fröhlich F, Funahashi A, Garny A, Gennari JH, Gleeson P, Goelzer A, Haiman Z, Hasenauer J, Hellerstein JL, Hermjakob H, Hoops S, Ison JC, Jahn D, Jakubowski HV, Jordan R, Kalaš M, König M, Liebermeister W, Sheriff RSM, Mandal S, McDougal R, Medley JK, Mendes P, Müller R, Myers CJ, Naldi A, Nguyen TVN, Nickerson DP, Olivier BG, Patoliya D, Paulevé L, Petzold LR, Priya A, Rampadarath AK, Rohwer JM, Saglam AS, Singh D, Sinha A, Snoep J, Sorby H, Spangler R, Starruß J, Thomas PJ, van Niekerk D, Weindl D, Zhang F, Zhukova A, Goldberg AP, Schaff JC, Blinov ML, Sauro HM, Moraru II, Karr JR</ContributorList>
+		<Year>2022</Year>
+		<Month>5</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.05.22.540599</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>BioModelsML: Building a FAIR and reproducible collection of machine learning models in life sciences and medicine for easy reuse</Title>
+		<DOI>10.1101/2023.05.22.540599</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Tiwari DD, Hoffmann N, Didi K, Deshpande S, Ghosh S, Nguyen TVN, Raman K, Hermjakob H, Sheriff R</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>23</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.37044/osf.io/q4zgx</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Infrastructure for synthetic health data</Title>
+		<DOI>10.37044/osf.io/q4zgx</DOI>
+		<JournalName>BioHackrXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Queralt-Rosinach N, Alshaikhdeeb B, Bolzani L, Shoaib M, Barbero MC, Aguiló-Castillo S, Cirillo D, Castro LJ, Tsueng G, Kalaš M, Palmblad M, Welter D, Ghosh S, Satagopam V, Malik Sheriff RS</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.01.10.574883</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems</Title>
+		<DOI>10.1101/2024.01.10.574883</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>12</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioinformatics/btae465</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems</Title>
+		<DOI>10.1093/bioinformatics/btae465</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>40</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioinformatics/btaf484</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>SBMLtoOdin and Menelmacar: interactive visualisation of systems biology models for expert and non-expert audiences</Title>
+		<DOI>10.1093/bioinformatics/btaf484</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lorenz LJ, Andréoletti A, Nguyen TVN, Hermjakob H, FitzJohn RG, Malik Sheriff RS, Lees JA</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.5281/zenodo.17955256</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>ELIXIR AI Ecosystem Concept - BioHackathon 2025</Title>
+		<DOI>10.5281/zenodo.17955256</DOI>
+		<JournalName>Zenodo</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Farrell G, ATTAFI OA, Malik Sheriff RS, Psomopoulos F, Tosatto S, Cirillo D</ContributorList>
+		<Year>2025</Year>
+		<Month>12</Month>
+		<Day>16</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/psp4.70234</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Potential of Digital Twins for Pediatric Rare Diseases</Title>
+		<DOI>10.1002/psp4.70234</DOI>
+		<JournalName>CPT: Pharmacometrics &amp;amp; Systems Pharmacology</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Malik‐Sheriff RS, Limdi A, Petsalaki E, Hermjakob H, McDonagh EM</ContributorList>
+		<Year>2026</Year>
+		<Month>3</Month>
+		<Day>31</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.margen.2016.06.003</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -6642,6 +7237,23 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.64898/2026.08.31.747859</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>City life: airborne DNA metagenomic biodiversity monitoring reveals dynamic changes across time and space</Title>
+		<DOI>10.64898/2026.08.31.747859</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
+		<ContributorList>Peel N, Cuber P, Heavens D, Giolai M, Martin S, Alston M, Chooneea D, Aanstad P, Misra R, Leggett RM, Clark MD</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>3</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1002/cfg.88</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -11721,6 +12333,58 @@
 		<Month>4</Month>
 		<Day>3</Day>
 		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.tibtech.2012.02.002</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>ELIXIR: a distributed infrastructure for European biological data</Title>
+		<DOI>10.1016/j.tibtech.2012.02.002</DOI>
+		<JournalName>Trends in Biotechnology</JournalName>
+		<JournalVolume>30</JournalVolume>
+		<JournalPages>241-242</JournalPages>
+		<ContributorIds>tof26fiz</ContributorIds>
+		<ContributorList>Crosswell LC, Thornton JM</ContributorList>
+		<Year>2012</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pbio.3001623</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Molecular biology for green recovery—A call for action</Title>
+		<DOI>10.1371/journal.pbio.3001623</DOI>
+		<JournalName>PLOS Biology</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages>e3001623</JournalPages>
+		<ContributorIds>tof26fiz</ContributorIds>
+		<ContributorList>Rodríguez-Martínez M, Nielsen J, Dupont S, Vamathevan J, Glover BJ, Crosswell LC, Rouse B, Luisi BF, Bowler C, Gasser SM, Arendt D, Erb TJ, de Lorenzo V, Heard E, Patil KR</ContributorList>
+		<Year>2022</Year>
+		<Month>4</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/oso/9780198881193.003.0012</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Big Science and Social Responsibility of the Digital World</Title>
+		<DOI>10.1093/oso/9780198881193.003.0012</DOI>
+		<JournalName />
+		<BookTitle>Big Science, Innovation, and Societal Contributions</BookTitle>
+		<JournalVolume />
+		<JournalPages>264-286</JournalPages>
+		<ContributorIds>tof26fiz</ContributorIds>
+		<ContributorList>Wink R, Meglio AD, Streit-Bianchi M, Liyanage S</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/S0140-6736(05)72006-7</id>
