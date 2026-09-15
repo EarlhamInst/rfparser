@@ -271,7 +271,7 @@
 		<Year>2017</Year>
 		<Month>5</Month>
 		<Day>10</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.03.18.436017</id>
@@ -2163,7 +2163,7 @@
 		<Year>2013</Year>
 		<Month>5</Month>
 		<Day>6</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1136/gutjnl-2012-303249</id>
@@ -2486,7 +2486,7 @@
 		<Year>2016</Year>
 		<Month>9</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ismej.2016.45</id>
@@ -4630,7 +4630,7 @@
 		<Year>2008</Year>
 		<Month>8</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pgen.1000755</id>
@@ -4904,7 +4904,7 @@
 		<Year>2013</Year>
 		<Month>7</Month>
 		<Day>28</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/nature12650</id>
@@ -4921,7 +4921,7 @@
 		<Year>2013</Year>
 		<Month>11</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pgen.1003798</id>
@@ -5874,7 +5874,7 @@
 		<Year>2013</Year>
 		<Month>9</Month>
 		<Day>16</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.4103/jpbs.jpbs_1012_25</id>
@@ -6503,7 +6503,7 @@
 		<Year>2010</Year>
 		<Month>11</Month>
 		<Day>25</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ni.2255</id>
@@ -6537,7 +6537,7 @@
 		<Year>2013</Year>
 		<Month>1</Month>
 		<Day>3</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ncb2709</id>
@@ -6931,6 +6931,1008 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1007/978-3-642-25566-3_37</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Multi-Objective Differential Evolution with Adaptive Control of Parameters and Operators</Title>
+		<DOI>10.1007/978-3-642-25566-3_37</DOI>
+		<JournalName />
+		<BookTitle>Learning and Intelligent Optimization</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>473-487</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Fialho Á, Kwong S</ContributorList>
+		<Year>2011</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1145/2001858.2001915</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>JGBL paradigm</Title>
+		<DOI>10.1145/2001858.2001915</DOI>
+		<JournalName />
+		<BookTitle>Proceedings of the 13th annual conference companion on Genetic and evolutionary computation</BookTitle>
+		<JournalVolume />
+		<JournalPages>99-100</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Kwong S, Man K</ContributorList>
+		<Year>2011</Year>
+		<Month>7</Month>
+		<Day>12</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/ICSMC.2011.6083928</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Combining interpretable fuzzy rule-based classifiers via multi-objective hierarchical evolutionary algorithm</Title>
+		<DOI>10.1109/ICSMC.2011.6083928</DOI>
+		<JournalName />
+		<BookTitle>2011 IEEE International Conference on Systems, Man, and Cybernetics</BookTitle>
+		<JournalVolume />
+		<JournalPages>1771-1776</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Cao J, Wang H, Kwong S, Li K</ContributorList>
+		<Year>2011</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.ins.2011.08.027</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Achieving balance between proximity and diversity in multi-objective evolutionary algorithm</Title>
+		<DOI>10.1016/j.ins.2011.08.027</DOI>
+		<JournalName>Information Sciences</JournalName>
+		<JournalVolume>182</JournalVolume>
+		<JournalPages>220-242</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Kwong S, Cao J, Li M, Zheng J, Shen R</ContributorList>
+		<Year>2012</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.ins.2012.11.002</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Learning paradigm based on jumping genes: A general framework for enhancing exploration in evolutionary multiobjective optimization</Title>
+		<DOI>10.1016/j.ins.2012.11.002</DOI>
+		<JournalName>Information Sciences</JournalName>
+		<JournalVolume>226</JournalVolume>
+		<JournalPages>1-22</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Kwong S, Wang R, Tang K, Man K</ContributorList>
+		<Year>2013</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2013.2293776</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Stable Matching-Based Selection in Evolutionary Multiobjective Optimization</Title>
+		<DOI>10.1109/TEVC.2013.2293776</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages>909-923</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Ke Li, Qingfu Zhang, Sam Kwong, Miqing Li, Ran Wang</ContributorList>
+		<Year>2014</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TCYB.2013.2282503</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evolutionary Algorithms With Segment-Based Search for Multiobjective Optimization Problems</Title>
+		<DOI>10.1109/TCYB.2013.2282503</DOI>
+		<JournalName>IEEE Transactions on Cybernetics</JournalName>
+		<JournalVolume>44</JournalVolume>
+		<JournalPages>1295-1313</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li M, Yang S, Li K, Liu X</ContributorList>
+		<Year>2014</Year>
+		<Month>8</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2013.2239648</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Adaptive Operator Selection With Bandits for a Multiobjective Evolutionary Algorithm Based on Decomposition</Title>
+		<DOI>10.1109/TEVC.2013.2239648</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages>114-130</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Fialho A, Kwong S, Zhang Q</ContributorList>
+		<Year>2014</Year>
+		<Month>2</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/ICMLC.2014.7009108</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>AN indicator-based selection multi-objective evolutionary algorithm with preference for multi-class ensemble</Title>
+		<DOI>10.1109/ICMLC.2014.7009108</DOI>
+		<JournalName />
+		<BookTitle>2014 International Conference on Machine Learning and Cybernetics</BookTitle>
+		<JournalVolume />
+		<JournalPages>147-152</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Jing-Jing Cao, Sam Kwong, Ran Wang, Ke Li</ContributorList>
+		<Year>2014</Year>
+		<Month>7</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/SMC.2015.302</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Two-Level Stable Matching-Based Selection in MOEA/D</Title>
+		<DOI>10.1109/SMC.2015.302</DOI>
+		<JournalName />
+		<BookTitle>2015 IEEE International Conference on Systems, Man, and Cybernetics</BookTitle>
+		<JournalVolume />
+		<JournalPages>1720-1725</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Wu M, Kwong S, Zhang Q, Li K, Wang R, Liu B</ContributorList>
+		<Year>2015</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TCYB.2014.2365354</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Interrelationship-Based Selection for Decomposition Multiobjective Optimization</Title>
+		<DOI>10.1109/TCYB.2014.2365354</DOI>
+		<JournalName>IEEE Transactions on Cybernetics</JournalName>
+		<JournalVolume>45</JournalVolume>
+		<JournalPages>2076-2088</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Kwong S, Zhang Q, Deb K</ContributorList>
+		<Year>2015</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/CEC.2015.7256986</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Evolutionary multiobjective optimization with hybrid selection principles</Title>
+		<DOI>10.1109/CEC.2015.7256986</DOI>
+		<JournalName />
+		<BookTitle>2015 IEEE Congress on Evolutionary Computation (CEC)</BookTitle>
+		<JournalVolume />
+		<JournalPages>900-907</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Deb K, Zhang Q</ContributorList>
+		<Year>2015</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.neucom.2014.02.072</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Class-specific soft voting based multiple extreme learning machines ensemble</Title>
+		<DOI>10.1016/j.neucom.2014.02.072</DOI>
+		<JournalName>Neurocomputing</JournalName>
+		<JournalVolume>149</JournalVolume>
+		<JournalPages>275-284</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Cao J, Kwong S, Wang R, Li X, Li K, Kong X</ContributorList>
+		<Year>2015</Year>
+		<Month>2</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2014.2373386</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>An Evolutionary Many-Objective Optimization Algorithm Based on Dominance and Decomposition</Title>
+		<DOI>10.1109/TEVC.2014.2373386</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>19</JournalVolume>
+		<JournalPages>694-716</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Deb K, Zhang Q, Kwong S</ContributorList>
+		<Year>2015</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.ins.2015.03.002</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A dual-population paradigm for evolutionary multiobjective optimization</Title>
+		<DOI>10.1016/j.ins.2015.03.002</DOI>
+		<JournalName>Information Sciences</JournalName>
+		<JournalVolume>309</JournalVolume>
+		<JournalPages>50-72</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Kwong S, Deb K</ContributorList>
+		<Year>2015</Year>
+		<Month>7</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-319-45823-6_37</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Variable Interaction in Multi-objective Optimization Problems</Title>
+		<DOI>10.1007/978-3-319-45823-6_37</DOI>
+		<JournalName />
+		<BookTitle>Parallel Problem Solving from Nature – PPSN XIV</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>399-409</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Omidvar MN, Deb K, Yao X</ContributorList>
+		<Year>2016</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.neucom.2014.12.109</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Personalized search for social media via dominating verbal context</Title>
+		<DOI>10.1016/j.neucom.2014.12.109</DOI>
+		<JournalName>Neurocomputing</JournalName>
+		<JournalVolume>172</JournalVolume>
+		<JournalPages>27-37</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Xie H, Li X, Wang T, Chen L, Li K, Wang FL, Cai Y, Li Q, Min H</ContributorList>
+		<Year>2016</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2017.2656922</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Matching-Based Selection With Incomplete Lists for Decomposition Multiobjective Optimization</Title>
+		<DOI>10.1109/TEVC.2017.2656922</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>21</JournalVolume>
+		<JournalPages>554-568</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Wu M, Li K, Kwong S, Zhou Y, Zhang Q</ContributorList>
+		<Year>2017</Year>
+		<Month>8</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TCYB.2016.2621008</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Efficient Nondomination Level Update Method for Steady-State Evolutionary Multiobjective Optimization</Title>
+		<DOI>10.1109/TCYB.2016.2621008</DOI>
+		<JournalName>IEEE Transactions on Cybernetics</JournalName>
+		<JournalVolume>47</JournalVolume>
+		<JournalPages>2838-2849</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Deb K, Zhang Q, Zhang Q</ContributorList>
+		<Year>2017</Year>
+		<Month>9</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2017.2737781</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>R-Metric: Evaluating the Performance of Preference-Based Evolutionary Multiobjective Optimization Using Reference Points</Title>
+		<DOI>10.1109/TEVC.2017.2737781</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages>821-835</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Deb K, Yao X</ContributorList>
+		<Year>2018</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2017.2669638</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Dynamic Multiobjectives Optimization With a Changing Number of Objectives</Title>
+		<DOI>10.1109/TEVC.2017.2669638</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages>157-171</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Chen R, Li K, Yao X</ContributorList>
+		<Year>2018</Year>
+		<Month>2</Month>
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1145/3204459</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>FEMOSAA</Title>
+		<DOI>10.1145/3204459</DOI>
+		<JournalName>ACM Transactions on Software Engineering and Methodology</JournalName>
+		<JournalVolume>27</JournalVolume>
+		<JournalPages>1-50</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Chen T, Li K, Bahsoon R, Yao X</ContributorList>
+		<Year>2018</Year>
+		<Month>4</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2017.2744328</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evolutionary Multiobjective Optimization-Based Multimodal Optimization: Fitness Landscape Approximation and Peak Detection</Title>
+		<DOI>10.1109/TEVC.2017.2744328</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages>692-706</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Cheng R, Li M, Li K, Yao X</ContributorList>
+		<Year>2018</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TCYB.2018.2872803</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evolutionary Many-Objective Optimization Based on Adversarial Decomposition</Title>
+		<DOI>10.1109/TCYB.2018.2872803</DOI>
+		<JournalName>IEEE Transactions on Cybernetics</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>753-764</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Wu M, Li K, Kwong S, Zhang Q</ContributorList>
+		<Year>2020</Year>
+		<Month>2</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/padsw.2018.8644640</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Multi-Tenant Cloud Service Composition Using Evolutionary Optimization</Title>
+		<DOI>10.1109/padsw.2018.8644640</DOI>
+		<JournalName />
+		<BookTitle>2018 IEEE 24th International Conference on Parallel and Distributed Systems (ICPADS)</BookTitle>
+		<JournalVolume />
+		<JournalPages>972-979</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Kumar S, Bahsoon R, Chen T, Li K, Buyya R</ContributorList>
+		<Year>2018</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TCYB.2018.2859363</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Integration of Preferences in Decomposition Multiobjective Optimization</Title>
+		<DOI>10.1109/TCYB.2018.2859363</DOI>
+		<JournalName>IEEE Transactions on Cybernetics</JournalName>
+		<JournalVolume>48</JournalVolume>
+		<JournalPages>3359-3370</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Chen R, Min G, Yao X</ContributorList>
+		<Year>2018</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-030-12598-1_50</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Progressive Preference Learning: Proof-of-Principle Results in MOEA/D</Title>
+		<DOI>10.1007/978-3-030-12598-1_50</DOI>
+		<JournalName />
+		<BookTitle>Evolutionary Multi-Criterion Optimization</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>631-643</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K</ContributorList>
+		<Year>2019</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-030-12598-1_42</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>A Formal Model for Multi-objective Optimisation of Network Function Virtualisation Placement</Title>
+		<DOI>10.1007/978-3-030-12598-1_42</DOI>
+		<JournalName />
+		<BookTitle>Evolutionary Multi-Criterion Optimization</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>529-540</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Billingsley J, Li K, Miao W, Min G, Georgalas N</ContributorList>
+		<Year>2019</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2018.2855411</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Two-Archive Evolutionary Algorithm for Constrained Multiobjective Optimization</Title>
+		<DOI>10.1109/TEVC.2018.2855411</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>23</JournalVolume>
+		<JournalPages>303-315</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Chen R, Fu G, Yao X</ContributorList>
+		<Year>2019</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TFUZZ.2018.2880700</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Interactive Decomposition Multiobjective Optimization Via Progressively Learned Value Functions</Title>
+		<DOI>10.1109/TFUZZ.2018.2880700</DOI>
+		<JournalName>IEEE Transactions on Fuzzy Systems</JournalName>
+		<JournalVolume>27</JournalVolume>
+		<JournalPages>849-860</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Chen R, Savic D, Yao X</ContributorList>
+		<Year>2019</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/cec.2019.8790298</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons</Title>
+		<DOI>10.1109/cec.2019.8790298</DOI>
+		<JournalName />
+		<BookTitle>2019 IEEE Congress on Evolutionary Computation (CEC)</BookTitle>
+		<JournalVolume />
+		<JournalPages>1750-1757</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Gao H, Nie H, Li K</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/cec.2019.8789984</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Which Surrogate Works for Empirical Performance Modelling? A Case Study with Differential Evolution</Title>
+		<DOI>10.1109/cec.2019.8789984</DOI>
+		<JournalName />
+		<BookTitle>2019 IEEE Congress on Evolutionary Computation (CEC)</BookTitle>
+		<JournalVolume />
+		<JournalPages>1988-1995</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Xiang Z, Tan KC</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2018.2865931</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Learning to Decompose: A Paradigm for Decomposition-Based Multiobjective Optimization</Title>
+		<DOI>10.1109/TEVC.2018.2865931</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>23</JournalVolume>
+		<JournalPages>376-390</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Wu M, Li K, Kwong S, Zhang Q, Zhang J</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1145/3205651.3207856</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Decomposition multi-objective optimisation</Title>
+		<DOI>10.1145/3205651.3207856</DOI>
+		<JournalName />
+		<BookTitle>Proceedings of the Genetic and Evolutionary Computation Conference Companion</BookTitle>
+		<JournalVolume />
+		<JournalPages>907-936</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Zhang Q</ContributorList>
+		<Year>2018</Year>
+		<Month>7</Month>
+		<Day>6</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.swevo.2019.02.001</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A knee-point-based evolutionary algorithm using weighted subpopulation for many-objective optimization</Title>
+		<DOI>10.1016/j.swevo.2019.02.001</DOI>
+		<JournalName>Swarm and Evolutionary Computation</JournalName>
+		<JournalVolume>47</JournalVolume>
+		<JournalPages>33-43</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Zou J, Ji C, Yang S, Zhang Y, Zheng J, Li K</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1145/3319619.3322026</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Security testing of web applications</Title>
+		<DOI>10.1145/3319619.3322026</DOI>
+		<JournalName />
+		<BookTitle>Proceedings of the Genetic and Evolutionary Computation Conference Companion</BookTitle>
+		<JournalVolume />
+		<JournalPages>417-418</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Liu M, Li K, Chen T</ContributorList>
+		<Year>2019</Year>
+		<Month>7</Month>
+		<Day>13</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-030-58115-2_19</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Adaptive Operator Selection Based on Dynamic Thompson Sampling for MOEA/D</Title>
+		<DOI>10.1007/978-3-030-58115-2_19</DOI>
+		<JournalName />
+		<BookTitle>Parallel Problem Solving from Nature – PPSN XVI</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>271-284</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Sun L, Li K</ContributorList>
+		<Year>2020</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2020.2987559</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multiobjective Optimization Using Reference Points</Title>
+		<DOI>10.1109/TEVC.2020.2987559</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>24</JournalVolume>
+		<JournalPages>1078-1096</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Liao M, Deb K, Min G, Yao X</ContributorList>
+		<Year>2020</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-030-72062-9_54</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Multi-objective Reinforcement Learning Based Multi-microgrid System Optimisation Problem</Title>
+		<DOI>10.1007/978-3-030-72062-9_54</DOI>
+		<JournalName />
+		<BookTitle>Evolutionary Multi-Criterion Optimization</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>684-696</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Xu J, Li K, Abusara M</ContributorList>
+		<Year>2021</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-030-72062-9_19</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-objective Optimization</Title>
+		<DOI>10.1007/978-3-030-72062-9_19</DOI>
+		<JournalName />
+		<BookTitle>Evolutionary Multi-Criterion Optimization</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>235-247</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Shan X, Li K</ContributorList>
+		<Year>2021</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-031-14721-0_9</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-objective Optimization?</Title>
+		<DOI>10.1007/978-3-031-14721-0_9</DOI>
+		<JournalName />
+		<BookTitle>Parallel Problem Solving from Nature – PPSN XVII</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>124-137</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li S, Li K, Li W</ContributorList>
+		<Year>2022</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-031-14714-2_24</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Attention-Based Genetic Algorithm for Adversarial Attack in Natural Language Processing</Title>
+		<DOI>10.1007/978-3-031-14714-2_24</DOI>
+		<JournalName />
+		<BookTitle>Parallel Problem Solving from Nature – PPSN XVII</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>341-355</JournalPages>
+		<ContributorIds>kel26kas, cal26jon</ContributorIds>
+		<ContributorList>Zhou S, Li K, Min G</ContributorList>
+		<Year>2022</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/tevc.2021.3095313</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Transfer Learning-Based Parallel Evolutionary Algorithm Framework for Bilevel Optimization</Title>
+		<DOI>10.1109/tevc.2021.3095313</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages>115-129</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Chen L, Liu H, Tan KC, Li K</ContributorList>
+		<Year>2022</Year>
+		<Month>2</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/s12293-022-00357-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Preference based multi-objective reinforcement learning for multi-microgrid system optimization problem in smart grid</Title>
+		<DOI>10.1007/s12293-022-00357-w</DOI>
+		<JournalName>Memetic Computing</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages>225-235</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Xu J, Li K, Abusara M</ContributorList>
+		<Year>2022</Year>
+		<Month>2</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1145/3520304.3528981</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Adversarial example generation via genetic algorithm</Title>
+		<DOI>10.1145/3520304.3528981</DOI>
+		<JournalName />
+		<BookTitle>Proceedings of the Genetic and Evolutionary Computation Conference Companion</BookTitle>
+		<JournalVolume />
+		<JournalPages>469-470</JournalPages>
+		<ContributorIds>kel26kas, cal26jon</ContributorIds>
+		<ContributorList>Zhou S, Li K, Min G</ContributorList>
+		<Year>2022</Year>
+		<Month>7</Month>
+		<Day>9</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/tcyb.2021.3132587</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies</Title>
+		<DOI>10.1109/tcyb.2021.3132587</DOI>
+		<JournalName>IEEE Transactions on Cybernetics</JournalName>
+		<JournalVolume>52</JournalVolume>
+		<JournalPages>10969-10979</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Wu J, Luo C, Luo Y, Li K</ContributorList>
+		<Year>2022</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2021.3116121</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Posterior Decision Making Based on Decomposition-Driven Knee Point Identification</Title>
+		<DOI>10.1109/TEVC.2021.3116121</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages>1409-1423</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Nie H, Gao H, Yao X</ContributorList>
+		<Year>2022</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/tevc.2023.3236455</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evolutionary Bilevel Optimization via Multiobjective Transformation-Based Lower-Level Search</Title>
+		<DOI>10.1109/tevc.2023.3236455</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>28</JournalVolume>
+		<JournalPages>733-747</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Chen L, Liu H, Li K, Tan KC</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/tevc.2023.3260306</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A Multipopulation Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multiobjective Problems With Multiconstraint</Title>
+		<DOI>10.1109/tevc.2023.3260306</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>28</JournalVolume>
+		<JournalPages>267-280</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Zou J, Sun R, Liu Y, Hu Y, Yang S, Zheng J, Li K</ContributorList>
+		<Year>2024</Year>
+		<Month>2</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.compeleceng.2022.108474</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>MTLP-JR: Multi-task learning-based prediction for joint ranking in neural architecture search</Title>
+		<DOI>10.1016/j.compeleceng.2022.108474</DOI>
+		<JournalName>Computers and Electrical Engineering</JournalName>
+		<JournalVolume>105</JournalVolume>
+		<JournalPages>108474</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Lyu B, Lu L, Hamdi M, Wen S, Yang Y, Li K</ContributorList>
+		<Year>2023</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2022.3162993</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Batched Data-Driven Evolutionary Multiobjective Optimization Based on Manifold Interpolation</Title>
+		<DOI>10.1109/TEVC.2022.3162993</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>27</JournalVolume>
+		<JournalPages>126-140</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Chen R</ContributorList>
+		<Year>2023</Year>
+		<Month>2</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-031-27250-9_9</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Sparse Adversarial Attack via Bi-objective Optimization</Title>
+		<DOI>10.1007/978-3-031-27250-9_9</DOI>
+		<JournalName />
+		<BookTitle>Evolutionary Multi-Criterion Optimization</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>118-133</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Williams P, Li K, Min G</ContributorList>
+		<Year>2023</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TNNLS.2021.3104872</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Neural Architecture Search for Portrait Parsing</Title>
+		<DOI>10.1109/TNNLS.2021.3104872</DOI>
+		<JournalName>IEEE Transactions on Neural Networks and Learning Systems</JournalName>
+		<JournalVolume>34</JournalVolume>
+		<JournalPages>1112-1121</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Lyu B, Yang Y, Wen S, Huang T, Li K</ContributorList>
+		<Year>2023</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-031-27250-9_5</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Data-Driven Evolutionary Multi-objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts</Title>
+		<DOI>10.1007/978-3-031-27250-9_5</DOI>
+		<JournalName />
+		<BookTitle>Evolutionary Multi-Criterion Optimization</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>56-70</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Chen R, Li K</ContributorList>
+		<Year>2023</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TETCI.2022.3210998</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars</Title>
+		<DOI>10.1109/TETCI.2022.3210998</DOI>
+		<JournalName>IEEE Transactions on Emerging Topics in Computational Intelligence</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages>415-425</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Lyu B, Hamdi M, Yang Y, Cao Y, Yan Z, Li K, Wen S, Huang T</ContributorList>
+		<Year>2023</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2023.3234269</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Interactive Evolutionary Multiobjective Optimization via Learning to Rank</Title>
+		<DOI>10.1109/TEVC.2023.3234269</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>27</JournalVolume>
+		<JournalPages>749-763</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Lai G, Yao X</ContributorList>
+		<Year>2023</Year>
+		<Month>8</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/TEVC.2023.3307244</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments</Title>
+		<DOI>10.1109/TEVC.2023.3307244</DOI>
+		<JournalName>IEEE Transactions on Evolutionary Computation</JournalName>
+		<JournalVolume>28</JournalVolume>
+		<JournalPages>1396-1411</JournalPages>
+		<ContributorIds>cal26jon</ContributorIds>
+		<ContributorList>Li K, Chen R, Yao X</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.64898/2026.05.01.722155</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -7285,7 +8287,7 @@
 		<Year>2001</Year>
 		<Month>8</Month>
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/S1471-4922(01)02083-9</id>
@@ -9058,7 +10060,7 @@
 		<Year>2007</Year>
 		<Month>11</Month>
 		<Day>1</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/s00239-007-9048-2</id>
@@ -9382,7 +10384,7 @@
 		<Year>2016</Year>
 		<Month>12</Month>
 		<Day>28</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/978-3-030-34500-6_5</id>
@@ -11464,7 +12466,7 @@
 		<Year>2003</Year>
 		<Month>4</Month>
 		<Day>18</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/nature02055</id>
@@ -11805,7 +12807,7 @@
 		<Year>2010</Year>
 		<Month>4</Month>
 		<Day>4</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3390/foods9121813</id>
@@ -15162,6 +16164,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1038/s41380-026-03890-z</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The psychiatric risk gene CACNA1C encodes distinct full-length isoforms in human brain, heart and aorta</Title>
+		<DOI>10.1038/s41380-026-03890-z</DOI>
+		<JournalName>Molecular Psychiatry</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kudashev, dwright, haertyw</ContributorIds>
+		<ContributorList>Hall NA, Mould AW, Nassiri I, Kudasheva S, Wright DJ, Chen L, Arshad OA, Tao R, Kleinman JE, Weinberger DR, Hyde TM, Harrison PJ, Haerty W, Tunbridge EM</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>11</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.64898/2026.07.07.736956</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -15398,7 +16417,7 @@
 		<Year>2026</Year>
 		<Month>6</Month>
 		<Day>5</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/g3journal/jkag101</id>
@@ -21220,7 +22239,7 @@
 		<Year>2023</Year>
 		<Month>3</Month>
 		<Day>8</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.03.08.530586</id>
@@ -30407,7 +31426,7 @@
 		<Year>2011</Year>
 		<Month>3</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/gb-2011-12-3-r28</id>
@@ -30921,7 +31940,7 @@
 		<Year>2012</Year>
 		<Month>1</Month>
 		<Day>8</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/1471-2229-12-14</id>
@@ -31482,7 +32501,7 @@
 		<Year>2013</Year>
 		<Month>4</Month>
 		<Day>7</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pone.0060058</id>
@@ -32538,7 +33557,7 @@
 		<Year>2014</Year>
 		<Month>5</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1017/S0007114513002274</id>
@@ -33303,7 +34322,7 @@
 		<Year>2015</Year>
 		<Month>2</Month>
 		<Day>9</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s13068-015-0207-1</id>
@@ -35328,7 +36347,7 @@
 		<Year>2016</Year>
 		<Month>9</Month>
 		<Day>1</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1073/pnas.1606004113</id>
@@ -36144,7 +37163,7 @@
 		<Year>2017</Year>
 		<Month>6</Month>
 		<Day>6</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/hmg/ddx092</id>
@@ -37283,7 +38302,7 @@
 		<Year>2018</Year>
 		<Month>6</Month>
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s13068-018-1157-1</id>
@@ -37778,7 +38797,7 @@
 		<Year>2018</Year>
 		<Month>12</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/gigascience/giy128</id>
@@ -38851,7 +39870,7 @@
 		<Year>2019</Year>
 		<Month>11</Month>
 		<Day>1</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.chom.2019.08.001</id>
@@ -39089,7 +40108,7 @@
 		<Year>2019</Year>
 		<Month>11</Month>
 		<Day>14</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3390/su11236863</id>
@@ -41745,7 +42764,7 @@
 		<Year>2021</Year>
 		<Month>8</Month>
 		<Day>5</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.08.12.456076</id>
@@ -44156,7 +45175,7 @@
 		<JournalName>Nucleic Acids Research</JournalName>
 		<JournalVolume>53</JournalVolume>
 		<JournalPages />
-		<ContributorIds>kam24goz, zaf26paf, quince, hildebrf, duncana, frioux, hildebra, kar23yal, rak23yor</ContributorIds>
+		<ContributorIds>kam24goz, rif26noz, zaf26paf, quince, hildebrf, duncana, frioux, hildebra, kar23yal, rak23yor</ContributorIds>
 		<ContributorList>Duncan A, Koon W, Sidorczuk K, Quince C, Frioux C, Hildebrand F</ContributorList>
 		<Year>2025</Year>
 		<Month>11</Month>
