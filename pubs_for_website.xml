@@ -10353,6 +10353,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.64898/2026.09.09.750329</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Germline removal reprograms somatic genome maintenance towards faster, energy-efficient, high-fidelity DNA defence and repair</Title>
+		<DOI>10.64898/2026.09.09.750329</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>de Coriolis J, Alavioon G, Haerty W, Tsakoumis E, Schmitz M, Godden AM, Rahbari RM, Maklakov AA, Immler SA</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>14</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/nar/gkw624</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -10631,142 +10648,21 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1159/000516014</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Amyloid Proteins in Plant-Associated Microbial Communities</Title>
-		<DOI>10.1159/000516014</DOI>
-		<JournalName>Microbial Physiology</JournalName>
-		<JournalVolume>31</JournalVolume>
-		<JournalPages>88-98</JournalPages>
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Gómez-Pérez D, Chaudhry V, Kemen A, Kemen E</ContributorList>
-		<Year>2021</Year>
-		<Month />
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2021.01.12.426341</id>
+		<id>10.17504/protocols.io.q26g75bj1lwz/v3</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>Predicting lifestyle and host from positive selection data and genome properties in oomycetes</Title>
-		<DOI>10.1101/2021.01.12.426341</DOI>
-		<JournalName>bioRxiv</JournalName>
+		<Title>Identifying direct TARGETs of transcription factors in wheat v2</Title>
+		<DOI>10.17504/protocols.io.q26g75bj1lwz/v3</DOI>
+		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Gómez-Pérez D, Kemen E</ContributorList>
-		<Year>2021</Year>
-		<Month>1</Month>
-		<Day>13</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3390/pathogens10070807</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Predicting Lifestyle from Positive Selection Data and Genome Properties in Oomycetes</Title>
-		<DOI>10.3390/pathogens10070807</DOI>
-		<JournalName>Pathogens</JournalName>
-		<JournalVolume>10</JournalVolume>
-		<JournalPages>807</JournalPages>
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Gómez-Pérez D, Kemen E</ContributorList>
-		<Year>2021</Year>
-		<Month>6</Month>
-		<Day>25</Day>
+		<ContributorIds>goldson</ContributorIds>
+		<ContributorList>Knight E, Winfield M, Goldson A, Bargmann B, Borrill P</ContributorList>
+		<Year>2026</Year>
+		<Month>8</Month>
+		<Day>12</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2022.05.16.492175</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Proteins released into the plant apoplast by the obligate parasitic protist Albugo selectively repress phyllosphere-associated bacteria</Title>
-		<DOI>10.1101/2022.05.16.492175</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Gómez-Pérez D, Schmid M, Chaudhry V, Velic A, Maček B, Kemen A, Kemen E</ContributorList>
-		<Year>2022</Year>
-		<Month>5</Month>
-		<Day>17</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2022.07.13.498973</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Cell specialization in cyanobacterial biofilm development revealed by expression of a cell-surface and extracellular matrix protein</Title>
-		<DOI>10.1101/2022.07.13.498973</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Frenkel A, Zecharia E, Gómez-Pérez D, Sendersky E, Yegorov Y, Jacobs A, Benichou J, Stierhof Y, Parnasa R, Golden SS, Kemen E, Schwarz R</ContributorList>
-		<Year>2022</Year>
-		<Month>7</Month>
-		<Day>13</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41522-023-00376-6</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Cell specialization in cyanobacterial biofilm development revealed by expression of a cell-surface and extracellular matrix protein</Title>
-		<DOI>10.1038/s41522-023-00376-6</DOI>
-		<JournalName>npj Biofilms and Microbiomes</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages />
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Frenkel A, Zecharia E, Gómez-Pérez D, Sendersky E, Yegorov Y, Jacob A, Benichou JIC, Stierhof Y, Parnasa R, Golden SS, Kemen E, Schwarz R</ContributorList>
-		<Year>2023</Year>
-		<Month>3</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1111/nph.18995</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Proteins released into the plant apoplast by the obligate parasitic protist Albugo selectively repress phyllosphere‐associated bacteria</Title>
-		<DOI>10.1111/nph.18995</DOI>
-		<JournalName>New Phytologist</JournalName>
-		<JournalVolume>239</JournalVolume>
-		<JournalPages>2320-2334</JournalPages>
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Gómez‐Pérez D, Schmid M, Chaudhry V, Hu Y, Velic A, Maček B, Ruhe J, Kemen A, Kemen E</ContributorList>
-		<Year>2023</Year>
-		<Month>5</Month>
-		<Day>24</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1007/978-981-97-4239-4_7</id>
-		<Organisation>EI</Organisation>
-		<Category>Book chapter</Category>
-		<CategoryID>2</CategoryID>
-		<Title>Nature’s Protectors: A Biofilm Perspective on Bacterial Disease Control in Plants</Title>
-		<DOI>10.1007/978-981-97-4239-4_7</DOI>
-		<JournalName />
-		<BookTitle>Plant-Microbe Interaction and Stress Management</BookTitle>
-		<SeriesTitle>Rhizosphere Biology</SeriesTitle>
-		<JournalVolume />
-		<JournalPages>109-133</JournalPages>
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Gómez-Pérez D, Zott LM, Schmid M, Chaudhry V</ContributorList>
-		<Year>2024</Year>
-		<Month />
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/tpj.15375</id>
@@ -12279,108 +12175,6 @@
 		<Year>2026</Year>
 		<Month>8</Month>
 		<Day>7</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.margen.2018.01.004</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Complete genome sequence of the marine Rhodococcus sp. H-CA8f isolated from Comau fjord in Northern Patagonia, Chile</Title>
-		<DOI>10.1016/j.margen.2018.01.004</DOI>
-		<JournalName>Marine Genomics</JournalName>
-		<JournalVolume>40</JournalVolume>
-		<JournalPages>13-17</JournalPages>
-		<ContributorIds>her24bip</ContributorIds>
-		<ContributorList>Undabarrena A, Salvà-Serra F, Jaén-Luchoro D, Castro-Nallar E, Mendez K, Valencia R, Ugalde J, Moore E, Seeger M, Cámara B</ContributorList>
-		<Year>2018</Year>
-		<Month>7</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3389/fmicb.2018.02309</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Living at the Frontiers of Life: Extremophiles in Chile and Their Potential for Bioremediation</Title>
-		<DOI>10.3389/fmicb.2018.02309</DOI>
-		<JournalName>Frontiers in Microbiology</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages />
-		<ContributorIds>her24bip</ContributorIds>
-		<ContributorList>Orellana R, Macaya C, Bravo G, Dorochesi F, Cumsille A, Valencia R, Rojas C, Seeger M</ContributorList>
-		<Year>2018</Year>
-		<Month>10</Month>
-		<Day>30</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3390/md19060286</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>An Integrative Bioinformatic Analysis for Keratinase Detection in Marine-Derived Streptomyces</Title>
-		<DOI>10.3390/md19060286</DOI>
-		<JournalName>Marine Drugs</JournalName>
-		<JournalVolume>19</JournalVolume>
-		<JournalPages>286</JournalPages>
-		<ContributorIds>her24bip</ContributorIds>
-		<ContributorList>Valencia R, González V, Undabarrena A, Zamora-Leiva L, Ugalde JA, Cámara B</ContributorList>
-		<Year>2021</Year>
-		<Month>5</Month>
-		<Day>21</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1099/mgen.0.000621</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Rhodococcus comparative genomics reveals a phylogenomic-dependent non-ribosomal peptide synthetase distribution: insights into biosynthetic gene cluster connection to an orphan metabolite</Title>
-		<DOI>10.1099/mgen.0.000621</DOI>
-		<JournalName>Microbial Genomics</JournalName>
-		<JournalVolume>7</JournalVolume>
-		<JournalPages />
-		<ContributorIds>her24bip</ContributorIds>
-		<ContributorList>Undabarrena A, Valencia R, Cumsille A, Zamora-Leiva L, Castro-Nallar E, Barona-Gomez F, Cámara B</ContributorList>
-		<Year>2021</Year>
-		<Month>7</Month>
-		<Day>28</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2024.01.24.576661</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Optimisation of surfactin yield in Bacillus using active learning and high-throughput mass spectrometry</Title>
-		<DOI>10.1101/2024.01.24.576661</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>her24bip</ContributorIds>
-		<ContributorList>Albornoz RV, Oyarzún D, Burgess K</ContributorList>
-		<Year>2024</Year>
-		<Month>1</Month>
-		<Day>25</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.csbj.2024.02.012</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Optimisation of surfactin yield in Bacillus using data-efficient active learning and high-throughput mass spectrometry</Title>
-		<DOI>10.1016/j.csbj.2024.02.012</DOI>
-		<JournalName>Computational and Structural Biotechnology Journal</JournalName>
-		<JournalVolume>23</JournalVolume>
-		<JournalPages>1226-1233</JournalPages>
-		<ContributorIds>her24bip</ContributorIds>
-		<ContributorList>Albornoz RV, Oyarzún D, Burgess K</ContributorList>
-		<Year>2024</Year>
-		<Month>2</Month>
-		<Day>15</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -45260,7 +45054,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>yig24nal, raguidea, warring, hildebrf, quince, jamesro</ContributorIds>
+		<ContributorIds>raguidea, warring, hildebrf, quince, jamesro, yig24nal</ContributorIds>
 		<ContributorList>Gómez-Pérez D, Raguideau S, Warring S, James R, Hildebrand F, Quince C</ContributorList>
 		<Year>2026</Year>
 		<Month>3</Month>
