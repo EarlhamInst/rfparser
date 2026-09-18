@@ -10363,7 +10363,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>de Coriolis J, Alavioon G, Haerty W, Tsakoumis E, Schmitz M, Godden AM, Rahbari RM, Maklakov AA, Immler SA</ContributorList>
+		<ContributorList>Coriolis Jd, Alavioon G, Haerty W, Tsakoumis E, Schmitz M, Godden AM, Rahbari R, Maklakov AA, Immler S</ContributorList>
 		<Year>2026</Year>
 		<Month>9</Month>
 		<Day>14</Day>
@@ -13061,6 +13061,23 @@
 		<Month>7</Month>
 		<Day>23</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.64898/2026.09.15.751661</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Developmental and physiological profiles define drought response diversity and genomic associations in common bean</Title>
+		<DOI>10.64898/2026.09.15.751661</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ashworth, devegaj</ContributorIds>
+		<ContributorList>Denning-James K, Rodriguez-Cubillos MJ, Ashworth J, Halll A, Wood T, Chater C, De Vega JJ</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>17</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/s10482-013-0041-z</id>
