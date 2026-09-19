@@ -804,601 +804,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.20944/preprints202108.0303.v1</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Ten Simple Rules for Sharing Experimental and Clinical Data with the Modeling Community</Title>
-		<DOI>10.20944/preprints202108.0303.v1</DOI>
-		<JournalName>Preprints</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>König M, Grzegorzewski J, Golebiewski M, Hermjakob H, Hucka M, Olivier B, Keating S, Nickerson D, Schreiber F, Sheriff R, Waltemath D</ContributorList>
-		<Year>2021</Year>
-		<Month>8</Month>
-		<Day>13</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.20944/preprints202108.0303.v2</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Ten Simple Rules for FAIR Sharing of Experimental and Clinical Data with the Modeling Community</Title>
-		<DOI>10.20944/preprints202108.0303.v2</DOI>
-		<JournalName>Preprints</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>König M, Grzegorzewski J, Golebiewski M, Hermjakob H, Hucka M, Olivier B, Keating S, Nickerson D, Schreiber F, Sheriff R, Waltemath D</ContributorList>
-		<Year>2021</Year>
-		<Month>11</Month>
-		<Day>19</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.20944/preprints202206.0137.v1</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>FAIR Sharing of Reproducible Models of Epidemic and Pandemic Forecast</Title>
-		<DOI>10.20944/preprints202206.0137.v1</DOI>
-		<JournalName>Preprints</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Ramachandran K, König M, Scharm M, Nguyen TVN, Hermjakob H, Waltemath D, Malik Sheriff RS</ContributorList>
-		<Year>2022</Year>
-		<Month>6</Month>
-		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1186/s12918-015-0170-2</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Uncovering distinct protein-network topologies in heterogeneous cell populations</Title>
-		<DOI>10.1186/s12918-015-0170-2</DOI>
-		<JournalName>BMC Systems Biology</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Wieczorek J, Malik-Sheriff RS, Fermin Y, Grecco HE, Zamir E, Ickstadt K</ContributorList>
-		<Year>2015</Year>
-		<Month>6</Month>
-		<Day>4</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.molcel.2016.09.018</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Positive Feedback Keeps Duration of Mitosis Temporally Insulated from Upstream Cell-Cycle Events</Title>
-		<DOI>10.1016/j.molcel.2016.09.018</DOI>
-		<JournalName>Molecular Cell</JournalName>
-		<JournalVolume>64</JournalVolume>
-		<JournalPages>362-375</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Araujo AR, Gelens L, Sheriff RS, Santos SD</ContributorList>
-		<Year>2016</Year>
-		<Month>10</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1371/journal.pone.0160591</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Highly Multiplexed Imaging Uncovers Changes in Compositional Noise within Assembling Focal Adhesions</Title>
-		<DOI>10.1371/journal.pone.0160591</DOI>
-		<JournalName>PLOS ONE</JournalName>
-		<JournalVolume>11</JournalVolume>
-		<JournalPages>e0160591</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Harizanova J, Fermin Y, Malik-Sheriff RS, Wieczorek J, Ickstadt K, Grecco HE, Zamir E</ContributorList>
-		<Year>2016</Year>
-		<Month>8</Month>
-		<Day>12</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1002/acn3.449</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Biased numerical cognition impairs economic decision‐making in Parkinson's disease</Title>
-		<DOI>10.1002/acn3.449</DOI>
-		<JournalName>Annals of Clinical and Translational Neurology</JournalName>
-		<JournalVolume>4</JournalVolume>
-		<JournalPages>739-748</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Arshad Q, Bonsu A, Lobo R, Fluri A, Sheriff R, Bain P, Pavese N, Bronstein AM</ContributorList>
-		<Year>2017</Year>
-		<Month>9</Month>
-		<Day>8</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41598-018-20252-0</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Diverse patterns of molecular changes in the mechano-responsiveness of focal adhesions</Title>
-		<DOI>10.1038/s41598-018-20252-0</DOI>
-		<JournalName>Scientific Reports</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Malik-Sheriff RS, Imtiaz S, Grecco HE, Zamir E</ContributorList>
-		<Year>2018</Year>
-		<Month>2</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/nar/gkx1023</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>BioModels: expanding horizons to include more modelling approaches and formats</Title>
-		<DOI>10.1093/nar/gkx1023</DOI>
-		<JournalName>Nucleic Acids Research</JournalName>
-		<JournalVolume>46</JournalVolume>
-		<JournalPages>D1248-D1253</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Glont M, Nguyen TVN, Graesslin M, Hälke R, Ali R, Schramm J, Wimalaratne SM, Kothamachu VB, Rodriguez N, Swat MJ, Eils J, Eils R, Laibe C, Malik-Sheriff RS, Chelliah V, Le Novère N, Hermjakob H</ContributorList>
-		<Year>2017</Year>
-		<Month>11</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/350991</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Memote: A community driven effort towards a standardized genome-scale metabolic model test suite</Title>
-		<DOI>10.1101/350991</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist A, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kim HU, King Z, Koehorst JJ, Klamt S, Klipp E, Lakshmanan M, Le Novère N, Lee D, Lee SY, Lee S, Lewis NE, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Resendis-Antonio O, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Richelle A, Rocha I, Sanchez BJ, Schaap PJ, Malik Sheriff RS, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JA, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
-		<Year>2018</Year>
-		<Month>6</Month>
-		<Day>21</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1002/psp4.12381</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Best Practices to Maximize the Use and Reuse of Quantitative and Systems Pharmacology Models: Recommendations From the United Kingdom Quantitative and Systems Pharmacology Network</Title>
-		<DOI>10.1002/psp4.12381</DOI>
-		<JournalName>CPT: Pharmacometrics &amp;amp; Systems Pharmacology</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages>259-272</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Cucurull‐Sanchez L, Chappell MJ, Chelliah V, Amy Cheung SY, Derks G, Penney M, Phipps A, Malik‐Sheriff RS, Timmis J, Tindall MJ, van der Graaf PH, Vicini P, Yates JWT</ContributorList>
-		<Year>2019</Year>
-		<Month>3</Month>
-		<Day>22</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1515/jib-2019-0021</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core Release 2</Title>
-		<DOI>10.1515/jib-2019-0021</DOI>
-		<JournalName>Journal of Integrative Bioinformatics</JournalName>
-		<JournalVolume>16</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Hucka M, Bergmann FT, Chaouiya C, Dräger A, Hoops S, Keating SM, König M, Novère NL, Myers CJ, Olivier BG, Sahle S, Schaff JC, Sheriff R, Smith LP, Waltemath D, Wilkinson DJ, Zhang F</ContributorList>
-		<Year>2019</Year>
-		<Month>6</Month>
-		<Day>20</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/nar/gkz1055</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>BioModels—15 years of sharing computational models in life science</Title>
-		<DOI>10.1093/nar/gkz1055</DOI>
-		<JournalName>Nucleic Acids Research</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Malik-Sheriff RS, Glont M, Nguyen TVN, Tiwari K, Roberts MG, Xavier A, Vu MT, Men J, Maire M, Kananathan S, Fairbanks EL, Meyer JP, Arankalle C, Varusai TM, Knight-Schrijver V, Li L, Dueñas-Roca C, Dass G, Keating SM, Park YM, Buso N, Rodriguez N, Hucka M, Hermjakob H</ContributorList>
-		<Year>2019</Year>
-		<Month>11</Month>
-		<Day>8</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41587-020-0446-y</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>MEMOTE for standardized genome-scale metabolic model testing</Title>
-		<DOI>10.1038/s41587-020-0446-y</DOI>
-		<JournalName>Nature Biotechnology</JournalName>
-		<JournalVolume>38</JournalVolume>
-		<JournalPages>272-276</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist AM, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kaafarani A, Kim HU, King Z, Klamt S, Klipp E, Koehorst JJ, König M, Lakshmanan M, Lee D, Lee SY, Lee S, Lewis NE, Liu F, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Resendis-Antonio O, Richelle A, Rocha I, Sánchez BJ, Schaap PJ, Malik Sheriff RS, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JAH, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
-		<Year>2020</Year>
-		<Month>3</Month>
-		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/bib/bbaa046</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Setting the basis of best practices and standards for curation and annotation of logical models in biology—highlights of the [BC]2 2019 CoLoMoTo/SysMod Workshop</Title>
-		<DOI>10.1093/bib/bbaa046</DOI>
-		<JournalName>Briefings in Bioinformatics</JournalName>
-		<JournalVolume>22</JournalVolume>
-		<JournalPages>1848-1859</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Niarakis A, Kuiper M, Ostaszewski M, Malik Sheriff RS, Casals-Casas C, Thieffry D, Freeman TC, Thomas P, Touré V, Noël V, Stoll G, Saez-Rodriguez J, Naldi A, Oshurko E, Xenarios I, Soliman S, Chaouiya C, Helikar T, Calzone L</ContributorList>
-		<Year>2020</Year>
-		<Month>4</Month>
-		<Day>21</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41587-020-0477-4</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Publisher Correction: MEMOTE for standardized genome-scale metabolic model testing</Title>
-		<DOI>10.1038/s41587-020-0477-4</DOI>
-		<JournalName>Nature Biotechnology</JournalName>
-		<JournalVolume>38</JournalVolume>
-		<JournalPages>504-504</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist AM, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kaafarani A, Kim HU, King Z, Klamt S, Klipp E, Koehorst JJ, König M, Lakshmanan M, Lee D, Lee SY, Lee S, Lewis NE, Liu F, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Resendis-Antonio O, Richelle A, Rocha I, Sánchez BJ, Schaap PJ, Sheriff RSM, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JAH, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
-		<Year>2020</Year>
-		<Month>3</Month>
-		<Day>19</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.stem.2020.03.005</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>GATA3 Mediates a Fast, Irreversible Commitment to BMP4-Driven Differentiation in Human Embryonic Stem Cells</Title>
-		<DOI>10.1016/j.stem.2020.03.005</DOI>
-		<JournalName>Cell Stem Cell</JournalName>
-		<JournalVolume>26</JournalVolume>
-		<JournalPages>693-706.e9</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Gunne-Braden A, Sullivan A, Gharibi B, Sheriff RS, Maity A, Wang Y, Edwards A, Jiang M, Howell M, Goldstone R, Wollman R, East P, Santos SD</ContributorList>
-		<Year>2020</Year>
-		<Month>5</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1515/jib-2020-0005</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The first 10 years of the international coordination network for standards in systems and synthetic biology (COMBINE)</Title>
-		<DOI>10.1515/jib-2020-0005</DOI>
-		<JournalName>Journal of Integrative Bioinformatics</JournalName>
-		<JournalVolume>17</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Waltemath D, Golebiewski M, Blinov ML, Gleeson P, Hermjakob H, Hucka M, Inau ET, Keating SM, König M, Krebs O, Malik-Sheriff RS, Nickerson D, Oberortner E, Sauro HM, Schreiber F, Smith L, Stefan MI, Wittig U, Myers CJ</ContributorList>
-		<Year>2020</Year>
-		<Month>6</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/bioinformatics/btaa560</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>BioModels Parameters: a treasure trove of parameter values from published systems biology models</Title>
-		<DOI>10.1093/bioinformatics/btaa560</DOI>
-		<JournalName>Bioinformatics</JournalName>
-		<JournalVolume>36</JournalVolume>
-		<JournalPages>4649-4654</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Glont M, Arankalle C, Tiwari K, Nguyen TVN, Hermjakob H, Malik-Sheriff RS</ContributorList>
-		<Year>2020</Year>
-		<Month>6</Month>
-		<Day>23</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.athoracsur.2020.06.029</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The Use of Frailty Scoring to Predict Early Physical Activity Levels After Cardiac Surgery</Title>
-		<DOI>10.1016/j.athoracsur.2020.06.029</DOI>
-		<JournalName>The Annals of Thoracic Surgery</JournalName>
-		<JournalVolume>111</JournalVolume>
-		<JournalPages>36-43</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Abdullahi YS, Salmasi MY, Moscarelli M, Parlanti A, Marotta M, Varone E, Solinas M, Sheriff RM, Casula RP, Athanasiou T</ContributorList>
-		<Year>2021</Year>
-		<Month>1</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.15252/msb.20199110</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>SBML Level 3: an extensible format for the exchange and reuse of biological models</Title>
-		<DOI>10.15252/msb.20199110</DOI>
-		<JournalName>Molecular Systems Biology</JournalName>
-		<JournalVolume>16</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Keating SM, Waltemath D, König M, Zhang F, Dräger A, Chaouiya C, Bergmann FT, Finney A, Gillespie CS, Helikar T, Hoops S, Malik‐Sheriff RS, Moodie SL, Moraru II, Myers CJ, Naldi A, Olivier BG, Sahle S, Schaff JC, Smith LP, Swat MJ, Thieffry D, Watanabe L, Wilkinson DJ, Blinov ML, Begley K, Faeder JR, Gómez HF, Hamm TM, Inagaki Y, Liebermeister W, Lister AL, Lucio D, Mjolsness E, Proctor CJ, Raman K, Rodriguez N, Shaffer CA, Shapiro BE, Stelling J, Swainston N, Tanimura N, Wagner J, Meier‐Schellersheim M, Sauro HM, Palsson B, Bolouri H, Kitano H, Funahashi A, Hermjakob H, Doyle JC, Hucka M, SBML Level 3 Community members, Adams RR, Allen NA, Angermann BR, Antoniotti M, Bader GD, Červený J, Courtot M, Cox CD, Dalle Pezze P, Demir E, Denney WS, Dharuri H, Dorier J, Drasdo D, Ebrahim A, Eichner J, Elf J, Endler L, Evelo CT, Flamm C, Fleming RM, Fröhlich M, Glont M, Gonçalves E, Golebiewski M, Grabski H, Gutteridge A, Hachmeister D, Harris LA, Heavner BD, Henkel R, Hlavacek WS, Hu B, Hyduke DR, de Jong H, Juty N, Karp PD, Karr JR, Kell DB, Keller R, Kiselev I, Klamt S, Klipp E, Knüpfer C, Kolpakov F, Krause F, Kutmon M, Laibe C, Lawless C, Li L, Loew LM, Machne R, Matsuoka Y, Mendes P, Mi H, Mittag F, Monteiro PT, Natarajan KN, Nielsen PM, Nguyen T, Palmisano A, Pettit J, Pfau T, Phair RD, Radivoyevitch T, Rohwer JM, Ruebenacker OA, Saez‐Rodriguez J, Scharm M, Schmidt H, Schreiber F, Schubert M, Schulte R, Sealfon SC, Smallbone K, Soliman S, Stefan MI, Sullivan DP, Takahashi K, Teusink B, Tolnay D, Vazirabad I, von Kamp A, Wittig U, Wrzodek C, Wrzodek F, Xenarios I, Zhukova A, Zucker J</ContributorList>
-		<Year>2020</Year>
-		<Month>8</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2020.11.11.378869</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>A FGF2-mediated incoherent feedforward loop induces Erk inhibition and promotes naïve pluripotency</Title>
-		<DOI>10.1101/2020.11.11.378869</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Gharibi B, Gonçalves E, Nashun B, Montoya A, Mankalow K, Strohbuecker S, Sheriff RSM, Cicarrelli A, Carvalho J, Nye E, Kramer H, Rosewell I, Hajkova P, Beltrao P, Santos SDM</ContributorList>
-		<Year>2020</Year>
-		<Month>11</Month>
-		<Day>11</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.15252/msb.20209982</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Reproducibility in systems biology modelling</Title>
-		<DOI>10.15252/msb.20209982</DOI>
-		<JournalName>Molecular Systems Biology</JournalName>
-		<JournalVolume>17</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Tiwari K, Kananathan S, Roberts MG, Meyer JP, Sharif Shohan MU, Xavier A, Maire M, Zyoud A, Men J, Ng S, Nguyen TVN, Glont M, Hermjakob H, Malik‐Sheriff RS</ContributorList>
-		<Year>2021</Year>
-		<Month>2</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3389/fphar.2021.708296</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Path4Drug: Data Science Workflow for Identification of Tissue-Specific Biological Pathways Modulated by Toxic Drugs</Title>
-		<DOI>10.3389/fphar.2021.708296</DOI>
-		<JournalName>Frontiers in Pharmacology</JournalName>
-		<JournalVolume>12</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Füzi B, Gurinova J, Hermjakob H, Ecker GF, Sheriff R</ContributorList>
-		<Year>2021</Year>
-		<Month>10</Month>
-		<Day>14</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/nar/gkab1127</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The European Bioinformatics Institute (EMBL-EBI) in 2021</Title>
-		<DOI>10.1093/nar/gkab1127</DOI>
-		<JournalName>Nucleic Acids Research</JournalName>
-		<JournalVolume>50</JournalVolume>
-		<JournalPages>D11-D19</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Cantelli G, Bateman A, Brooksbank C, Petrov AI, Malik-Sheriff RS, Ide-Smith M, Hermjakob H, Flicek P, Apweiler R, Birney E, McEntyre J</ContributorList>
-		<Year>2021</Year>
-		<Month>11</Month>
-		<Day>25</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.3389/fsysb.2022.822606</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Model Integration in Computational Biology: The Role of Reproducibility, Credibility and Utility</Title>
-		<DOI>10.3389/fsysb.2022.822606</DOI>
-		<JournalName>Frontiers in Systems Biology</JournalName>
-		<JournalVolume>2</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Karr J, Malik-Sheriff RS, Osborne J, Gonzalez-Parra G, Forgoston E, Bowness R, Liu Y, Thompson R, Garira W, Barhak J, Rice J, Torres M, Dobrovolny HM, Tang T, Waites W, Glazier JA, Faeder JR, Kulesza A</ContributorList>
-		<Year>2022</Year>
-		<Month>3</Month>
-		<Day>7</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41746-022-00610-z</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Building digital twins of the human immune system: toward a roadmap</Title>
-		<DOI>10.1038/s41746-022-00610-z</DOI>
-		<JournalName>npj Digital Medicine</JournalName>
-		<JournalVolume>5</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Laubenbacher R, Niarakis A, Helikar T, An G, Shapiro B, Malik-Sheriff RS, Sego TJ, Knapp A, Macklin P, Glazier JA</ContributorList>
-		<Year>2022</Year>
-		<Month>5</Month>
-		<Day>20</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/nar/gkac331</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>BioSimulators: a central registry of simulation engines and services for recommending specific tools</Title>
-		<DOI>10.1093/nar/gkac331</DOI>
-		<JournalName>Nucleic Acids Research</JournalName>
-		<JournalVolume>50</JournalVolume>
-		<JournalPages>W108-W114</JournalPages>
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Anwar A, Beber ME, Bergmann FT, Brooks D, Brusch L, Calzone L, Choi K, Cooper J, Detloff J, Drawert B, Dumontier M, Ermentrout GB, Faeder JR, Freiburger AP, Fröhlich F, Funahashi A, Garny A, Gennari JH, Gleeson P, Goelzer A, Haiman Z, Hasenauer J, Hellerstein JL, Hermjakob H, Hoops S, Ison JC, Jahn D, Jakubowski HV, Jordan R, Kalaš M, König M, Liebermeister W, Sheriff RSM, Mandal S, McDougal R, Medley JK, Mendes P, Müller R, Myers CJ, Naldi A, Nguyen TVN, Nickerson DP, Olivier BG, Patoliya D, Paulevé L, Petzold LR, Priya A, Rampadarath AK, Rohwer JM, Saglam AS, Singh D, Sinha A, Snoep J, Sorby H, Spangler R, Starruß J, Thomas PJ, van Niekerk D, Weindl D, Zhang F, Zhukova A, Goldberg AP, Schaff JC, Blinov ML, Sauro HM, Moraru II, Karr JR</ContributorList>
-		<Year>2022</Year>
-		<Month>5</Month>
-		<Day>7</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2023.05.22.540599</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>BioModelsML: Building a FAIR and reproducible collection of machine learning models in life sciences and medicine for easy reuse</Title>
-		<DOI>10.1101/2023.05.22.540599</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Tiwari DD, Hoffmann N, Didi K, Deshpande S, Ghosh S, Nguyen TVN, Raman K, Hermjakob H, Sheriff R</ContributorList>
-		<Year>2023</Year>
-		<Month>5</Month>
-		<Day>23</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.37044/osf.io/q4zgx</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Infrastructure for synthetic health data</Title>
-		<DOI>10.37044/osf.io/q4zgx</DOI>
-		<JournalName>BioHackrXiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Queralt-Rosinach N, Alshaikhdeeb B, Bolzani L, Shoaib M, Barbero MC, Aguiló-Castillo S, Cirillo D, Castro LJ, Tsueng G, Kalaš M, Palmblad M, Welter D, Ghosh S, Satagopam V, Malik Sheriff RS</ContributorList>
-		<Year>2023</Year>
-		<Month>7</Month>
-		<Day>22</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2024.01.10.574883</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems</Title>
-		<DOI>10.1101/2024.01.10.574883</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE</ContributorList>
-		<Year>2024</Year>
-		<Month>1</Month>
-		<Day>12</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/bioinformatics/btae465</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems</Title>
-		<DOI>10.1093/bioinformatics/btae465</DOI>
-		<JournalName>Bioinformatics</JournalName>
-		<JournalVolume>40</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE</ContributorList>
-		<Year>2024</Year>
-		<Month>7</Month>
-		<Day>30</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/bioinformatics/btaf484</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>SBMLtoOdin and Menelmacar: interactive visualisation of systems biology models for expert and non-expert audiences</Title>
-		<DOI>10.1093/bioinformatics/btaf484</DOI>
-		<JournalName>Bioinformatics</JournalName>
-		<JournalVolume>41</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Lorenz LJ, Andréoletti A, Nguyen TVN, Hermjakob H, FitzJohn RG, Malik Sheriff RS, Lees JA</ContributorList>
-		<Year>2025</Year>
-		<Month>9</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.5281/zenodo.17955256</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>ELIXIR AI Ecosystem Concept - BioHackathon 2025</Title>
-		<DOI>10.5281/zenodo.17955256</DOI>
-		<JournalName>Zenodo</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Farrell G, ATTAFI OA, Malik Sheriff RS, Psomopoulos F, Tosatto S, Cirillo D</ContributorList>
-		<Year>2025</Year>
-		<Month>12</Month>
-		<Day>16</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1002/psp4.70234</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The Potential of Digital Twins for Pediatric Rare Diseases</Title>
-		<DOI>10.1002/psp4.70234</DOI>
-		<JournalName>CPT: Pharmacometrics &amp;amp; Systems Pharmacology</JournalName>
-		<JournalVolume>15</JournalVolume>
-		<JournalPages />
-		<ContributorIds>cag26fel</ContributorIds>
-		<ContributorList>Malik‐Sheriff RS, Limdi A, Petsalaki E, Hermjakob H, McDonagh EM</ContributorList>
-		<Year>2026</Year>
-		<Month>3</Month>
-		<Day>31</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/j.margen.2016.06.003</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -6336,6 +5741,601 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.20944/preprints202108.0303.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Ten Simple Rules for Sharing Experimental and Clinical Data with the Modeling Community</Title>
+		<DOI>10.20944/preprints202108.0303.v1</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>König M, Grzegorzewski J, Golebiewski M, Hermjakob H, Hucka M, Olivier B, Keating S, Nickerson D, Schreiber F, Sheriff R, Waltemath D</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day>13</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.20944/preprints202108.0303.v2</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Ten Simple Rules for FAIR Sharing of Experimental and Clinical Data with the Modeling Community</Title>
+		<DOI>10.20944/preprints202108.0303.v2</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>König M, Grzegorzewski J, Golebiewski M, Hermjakob H, Hucka M, Olivier B, Keating S, Nickerson D, Schreiber F, Sheriff R, Waltemath D</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>19</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.20944/preprints202206.0137.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>FAIR Sharing of Reproducible Models of Epidemic and Pandemic Forecast</Title>
+		<DOI>10.20944/preprints202206.0137.v1</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Ramachandran K, König M, Scharm M, Nguyen TVN, Hermjakob H, Waltemath D, Malik Sheriff RS</ContributorList>
+		<Year>2022</Year>
+		<Month>6</Month>
+		<Day>9</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12918-015-0170-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Uncovering distinct protein-network topologies in heterogeneous cell populations</Title>
+		<DOI>10.1186/s12918-015-0170-2</DOI>
+		<JournalName>BMC Systems Biology</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Wieczorek J, Malik-Sheriff RS, Fermin Y, Grecco HE, Zamir E, Ickstadt K</ContributorList>
+		<Year>2015</Year>
+		<Month>6</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.molcel.2016.09.018</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Positive Feedback Keeps Duration of Mitosis Temporally Insulated from Upstream Cell-Cycle Events</Title>
+		<DOI>10.1016/j.molcel.2016.09.018</DOI>
+		<JournalName>Molecular Cell</JournalName>
+		<JournalVolume>64</JournalVolume>
+		<JournalPages>362-375</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Araujo AR, Gelens L, Sheriff RS, Santos SD</ContributorList>
+		<Year>2016</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pone.0160591</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Highly Multiplexed Imaging Uncovers Changes in Compositional Noise within Assembling Focal Adhesions</Title>
+		<DOI>10.1371/journal.pone.0160591</DOI>
+		<JournalName>PLOS ONE</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages>e0160591</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Harizanova J, Fermin Y, Malik-Sheriff RS, Wieczorek J, Ickstadt K, Grecco HE, Zamir E</ContributorList>
+		<Year>2016</Year>
+		<Month>8</Month>
+		<Day>12</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/acn3.449</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Biased numerical cognition impairs economic decision‐making in Parkinson's disease</Title>
+		<DOI>10.1002/acn3.449</DOI>
+		<JournalName>Annals of Clinical and Translational Neurology</JournalName>
+		<JournalVolume>4</JournalVolume>
+		<JournalPages>739-748</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Arshad Q, Bonsu A, Lobo R, Fluri A, Sheriff R, Bain P, Pavese N, Bronstein AM</ContributorList>
+		<Year>2017</Year>
+		<Month>9</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41598-018-20252-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Diverse patterns of molecular changes in the mechano-responsiveness of focal adhesions</Title>
+		<DOI>10.1038/s41598-018-20252-0</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Malik-Sheriff RS, Imtiaz S, Grecco HE, Zamir E</ContributorList>
+		<Year>2018</Year>
+		<Month>2</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkx1023</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioModels: expanding horizons to include more modelling approaches and formats</Title>
+		<DOI>10.1093/nar/gkx1023</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>46</JournalVolume>
+		<JournalPages>D1248-D1253</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Glont M, Nguyen TVN, Graesslin M, Hälke R, Ali R, Schramm J, Wimalaratne SM, Kothamachu VB, Rodriguez N, Swat MJ, Eils J, Eils R, Laibe C, Malik-Sheriff RS, Chelliah V, Le Novère N, Hermjakob H</ContributorList>
+		<Year>2017</Year>
+		<Month>11</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/350991</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Memote: A community driven effort towards a standardized genome-scale metabolic model test suite</Title>
+		<DOI>10.1101/350991</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist A, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kim HU, King Z, Koehorst JJ, Klamt S, Klipp E, Lakshmanan M, Le Novère N, Lee D, Lee SY, Lee S, Lewis NE, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Resendis-Antonio O, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Richelle A, Rocha I, Sanchez BJ, Schaap PJ, Malik Sheriff RS, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JA, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
+		<Year>2018</Year>
+		<Month>6</Month>
+		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/psp4.12381</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Best Practices to Maximize the Use and Reuse of Quantitative and Systems Pharmacology Models: Recommendations From the United Kingdom Quantitative and Systems Pharmacology Network</Title>
+		<DOI>10.1002/psp4.12381</DOI>
+		<JournalName>CPT: Pharmacometrics &amp;amp; Systems Pharmacology</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages>259-272</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Cucurull‐Sanchez L, Chappell MJ, Chelliah V, Amy Cheung SY, Derks G, Penney M, Phipps A, Malik‐Sheriff RS, Timmis J, Tindall MJ, van der Graaf PH, Vicini P, Yates JWT</ContributorList>
+		<Year>2019</Year>
+		<Month>3</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1515/jib-2019-0021</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core Release 2</Title>
+		<DOI>10.1515/jib-2019-0021</DOI>
+		<JournalName>Journal of Integrative Bioinformatics</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Hucka M, Bergmann FT, Chaouiya C, Dräger A, Hoops S, Keating SM, König M, Novère NL, Myers CJ, Olivier BG, Sahle S, Schaff JC, Sheriff R, Smith LP, Waltemath D, Wilkinson DJ, Zhang F</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkz1055</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioModels—15 years of sharing computational models in life science</Title>
+		<DOI>10.1093/nar/gkz1055</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Malik-Sheriff RS, Glont M, Nguyen TVN, Tiwari K, Roberts MG, Xavier A, Vu MT, Men J, Maire M, Kananathan S, Fairbanks EL, Meyer JP, Arankalle C, Varusai TM, Knight-Schrijver V, Li L, Dueñas-Roca C, Dass G, Keating SM, Park YM, Buso N, Rodriguez N, Hucka M, Hermjakob H</ContributorList>
+		<Year>2019</Year>
+		<Month>11</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41587-020-0446-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>MEMOTE for standardized genome-scale metabolic model testing</Title>
+		<DOI>10.1038/s41587-020-0446-y</DOI>
+		<JournalName>Nature Biotechnology</JournalName>
+		<JournalVolume>38</JournalVolume>
+		<JournalPages>272-276</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist AM, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kaafarani A, Kim HU, King Z, Klamt S, Klipp E, Koehorst JJ, König M, Lakshmanan M, Lee D, Lee SY, Lee S, Lewis NE, Liu F, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Resendis-Antonio O, Richelle A, Rocha I, Sánchez BJ, Schaap PJ, Malik Sheriff RS, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JAH, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>1</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bib/bbaa046</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Setting the basis of best practices and standards for curation and annotation of logical models in biology—highlights of the [BC]2 2019 CoLoMoTo/SysMod Workshop</Title>
+		<DOI>10.1093/bib/bbaa046</DOI>
+		<JournalName>Briefings in Bioinformatics</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages>1848-1859</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Niarakis A, Kuiper M, Ostaszewski M, Malik Sheriff RS, Casals-Casas C, Thieffry D, Freeman TC, Thomas P, Touré V, Noël V, Stoll G, Saez-Rodriguez J, Naldi A, Oshurko E, Xenarios I, Soliman S, Chaouiya C, Helikar T, Calzone L</ContributorList>
+		<Year>2020</Year>
+		<Month>4</Month>
+		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41587-020-0477-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Publisher Correction: MEMOTE for standardized genome-scale metabolic model testing</Title>
+		<DOI>10.1038/s41587-020-0477-4</DOI>
+		<JournalName>Nature Biotechnology</JournalName>
+		<JournalVolume>38</JournalVolume>
+		<JournalPages>504-504</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lieven C, Beber ME, Olivier BG, Bergmann FT, Ataman M, Babaei P, Bartell JA, Blank LM, Chauhan S, Correia K, Diener C, Dräger A, Ebert BE, Edirisinghe JN, Faria JP, Feist AM, Fengos G, Fleming RMT, García-Jiménez B, Hatzimanikatis V, van Helvoirt W, Henry CS, Hermjakob H, Herrgård MJ, Kaafarani A, Kim HU, King Z, Klamt S, Klipp E, Koehorst JJ, König M, Lakshmanan M, Lee D, Lee SY, Lee S, Lewis NE, Liu F, Ma H, Machado D, Mahadevan R, Maia P, Mardinoglu A, Medlock GL, Monk JM, Nielsen J, Nielsen LK, Nogales J, Nookaew I, Palsson BO, Papin JA, Patil KR, Poolman M, Price ND, Resendis-Antonio O, Richelle A, Rocha I, Sánchez BJ, Schaap PJ, Sheriff RSM, Shoaie S, Sonnenschein N, Teusink B, Vilaça P, Vik JO, Wodke JAH, Xavier JC, Yuan Q, Zakhartsev M, Zhang C</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.stem.2020.03.005</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>GATA3 Mediates a Fast, Irreversible Commitment to BMP4-Driven Differentiation in Human Embryonic Stem Cells</Title>
+		<DOI>10.1016/j.stem.2020.03.005</DOI>
+		<JournalName>Cell Stem Cell</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages>693-706.e9</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Gunne-Braden A, Sullivan A, Gharibi B, Sheriff RS, Maity A, Wang Y, Edwards A, Jiang M, Howell M, Goldstone R, Wollman R, East P, Santos SD</ContributorList>
+		<Year>2020</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1515/jib-2020-0005</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The first 10 years of the international coordination network for standards in systems and synthetic biology (COMBINE)</Title>
+		<DOI>10.1515/jib-2020-0005</DOI>
+		<JournalName>Journal of Integrative Bioinformatics</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Waltemath D, Golebiewski M, Blinov ML, Gleeson P, Hermjakob H, Hucka M, Inau ET, Keating SM, König M, Krebs O, Malik-Sheriff RS, Nickerson D, Oberortner E, Sauro HM, Schreiber F, Smith L, Stefan MI, Wittig U, Myers CJ</ContributorList>
+		<Year>2020</Year>
+		<Month>6</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioinformatics/btaa560</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioModels Parameters: a treasure trove of parameter values from published systems biology models</Title>
+		<DOI>10.1093/bioinformatics/btaa560</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>36</JournalVolume>
+		<JournalPages>4649-4654</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Glont M, Arankalle C, Tiwari K, Nguyen TVN, Hermjakob H, Malik-Sheriff RS</ContributorList>
+		<Year>2020</Year>
+		<Month>6</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.athoracsur.2020.06.029</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Use of Frailty Scoring to Predict Early Physical Activity Levels After Cardiac Surgery</Title>
+		<DOI>10.1016/j.athoracsur.2020.06.029</DOI>
+		<JournalName>The Annals of Thoracic Surgery</JournalName>
+		<JournalVolume>111</JournalVolume>
+		<JournalPages>36-43</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Abdullahi YS, Salmasi MY, Moscarelli M, Parlanti A, Marotta M, Varone E, Solinas M, Sheriff RM, Casula RP, Athanasiou T</ContributorList>
+		<Year>2021</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.15252/msb.20199110</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>SBML Level 3: an extensible format for the exchange and reuse of biological models</Title>
+		<DOI>10.15252/msb.20199110</DOI>
+		<JournalName>Molecular Systems Biology</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Keating SM, Waltemath D, König M, Zhang F, Dräger A, Chaouiya C, Bergmann FT, Finney A, Gillespie CS, Helikar T, Hoops S, Malik‐Sheriff RS, Moodie SL, Moraru II, Myers CJ, Naldi A, Olivier BG, Sahle S, Schaff JC, Smith LP, Swat MJ, Thieffry D, Watanabe L, Wilkinson DJ, Blinov ML, Begley K, Faeder JR, Gómez HF, Hamm TM, Inagaki Y, Liebermeister W, Lister AL, Lucio D, Mjolsness E, Proctor CJ, Raman K, Rodriguez N, Shaffer CA, Shapiro BE, Stelling J, Swainston N, Tanimura N, Wagner J, Meier‐Schellersheim M, Sauro HM, Palsson B, Bolouri H, Kitano H, Funahashi A, Hermjakob H, Doyle JC, Hucka M, SBML Level 3 Community members, Adams RR, Allen NA, Angermann BR, Antoniotti M, Bader GD, Červený J, Courtot M, Cox CD, Dalle Pezze P, Demir E, Denney WS, Dharuri H, Dorier J, Drasdo D, Ebrahim A, Eichner J, Elf J, Endler L, Evelo CT, Flamm C, Fleming RM, Fröhlich M, Glont M, Gonçalves E, Golebiewski M, Grabski H, Gutteridge A, Hachmeister D, Harris LA, Heavner BD, Henkel R, Hlavacek WS, Hu B, Hyduke DR, de Jong H, Juty N, Karp PD, Karr JR, Kell DB, Keller R, Kiselev I, Klamt S, Klipp E, Knüpfer C, Kolpakov F, Krause F, Kutmon M, Laibe C, Lawless C, Li L, Loew LM, Machne R, Matsuoka Y, Mendes P, Mi H, Mittag F, Monteiro PT, Natarajan KN, Nielsen PM, Nguyen T, Palmisano A, Pettit J, Pfau T, Phair RD, Radivoyevitch T, Rohwer JM, Ruebenacker OA, Saez‐Rodriguez J, Scharm M, Schmidt H, Schreiber F, Schubert M, Schulte R, Sealfon SC, Smallbone K, Soliman S, Stefan MI, Sullivan DP, Takahashi K, Teusink B, Tolnay D, Vazirabad I, von Kamp A, Wittig U, Wrzodek C, Wrzodek F, Xenarios I, Zhukova A, Zucker J</ContributorList>
+		<Year>2020</Year>
+		<Month>8</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.11.11.378869</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A FGF2-mediated incoherent feedforward loop induces Erk inhibition and promotes naïve pluripotency</Title>
+		<DOI>10.1101/2020.11.11.378869</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Gharibi B, Gonçalves E, Nashun B, Montoya A, Mankalow K, Strohbuecker S, Sheriff RSM, Cicarrelli A, Carvalho J, Nye E, Kramer H, Rosewell I, Hajkova P, Beltrao P, Santos SDM</ContributorList>
+		<Year>2020</Year>
+		<Month>11</Month>
+		<Day>11</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.15252/msb.20209982</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Reproducibility in systems biology modelling</Title>
+		<DOI>10.15252/msb.20209982</DOI>
+		<JournalName>Molecular Systems Biology</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Tiwari K, Kananathan S, Roberts MG, Meyer JP, Sharif Shohan MU, Xavier A, Maire M, Zyoud A, Men J, Ng S, Nguyen TVN, Glont M, Hermjakob H, Malik‐Sheriff RS</ContributorList>
+		<Year>2021</Year>
+		<Month>2</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fphar.2021.708296</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Path4Drug: Data Science Workflow for Identification of Tissue-Specific Biological Pathways Modulated by Toxic Drugs</Title>
+		<DOI>10.3389/fphar.2021.708296</DOI>
+		<JournalName>Frontiers in Pharmacology</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Füzi B, Gurinova J, Hermjakob H, Ecker GF, Sheriff R</ContributorList>
+		<Year>2021</Year>
+		<Month>10</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkab1127</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The European Bioinformatics Institute (EMBL-EBI) in 2021</Title>
+		<DOI>10.1093/nar/gkab1127</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>D11-D19</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Cantelli G, Bateman A, Brooksbank C, Petrov AI, Malik-Sheriff RS, Ide-Smith M, Hermjakob H, Flicek P, Apweiler R, Birney E, McEntyre J</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fsysb.2022.822606</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Model Integration in Computational Biology: The Role of Reproducibility, Credibility and Utility</Title>
+		<DOI>10.3389/fsysb.2022.822606</DOI>
+		<JournalName>Frontiers in Systems Biology</JournalName>
+		<JournalVolume>2</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Karr J, Malik-Sheriff RS, Osborne J, Gonzalez-Parra G, Forgoston E, Bowness R, Liu Y, Thompson R, Garira W, Barhak J, Rice J, Torres M, Dobrovolny HM, Tang T, Waites W, Glazier JA, Faeder JR, Kulesza A</ContributorList>
+		<Year>2022</Year>
+		<Month>3</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41746-022-00610-z</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Building digital twins of the human immune system: toward a roadmap</Title>
+		<DOI>10.1038/s41746-022-00610-z</DOI>
+		<JournalName>npj Digital Medicine</JournalName>
+		<JournalVolume>5</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Laubenbacher R, Niarakis A, Helikar T, An G, Shapiro B, Malik-Sheriff RS, Sego TJ, Knapp A, Macklin P, Glazier JA</ContributorList>
+		<Year>2022</Year>
+		<Month>5</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkac331</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BioSimulators: a central registry of simulation engines and services for recommending specific tools</Title>
+		<DOI>10.1093/nar/gkac331</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>W108-W114</JournalPages>
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Anwar A, Beber ME, Bergmann FT, Brooks D, Brusch L, Calzone L, Choi K, Cooper J, Detloff J, Drawert B, Dumontier M, Ermentrout GB, Faeder JR, Freiburger AP, Fröhlich F, Funahashi A, Garny A, Gennari JH, Gleeson P, Goelzer A, Haiman Z, Hasenauer J, Hellerstein JL, Hermjakob H, Hoops S, Ison JC, Jahn D, Jakubowski HV, Jordan R, Kalaš M, König M, Liebermeister W, Sheriff RSM, Mandal S, McDougal R, Medley JK, Mendes P, Müller R, Myers CJ, Naldi A, Nguyen TVN, Nickerson DP, Olivier BG, Patoliya D, Paulevé L, Petzold LR, Priya A, Rampadarath AK, Rohwer JM, Saglam AS, Singh D, Sinha A, Snoep J, Sorby H, Spangler R, Starruß J, Thomas PJ, van Niekerk D, Weindl D, Zhang F, Zhukova A, Goldberg AP, Schaff JC, Blinov ML, Sauro HM, Moraru II, Karr JR</ContributorList>
+		<Year>2022</Year>
+		<Month>5</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.05.22.540599</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>BioModelsML: Building a FAIR and reproducible collection of machine learning models in life sciences and medicine for easy reuse</Title>
+		<DOI>10.1101/2023.05.22.540599</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Tiwari DD, Hoffmann N, Didi K, Deshpande S, Ghosh S, Nguyen TVN, Raman K, Hermjakob H, Sheriff R</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>23</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.37044/osf.io/q4zgx</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Infrastructure for synthetic health data</Title>
+		<DOI>10.37044/osf.io/q4zgx</DOI>
+		<JournalName>BioHackrXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Queralt-Rosinach N, Alshaikhdeeb B, Bolzani L, Shoaib M, Barbero MC, Aguiló-Castillo S, Cirillo D, Castro LJ, Tsueng G, Kalaš M, Palmblad M, Welter D, Ghosh S, Satagopam V, Malik Sheriff RS</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.01.10.574883</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems</Title>
+		<DOI>10.1101/2024.01.10.574883</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>12</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioinformatics/btae465</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems</Title>
+		<DOI>10.1093/bioinformatics/btae465</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>40</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioinformatics/btaf484</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>SBMLtoOdin and Menelmacar: interactive visualisation of systems biology models for expert and non-expert audiences</Title>
+		<DOI>10.1093/bioinformatics/btaf484</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Lorenz LJ, Andréoletti A, Nguyen TVN, Hermjakob H, FitzJohn RG, Malik Sheriff RS, Lees JA</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.5281/zenodo.17955256</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>ELIXIR AI Ecosystem Concept - BioHackathon 2025</Title>
+		<DOI>10.5281/zenodo.17955256</DOI>
+		<JournalName>Zenodo</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Farrell G, ATTAFI OA, Malik Sheriff RS, Psomopoulos F, Tosatto S, Cirillo D</ContributorList>
+		<Year>2025</Year>
+		<Month>12</Month>
+		<Day>16</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/psp4.70234</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Potential of Digital Twins for Pediatric Rare Diseases</Title>
+		<DOI>10.1002/psp4.70234</DOI>
+		<JournalName>CPT: Pharmacometrics &amp;amp; Systems Pharmacology</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cag26fel</ContributorIds>
+		<ContributorList>Malik‐Sheriff RS, Limdi A, Petsalaki E, Hermjakob H, McDonagh EM</ContributorList>
+		<Year>2026</Year>
+		<Month>3</Month>
+		<Day>31</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/j.1741-6892.2004.00498.x</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -7950,6 +7950,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.64898/2026.08.31.747859</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>City life: airborne DNA metagenomic biodiversity monitoring reveals dynamic changes across time and space</Title>
+		<DOI>10.64898/2026.08.31.747859</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>peeln, leggettr</ContributorIds>
+		<ContributorList>Peel N, Cuber P, Heavens D, Giolai M, Martin S, Alston M, Chooneea D, Aanstad P, Misra R, Leggett RM, Clark MD</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>3</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.21203/rs.3.rs-9938930/v1</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -8135,142 +8152,6 @@
 		<Month>5</Month>
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/hmg/10.1.55</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A germline deletion of p14ARF but not CDKN2A in a melanoma-neural system tumour syndrome family</Title>
-		<DOI>10.1093/hmg/10.1.55</DOI>
-		<JournalName>Human Molecular Genetics</JournalName>
-		<JournalVolume>10</JournalVolume>
-		<JournalPages>55-62</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
-		<ContributorList>Randerson-Moor JA</ContributorList>
-		<Year>2001</Year>
-		<Month>1</Month>
-		<Day>1</Day>
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/sj.onc.1204110</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Loss of heterozygosity at 4p16.3 and mutation of FGFR3 in transitional cell carcinoma</Title>
-		<DOI>10.1038/sj.onc.1204110</DOI>
-		<JournalName>Oncogene</JournalName>
-		<JournalVolume>20</JournalVolume>
-		<JournalPages>686-691</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
-		<ContributorList>Sibley K, Cuthbert-Heavens D, Knowles MA</ContributorList>
-		<Year>2001</Year>
-		<Month>2</Month>
-		<Day>8</Day>
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/sj.onc.1205128</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Basic fibroblast growth factor (bFGF)-induced cell death is mediated through a caspase-dependent and p53-independent cell death receptor pathway</Title>
-		<DOI>10.1038/sj.onc.1205128</DOI>
-		<JournalName>Oncogene</JournalName>
-		<JournalVolume>21</JournalVolume>
-		<JournalPages>809-824</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
-		<ContributorList>Westwood G, Dibling BC, Cuthbert-Heavens D, Burchill SA</ContributorList>
-		<Year>2002</Year>
-		<Month>1</Month>
-		<Day>24</Day>
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/s0002-9440(10)61155-8</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Mutation Cluster Region, Association Between Germline and Somatic Mutations and Genotype-Phenotype Correlation in Upper Gastrointestinal Familial Adenomatous Polyposis</Title>
-		<DOI>10.1016/s0002-9440(10)61155-8</DOI>
-		<JournalName>The American Journal of Pathology</JournalName>
-		<JournalVolume>160</JournalVolume>
-		<JournalPages>2055-2061</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
-		<ContributorList>Groves C, Lamlum H, Crabtree M, Williamson J, Taylor C, Bass S, Cuthbert-Heavens D, Hodgson S, Phillips R, Tomlinson I</ContributorList>
-		<Year>2002</Year>
-		<Month>6</Month>
-		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/s1535-6108(03)00242-3</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Tumor suppressor p16INK4a determines sensitivity of human cells to transformation by cooperating cellular oncogenes</Title>
-		<DOI>10.1016/s1535-6108(03)00242-3</DOI>
-		<JournalName>Cancer Cell</JournalName>
-		<JournalVolume>4</JournalVolume>
-		<JournalPages>301-310</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
-		<ContributorList>Drayton S, Rowe J, Jones R, Vatcheva R, Cuthbert-Heavens D, Marshall J, Fried M, Peters G</ContributorList>
-		<Year>2003</Year>
-		<Month>10</Month>
-		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.canlet.2004.06.052</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Infrequent mutation of TRAIL receptor 2 (TRAIL-R2/DR5) in transitional cell carcinoma of the bladder with 8p21 loss of heterozygosity</Title>
-		<DOI>10.1016/j.canlet.2004.06.052</DOI>
-		<JournalName>Cancer Letters</JournalName>
-		<JournalVolume>220</JournalVolume>
-		<JournalPages>137-144</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
-		<ContributorList>Adams J, Cuthbert-Heavens D, Bass S, Knowles MA</ContributorList>
-		<Year>2005</Year>
-		<Month>4</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/sj.leu.2403802</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A limited role for TP53 mutation in the transformation of follicular lymphoma to diffuse large B-cell lymphoma</Title>
-		<DOI>10.1038/sj.leu.2403802</DOI>
-		<JournalName>Leukemia</JournalName>
-		<JournalVolume>19</JournalVolume>
-		<JournalPages>1459-1465</JournalPages>
-		<ContributorIds>golubova, heavensd</ContributorIds>
-		<ContributorList>Davies AJ, Lee AM, Taylor C, Clear AJ, Goff LK, Iqbal S, Cuthbert-Heavens D, Calaminici M, Norton AJ, Lister TA, Fitzgibbon J</ContributorList>
-		<Year>2005</Year>
-		<Month>5</Month>
-		<Day>19</Day>
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.64898/2026.08.31.747859</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>City life: airborne DNA metagenomic biodiversity monitoring reveals dynamic changes across time and space</Title>
-		<DOI>10.64898/2026.08.31.747859</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
-		<ContributorList>Peel N, Cuber P, Heavens D, Giolai M, Martin S, Alston M, Chooneea D, Aanstad P, Misra R, Leggett RM, Clark MD</ContributorList>
-		<Year>2026</Year>
-		<Month>9</Month>
-		<Day>3</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1002/cfg.88</id>
@@ -10578,6 +10459,23 @@
 		<Month>5</Month>
 		<Day>28</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-026-77605-x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Characterization of recombinase-based genetic parts and circuits using nanopore sequencing</Title>
+		<DOI>10.1038/s41467-026-77605-x</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>reg23vok</ContributorIds>
+		<ContributorList>Greco FV, Cameron SK, Joshi SH, Guiziou S, Brophy JAN, Grierson CS, Gorochowski TE</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pone.0167389</id>
@@ -16463,7 +16361,7 @@
 		<JournalName>Cell Reports</JournalName>
 		<JournalVolume>45</JournalVolume>
 		<JournalPages>116785</JournalPages>
-		<ContributorIds>halla, birdc, heavensd, swarbred</ContributorIds>
+		<ContributorIds>halla, birdc, swarbred</ContributorIds>
 		<ContributorList>Halstead-Nussloch G, Okada M, Haberer G, Lux T, Islam AF, Hatakeyama M, Briskine R, White B, Hall A, Pozniak C, Walkowiak S, Klymiuk V, Byrns B, Nilsen K, Ens J, Wiebe K, Diaye AN, Hucl PJ, Pozniak C, Fu BX, Gao L, Delorean E, Koo D, Fritz AK, Poland JA, Monat C, Himmelbach A, Fiebig A, Padmarasu S, Scholz U, Mascher M, Stein N, Haberer G, Gundlach H, Mayer KF, Spannagl M, Kassa MT, Fobert P, Kagale S, Brinton J, Ramirez-Gonzalez RH, Bevan M, McKenzie N, Steuernagel B, Uauy C, Kolodziej MC, Krattinger SG, Keller B, Wicker T, Thambugala D, McCartney CA, Bandi V, Siri JN, Gutwin C, Aquino C, Hatakeyama M, Copetti D, Halstead-Nussloch G, Paape T, Shimizu-Inatsugi R, Shimizu KK, Ban T, Kawaura K, Tameshige T, Tsuji H, Venturini L, Clark M, BernardoClavijo, Fosker C, Accinelli GG, Heavens D, Krasileva K, Swarbreck D, Wright J, Hall A, Gardner KA, Fradgley N, Percival-Alwyn L, Cockram J, Gutierrez-Gonzalez J, Muehlbauer G, Koh CS, Sharpe AG, Deek J, Costamagna AC, Kanamori H, Kobayashi F, Tanaka T, Wu J, Handa H, Kuo T, Sese J, Murata K, Nabeka Y, Nasuda S, Juliana P, Singh R, Budak H, Small I, Melonek J, Cloutier S, Keeble-Gagnère G, Tibbets J, Legg E, Bharti A, Langridge P, KenChalmers, Distelfeld A, Spannagl M, Paape T, Shimizu KK</ContributorList>
 		<Year>2026</Year>
 		<Month>2</Month>
@@ -17313,7 +17211,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
+		<ContributorIds>peeln, leggettr</ContributorIds>
 		<ContributorList>Trivett H, Dalby MJ, Peel N, Heavens D, Kiu R, Acuna-Gonzalez A, Mohamad M, Humayun G, Leggett RM, Patel VC, Hall LJ</ContributorList>
 		<Year>2025</Year>
 		<Month>12</Month>
@@ -17381,7 +17279,7 @@
 		<JournalName>Genome Research</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
+		<ContributorIds>peeln, leggettr</ContributorIds>
 		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -17449,7 +17347,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Bollmann-Giolai A, Giolai M, Allen M, Heavens D, Lipánová V, Alston M, Brown J, Clark MD, Flis P, Kolář F, Yant L, Malone J</ContributorList>
 		<Year>2025</Year>
 		<Month>9</Month>
@@ -17874,7 +17772,7 @@
 		<JournalName>Microbiology</JournalName>
 		<JournalVolume>171</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, leggettr</ContributorIds>
+		<ContributorIds>leggettr</ContributorIds>
 		<ContributorList>Berelson MFG, Heavens D, Nicholson P, Clark MD, Leggett RM</ContributorList>
 		<Year>2025</Year>
 		<Month>5</Month>
@@ -17993,7 +17891,7 @@
 		<JournalName>Access Microbiology</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Pallen MJ, Ponsero AJ, Telatin A, Moss C, Baker D, Heavens D, Davidson GL</ContributorList>
 		<Year>2025</Year>
 		<Month>4</Month>
@@ -18027,7 +17925,7 @@
 		<JournalName>eLife</JournalName>
 		<JournalVolume>14</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mcmullam, kaithakg, rel22vaz, warring, heavensd, peeln, swarbred, halln</ContributorIds>
+		<ContributorIds>mcmullam, kaithakg, rel22vaz, warring, peeln, swarbred, halln</ContributorIds>
 		<ContributorList>McMullan M, Percival-Alwyn L, Kaithakottil GG, Gardiner L, Hill R, Yvanne H, Grey M, Sawford K, Ward SJ, Low R, Warring SD, Heavens D, Peel N, Kroboth J, Stevens M, Swarbreck D, Clark MD, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>4</Month>
@@ -18860,7 +18758,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
+		<ContributorIds>peeln, leggettr</ContributorIds>
 		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
 		<Year>2025</Year>
 		<Month>2</Month>
@@ -18911,7 +18809,7 @@
 		<JournalName>PLOS Neglected Tropical Diseases</JournalName>
 		<JournalVolume>19</JournalVolume>
 		<JournalPages>e0012801</JournalPages>
-		<ContributorIds>heavensd, halln</ContributorIds>
+		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Li Y, Pulford CV, Díaz P, Perez-Sepulveda BM, Duarte C, Predeus AV, Wiesner M, Heavens D, Low R, Schudoma C, Montaño A, Hall N, Moreno J, Hinton JCD</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -19421,7 +19319,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, lany, peeln, irishn, leggettr</ContributorIds>
+		<ContributorIds>lany, peeln, irishn, leggettr</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Peel N, Irish N, Horsfield S, Giolai M, Clark MD, Leggett RM</ContributorList>
 		<Year>2024</Year>
 		<Month>11</Month>
@@ -19455,7 +19353,7 @@
 		<JournalName>Access Microbiology</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Pallen MJ, Ponsero AJ, Telatin A, Moss C, Baker D, Heavens D, Davidson GL</ContributorList>
 		<Year>2024</Year>
 		<Month>9</Month>
@@ -19897,7 +19795,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages>e1011296</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Deans NC, Talbot JRB, Li M, Sáez-González C, Hövel I, Heavens D, Stam M, Hollick JB</ContributorList>
 		<Year>2024</Year>
 		<Month>5</Month>
@@ -21058,7 +20956,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>kaithakg, heavensd, lipscomj, barkert, peeln, birdc, swarbred</ContributorIds>
+		<ContributorIds>kaithakg, lipscomj, barkert, peeln, birdc, swarbred</ContributorIds>
 		<ContributorList>Clavijo BJ, Venturini L, Schudoma C, Accinelli GG, Kaithakottil G, Wright J, Borrill P, Kettleborough G, Heavens D, Chapman H, Lipscombe J, Barker T, Lu F, McKenzie N, Raats D, Ramirez-Gonzalez RH, Coince A, Peel N, Percival-Alwyn L, Duncan O, Trösch J, Yu G, Bolser D, Namaati G, Kerhornou A, Spannagl M, Gundlach H, Haberer G, Davey RP, Fosker C, Di Palma F, Phillips A, Millar AH, Kersey PJ, Uauy C, Krasileva KV, Swarbreck D, Bevan MW, Clark MD</ContributorList>
 		<Year>2016</Year>
 		<Month>10</Month>
@@ -21075,7 +20973,7 @@
 		<JournalName>Access Microbiology</JournalName>
 		<JournalVolume>4</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, lipscomj, watkinsc, nshearer, halln</ContributorIds>
+		<ContributorIds>lipscomj, watkinsc, nshearer, halln</ContributorIds>
 		<ContributorList>Perez-Sepulveda B, Heavens D, Pulford C, Predeus A, Low R, Webster H, Dykes G, Schudoma C, Rowe W, Lipscombe J, Watkins C, Kumwenda B, Shearer N, Costigan K, Baker K, Feasey N, Hinton J, Hall N, The 10KSG Consortium</ContributorList>
 		<Year>2022</Year>
 		<Month>5</Month>
@@ -21194,7 +21092,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Karasov TL, Almario J, Friedemann C, Ding W, Giolai M, Heavens D, Kersten S, Lundberg DS, Neumann M, Regalado J, Neher RA, Kemen E, Weigel D</ContributorList>
 		<Year>2018</Year>
 		<Month>1</Month>
@@ -21211,7 +21109,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Rowan BA, Heavens D, Feuerborn TR, Tock AJ, Henderson IR, Weigel D</ContributorList>
 		<Year>2019</Year>
 		<Month>6</Month>
@@ -21228,7 +21126,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>abinnie, heavensd, macaulai</ContributorIds>
+		<ContributorIds>abinnie, macaulai</ContributorIds>
 		<ContributorList>Giolai M, Verweij W, Lister A, Heavens D, Macaulay I, Clark MD</ContributorList>
 		<Year>2019</Year>
 		<Month>7</Month>
@@ -21245,7 +21143,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Wouters R, Mugford S, Biello R, Heavens D, Hogenhout S</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -21500,7 +21398,7 @@
 		<JournalName>New Phytologist</JournalName>
 		<JournalVolume>240</JournalVolume>
 		<JournalPages>302-317</JournalPages>
-		<ContributorIds>heavensd, swarbred</ContributorIds>
+		<ContributorIds>swarbred</ContributorIds>
 		<ContributorList>Vollheyde K, Dudley QM, Yang T, Oz MT, Mancinotti D, Fedi MO, Heavens D, Linsmith G, Chhetry M, Smedley MA, Harwood WA, Swarbreck D, Geu‐Flores F, Patron NJ</ContributorList>
 		<Year>2023</Year>
 		<Month>7</Month>
@@ -21568,7 +21466,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai, haertyw, ethering</ContributorIds>
+		<ContributorIds>abinnie, macaulai, haertyw, ethering</ContributorIds>
 		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2020</Year>
 		<Month>3</Month>
@@ -21585,7 +21483,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai, haertyw, ethering</ContributorIds>
+		<ContributorIds>abinnie, macaulai, haertyw, ethering</ContributorIds>
 		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2020</Year>
 		<Month>3</Month>
@@ -21602,7 +21500,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai, haertyw, ethering</ContributorIds>
+		<ContributorIds>abinnie, macaulai, haertyw, ethering</ContributorIds>
 		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2020</Year>
 		<Month>3</Month>
@@ -21619,7 +21517,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai, haertyw, ethering</ContributorIds>
+		<ContributorIds>abinnie, macaulai, haertyw, ethering</ContributorIds>
 		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2020</Year>
 		<Month>3</Month>
@@ -21636,7 +21534,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai, haertyw, ethering</ContributorIds>
+		<ContributorIds>abinnie, macaulai, haertyw, ethering</ContributorIds>
 		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2020</Year>
 		<Month>3</Month>
@@ -21687,7 +21585,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai, haertyw, ethering</ContributorIds>
+		<ContributorIds>abinnie, macaulai, haertyw, ethering</ContributorIds>
 		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -22640,7 +22538,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, swarbred</ContributorIds>
+		<ContributorIds>swarbred</ContributorIds>
 		<ContributorList>Vollheyde K, Dudley Q, Yang T, Oz M, Mancinotti D, Olivera Fedi M, Heavens D, Linsmith G, Chhetry M, Smedley M, Harwood W, Swarbreck D, Geu-Flores F, Patron N</ContributorList>
 		<Year>2023</Year>
 		<Month>3</Month>
@@ -22674,7 +22572,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>wrightj, heavensd</ContributorIds>
+		<ContributorIds>wrightj</ContributorIds>
 		<ContributorList>Hodgkinson KA, Wright J, Accinelli GG, Heavens D, Hopes A, Mock T, van Oosterhout C, Clavijo BJ</ContributorList>
 		<Year>2022</Year>
 		<Month>7</Month>
@@ -23252,7 +23150,7 @@
 		<JournalName>Conservation Biology</JournalName>
 		<JournalVolume>36</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ryanc, barkert, heavensd, dap24saf</ContributorIds>
+		<ContributorIds>ryanc, barkert, dap24saf</ContributorIds>
 		<ContributorList>Jackson HA, Percival‐Alwyn L, Ryan C, Albeshr MF, Venturi L, Morales HE, Mathers TC, Cocker J, Speak SA, Accinelli GG, Barker T, Heavens D, Willman F, Dawson D, Ward L, Tatayah V, Zuël N, Young R, Concannon L, Whitford H, Clavijo B, Bunbury N, Tyler KM, Ruhomaun K, Grace MK, Bruford MW, Jones CG, Tollington S, Bell DJ, Groombridge JJ, Clark M, Van Oosterhout C</ContributorList>
 		<Year>2022</Year>
 		<Month>5</Month>
@@ -24859,7 +24757,7 @@
 		<JournalName>GigaScience</JournalName>
 		<JournalVolume>9</JournalVolume>
 		<JournalPages />
-		<ContributorIds>leggettr, heavensd, peeln</ContributorIds>
+		<ContributorIds>leggettr, peeln</ContributorIds>
 		<ContributorList>Reddington K, Eccles D, O'Grady J, Drown DM, Hansen LH, Nielsen TK, Ducluzeau A, Leggett RM, Heavens D, Peel N, Snutch TP, Bayega A, Oikonomopoulos S, Ragoussis J, Barry T, van der Helm E, Jolic D, Richardson H, Jansen H, Tyson JR, Jain M, Brown BL</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -25386,7 +25284,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, lipscomj, watkinsc, nshearer, halln</ContributorIds>
+		<ContributorIds>lipscomj, watkinsc, nshearer, halln</ContributorIds>
 		<ContributorList>Perez-Sepulveda BM, Heavens D, Pulford CV, Predeus AV, Low R, Webster H, Schudoma C, Rowe W, Lipscombe J, Watkins C, Kumwenda B, Shearer N, Costigan K, Baker KS, Feasey NA, Hinton JCD, Hall N, The 10KSG consortium</ContributorList>
 		<Year>2020</Year>
 		<Month>7</Month>
@@ -25471,7 +25369,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, macaulai</ContributorIds>
+		<ContributorIds>macaulai</ContributorIds>
 		<ContributorList>Bollmann-Giolai A, Giolai M, Heavens D, Macaulay I, Malone J, Clark MD</ContributorList>
 		<Year>2020</Year>
 		<Month>5</Month>
@@ -25692,7 +25590,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>kaithakg, heavensd, swarbred</ContributorIds>
+		<ContributorIds>kaithakg, swarbred</ContributorIds>
 		<ContributorList>Emmrich PMF, Sarkar A, Njaci I, Kaithakottil GG, Ellis N, Moore C, Edwards A, Heavens D, Waite D, Cheema J, Trick M, Moore J, Webb A, Caiazzo R, Thomas J, Higgins J, Swarbreck D, Kumar S, Mundree S, Loose M, Yant L, Martin C, Wang TL</ContributorList>
 		<Year>2020</Year>
 		<Month>4</Month>
@@ -26289,7 +26187,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Schreiber M, Mascher M, Wright J, Padmarasu S, Himmelbach A, Heavens D, Milne L, Clavijo BJ, Stein N, Waugh R</ContributorList>
 		<Year>2020</Year>
 		<Month>2</Month>
@@ -26731,7 +26629,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Seear PJ, France MG, Gregory CL, Heavens D, Schmickl R, Yant L, Higgins JD</ContributorList>
 		<Year>2019</Year>
 		<Month>12</Month>
@@ -26816,7 +26714,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, lipscomj, halln</ContributorIds>
+		<ContributorIds>lipscomj, halln</ContributorIds>
 		<ContributorList>Li Y, Pulford CV, Díaz P, Perez-Sepulveda BM, Duarte C, Predeus AV, Wiesner M, Heavens D, Low R, Schudoma C, Lipscombe J, Montaño A, Hall N, Moreno J, Hinton JCD</ContributorList>
 		<Year>2019</Year>
 		<Month>3</Month>
@@ -28284,7 +28182,7 @@
 		<JournalName>GigaScience</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Lu F, McKenzie N, Kettleborough G, Heavens D, Clark MD, Bevan MW</ContributorList>
 		<Year>2018</Year>
 		<Month>5</Month>
@@ -28335,7 +28233,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai</ContributorIds>
+		<ContributorIds>abinnie, macaulai</ContributorIds>
 		<ContributorList>Paajanen P, Kettleborough G, López-Girona E, Giolai M, Heavens D, Baker D, Lister A, Wilde G, Hein I, Macaulay I, Bryan GJ, Clark MD</ContributorList>
 		<Year>2017</Year>
 		<Month>10</Month>
@@ -28386,7 +28284,7 @@
 		<JournalName>Scientific Data</JournalName>
 		<JournalVolume>4</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Beier S, Himmelbach A, Colmsee C, Zhang X, Barrero RA, Zhang Q, Li L, Bayer M, Bolser D, Taudien S, Groth M, Felder M, Hastie A, Šimková H, Staňková H, Vrána J, Chan S, Muñoz-Amatriaín M, Ounit R, Wanamaker S, Schmutzer T, Aliyeva-Schnorr L, Grasso S, Tanskanen J, Sampath D, Heavens D, Cao S, Chapman B, Dai F, Han Y, Li H, Li X, Lin C, McCooke JK, Tan C, Wang S, Yin S, Zhou G, Poland JA, Bellgard MI, Houben A, Doležel J, Ayling S, Lonardi S, Langridge P, Muehlbauer GJ, Kersey P, Clark MD, Caccamo M, Schulman AH, Platzer M, Close TJ, Hansson M, Zhang G, Braumann I, Li C, Waugh R, Scholz U, Stein N, Mascher M</ContributorList>
 		<Year>2017</Year>
 		<Month>4</Month>
@@ -30056,7 +29954,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Clavijo BJ, Garcia Accinelli G, Wright J, Heavens D, Barr K, Yanes L, Di-Palma F</ContributorList>
 		<Year>2017</Year>
 		<Month>2</Month>
@@ -31079,7 +30977,7 @@
 		<JournalName>BMC Biology</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, bibb, droun</ContributorIds>
+		<ContributorIds>bibb, droun, heavensd</ContributorIds>
 		<ContributorList>Barke J, Seipke RF, Grüschow S, Heavens D, Drou N, Bibb MJ, Goss RJ, Yu DW, Hutchings MI</ContributorList>
 		<Year>2010</Year>
 		<Month>8</Month>
@@ -31300,7 +31198,7 @@
 		<JournalName>Journal of Bacteriology</JournalName>
 		<JournalVolume>193</JournalVolume>
 		<JournalPages>2351-2352</JournalPages>
-		<ContributorIds>heavensd, caccamom, cartera, dbaker, mpeck, pearsobm</ContributorIds>
+		<ContributorIds>caccamom, cartera, dbaker, heavensd, mpeck, pearsobm</ContributorIds>
 		<ContributorList>Carter AT, Pearson BM, Crossman LC, Drou N, Heavens D, Baker D, Febrer M, Caccamo M, Grant KA, Peck MW</ContributorList>
 		<Year>2011</Year>
 		<Month>5</Month>
@@ -31470,7 +31368,7 @@
 		<JournalName>Journal of Bacteriology</JournalName>
 		<JournalVolume>193</JournalVolume>
 		<JournalPages>4270-4271</JournalPages>
-		<ContributorIds>heavensd, bibb, caccamom, crossman, droun</ContributorIds>
+		<ContributorIds>bibb, caccamom, crossman, droun, heavensd</ContributorIds>
 		<ContributorList>Seipke RF, Crossman L, Drou N, Heavens D, Bibb MJ, Caccamo M, Hutchings MI</ContributorList>
 		<Year>2011</Year>
 		<Month>8</Month>
@@ -31487,7 +31385,7 @@
 		<JournalName>Journal of Bacteriology</JournalName>
 		<JournalVolume>193</JournalVolume>
 		<JournalPages>4015-4016</JournalPages>
-		<ContributorIds>heavensd, caccamom, crossman</ContributorIds>
+		<ContributorIds>caccamom, crossman, heavensd</ContributorIds>
 		<ContributorList>Heavens D, Tailford LE, Crossman L, Jeffers F, MacKenzie DA, Caccamo M, Juge N</ContributorList>
 		<Year>2011</Year>
 		<Month>8</Month>
@@ -32307,7 +32205,7 @@
 		<JournalName>Proceedings of the Royal Society B: Biological Sciences</JournalName>
 		<JournalVolume>280</JournalVolume>
 		<JournalPages>20122543</JournalPages>
-		<ContributorIds>heavensd, alston, caccamom</ContributorIds>
+		<ContributorIds>alston, caccamom, heavensd</ContributorIds>
 		<ContributorList>Marron AO, Alston MJ, Heavens D, Akam M, Caccamo M, Holland PWH, Walker G</ContributorList>
 		<Year>2013</Year>
 		<Month>4</Month>
@@ -32341,7 +32239,7 @@
 		<JournalName>PLoS ONE</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages>e57615</JournalPages>
-		<ContributorIds>heavensd, caccamom, ramirezr</ContributorIds>
+		<ContributorIds>caccamom, heavensd, ramirezr</ContributorIds>
 		<ContributorList>Ramirez-Gonzalez R, Yu DW, Bruce C, Heavens D, Caccamo M, Emerson BC</ContributorList>
 		<Year>2013</Year>
 		<Month>3</Month>
@@ -32630,7 +32528,7 @@
 		<JournalName>The ISME Journal</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>1126-1138</JournalPages>
-		<ContributorIds>heavensd</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Burlinson P, Studholme D, Cambray-Young J, Heavens D, Rathjen J, Hodgkin J, Preston GM</ContributorList>
 		<Year>2013</Year>
 		<Month>2</Month>
@@ -32681,7 +32579,7 @@
 		<JournalName>The ISME Journal</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>2248-2258</JournalPages>
-		<ContributorIds>heavensd, swarbred, alston, karunakr, osbourna, poolep, tturner, walshaw</ContributorIds>
+		<ContributorIds>swarbred, alston, heavensd, karunakr, osbourna, poolep, tturner, walshaw</ContributorIds>
 		<ContributorList>Turner TR, Ramakrishnan K, Walshaw J, Heavens D, Alston M, Swarbreck D, Osbourn A, Grant A, Poole PS</ContributorList>
 		<Year>2013</Year>
 		<Month>7</Month>
@@ -33702,12 +33600,12 @@
 		<DOI>10.1186/PREACCEPT-1724277741482641</DOI>
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>15</JournalVolume>
-		<JournalPages>540</JournalPages>
+		<JournalPages />
 		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Dowall SD, Matthews DA, García-Dorival I, Taylor I, Kenny J, Hertz-Fowler C, Hall N, Corbin-Lickfett K, Empig C, Schlunegger K, Barr JN, Carroll MW, Hewson R, Hiscox JA</ContributorList>
 		<Year>2014</Year>
-		<Month />
-		<Day />
+		<Month>11</Month>
+		<Day>22</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -34810,7 +34708,7 @@
 		<JournalName>BioTechniques</JournalName>
 		<JournalVolume>59</JournalVolume>
 		<JournalPages>42-45</JournalPages>
-		<ContributorIds>heavensd, clavijob, ggarcia, mclark</ContributorIds>
+		<ContributorIds>clavijob, ggarcia, heavensd, mclark</ContributorIds>
 		<ContributorList>Heavens D, Accinelli GG, Clavijo B, Clark MD</ContributorList>
 		<Year>2015</Year>
 		<Month>7</Month>
@@ -35014,7 +34912,7 @@
 		<JournalName>Bioinformatics</JournalName>
 		<JournalVolume>32</JournalVolume>
 		<JournalPages>142-144</JournalPages>
-		<ContributorIds>leggettr, heavensd, caccamom, davey, mclark</ContributorIds>
+		<ContributorIds>leggettr, caccamom, davey, heavensd, mclark</ContributorIds>
 		<ContributorList>Leggett RM, Heavens D, Caccamo M, Clark MD, Davey RP</ContributorList>
 		<Year>2015</Year>
 		<Month>9</Month>
@@ -36765,7 +36663,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>544</JournalVolume>
 		<JournalPages>427-433</JournalPages>
-		<ContributorIds>heavensd, aylings, caccamom, clissold, mclark, sampathd</ContributorIds>
+		<ContributorIds>aylings, caccamom, clissold, heavensd, mclark, sampathd</ContributorIds>
 		<ContributorList>Mascher M, Gundlach H, Himmelbach A, Beier S, Twardziok SO, Wicker T, Radchuk V, Dockter C, Hedley PE, Russell J, Bayer M, Ramsay L, Liu H, Haberer G, Zhang X, Zhang Q, Barrero RA, Li L, Taudien S, Groth M, Felder M, Hastie A, Šimková H, Staňková H, Vrána J, Chan S, Muñoz-Amatriaín M, Ounit R, Wanamaker S, Bolser D, Colmsee C, Schmutzer T, Aliyeva-Schnorr L, Grasso S, Tanskanen J, Chailyan A, Sampath D, Heavens D, Clissold L, Cao S, Chapman B, Dai F, Han Y, Li H, Li X, Lin C, McCooke JK, Tan C, Wang P, Wang S, Yin S, Zhou G, Poland JA, Bellgard MI, Borisjuk L, Houben A, Doležel J, Ayling S, Lonardi S, Kersey P, Langridge P, Muehlbauer GJ, Clark MD, Caccamo M, Schulman AH, Mayer KFX, Platzer M, Close TJ, Scholz U, Hansson M, Zhang G, Braumann I, Spannagl M, Li C, Waugh R, Stein N</ContributorList>
 		<Year>2017</Year>
 		<Month>4</Month>
@@ -36935,7 +36833,7 @@
 		<JournalName>Genome Research</JournalName>
 		<JournalVolume>27</JournalVolume>
 		<JournalPages>885-896</JournalPages>
-		<ContributorIds>kaithakg, heavensd, lipscomj, barkert, peeln, birdc, swarbred, bevan, borrillp, clavijob, coincea, davey, dipalmaf, ggarcia, hchapman, kettlebg, krasilek, luf, mckenzie, mclark, percival, raatsd, ramirezr, schudomc, uauyc, venturil, wrightj, yug</ContributorIds>
+		<ContributorIds>kaithakg, lipscomj, barkert, peeln, birdc, swarbred, bevan, borrillp, clavijob, coincea, davey, dipalmaf, ggarcia, hchapman, heavensd, kettlebg, krasilek, luf, mckenzie, mclark, percival, raatsd, ramirezr, schudomc, uauyc, venturil, wrightj, yug</ContributorIds>
 		<ContributorList>Clavijo BJ, Venturini L, Schudoma C, Accinelli GG, Kaithakottil G, Wright J, Borrill P, Kettleborough G, Heavens D, Chapman H, Lipscombe J, Barker T, Lu F, McKenzie N, Raats D, Ramirez-Gonzalez RH, Coince A, Peel N, Percival-Alwyn L, Duncan O, Trösch J, Yu G, Bolser DM, Namaati G, Kerhornou A, Spannagl M, Gundlach H, Haberer G, Davey RP, Fosker C, Palma FD, Phillips AL, Millar AH, Kersey PJ, Uauy C, Krasileva KV, Swarbreck D, Bevan MW, Clark MD</ContributorList>
 		<Year>2017</Year>
 		<Month>4</Month>
@@ -37496,7 +37394,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, bevan, kettlebg, luf, mckenzie, mclark</ContributorIds>
+		<ContributorIds>bevan, heavensd, kettlebg, luf, mckenzie, mclark</ContributorIds>
 		<ContributorList>Lu F, McKenzie N, Kettleborough G, Heavens D, Clark MD, Bevan MW</ContributorList>
 		<Year>2017</Year>
 		<Month>11</Month>
@@ -38227,7 +38125,7 @@
 		<JournalName>Cell Host &amp;amp; Microbe</JournalName>
 		<JournalVolume>24</JournalVolume>
 		<JournalPages>168-179.e4</JournalPages>
-		<ContributorIds>heavensd, giolaim</ContributorIds>
+		<ContributorIds>giolaim, heavensd</ContributorIds>
 		<ContributorList>Karasov TL, Almario J, Friedemann C, Ding W, Giolai M, Heavens D, Kersten S, Lundberg DS, Neumann M, Regalado J, Neher RA, Kemen E, Weigel D</ContributorList>
 		<Year>2018</Year>
 		<Month>7</Month>
@@ -38312,7 +38210,7 @@
 		<JournalName>Science</JournalName>
 		<JournalVolume>361</JournalVolume>
 		<JournalPages />
-		<ContributorIds>swarbred, kaithakg, heavensd, wrightj, borrillp, jonesj, ramirezr, steuernb, uauyc, venturil, witekk, wulff, yug</ContributorIds>
+		<ContributorIds>swarbred, kaithakg, wrightj, borrillp, jonesj, ramirezr, steuernb, uauyc, venturil, witekk, wulff, yug</ContributorIds>
 		<ContributorList>The International Wheat Genome Sequencing Consortium (IWGSC), Appels R, Eversole K, Stein N, Feuillet C, Keller B, Rogers J, Pozniak CJ, Choulet F, Distelfeld A, Poland J, Ronen G, Sharpe AG, Barad O, Baruch K, Keeble-Gagnère G, Mascher M, Ben-Zvi G, Josselin A, Himmelbach A, Balfourier F, Gutierrez-Gonzalez J, Hayden M, Koh C, Muehlbauer G, Pasam RK, Paux E, Rigault P, Tibbits J, Tiwari V, Spannagl M, Lang D, Gundlach H, Haberer G, Mayer KFX, Ormanbekova D, Prade V, Šimková H, Wicker T, Swarbreck D, Rimbert H, Felder M, Guilhot N, Kaithakottil G, Keilwagen J, Leroy P, Lux T, Twardziok S, Venturini L, Juhász A, Abrouk M, Fischer I, Uauy C, Borrill P, Ramirez-Gonzalez RH, Arnaud D, Chalabi S, Chalhoub B, Cory A, Datla R, Davey MW, Jacobs J, Robinson SJ, Steuernagel B, van Ex F, Wulff BBH, Benhamed M, Bendahmane A, Concia L, Latrasse D, Bartoš J, Bellec A, Berges H, Doležel J, Frenkel Z, Gill B, Korol A, Letellier T, Olsen O, Singh K, Valárik M, van der Vossen E, Vautrin S, Weining S, Fahima T, Glikson V, Raats D, Číhalíková J, Toegelová H, Vrána J, Sourdille P, Darrier B, Barabaschi D, Cattivelli L, Hernandez P, Galvez S, Budak H, Jones JDG, Witek K, Yu G, Small I, Melonek J, Zhou R, Belova T, Kanyuka K, King R, Nilsen K, Walkowiak S, Cuthbert R, Knox R, Wiebe K, Xiang D, Rohde A, Golds T, Čížková J, Akpinar BA, Biyiklioglu S, Gao L, N’Daiye A, Kubaláková M, Šafář J, Alfama F, Adam-Blondon A, Flores R, Guerche C, Loaec M, Quesneville H, Condie J, Ens J, Maclachlan R, Tan Y, Alberti A, Aury J, Barbe V, Couloux A, Cruaud C, Labadie K, Mangenot S, Wincker P, Kaur G, Luo M, Sehgal S, Chhuneja P, Gupta OP, Jindal S, Kaur P, Malik P, Sharma P, Yadav B, Singh NK, Khurana JP, Chaudhary C, Khurana P, Kumar V, Mahato A, Mathur S, Sevanthi A, Sharma N, Tomar RS, Holušová K, Plíhal O, Clark MD, Heavens D, Kettleborough G, Wright J, Balcárková B, Hu Y, Salina E, Ravin N, Skryabin K, Beletsky A, Kadnikov V, Mardanov A, Nesterov M, Rakitin A, Sergeeva E, Handa H, Kanamori H, Katagiri S, Kobayashi F, Nasuda S, Tanaka T, Wu J, Cattonaro F, Jiumeng M, Kugler K, Pfeifer M, Sandve S, Xun X, Zhan B, Batley J, Bayer PE, Edwards D, Hayashi S, Tulpová Z, Visendi P, Cui L, Du X, Feng K, Nie X, Tong W, Wang L</ContributorList>
 		<Year>2018</Year>
 		<Month>8</Month>
@@ -38448,7 +38346,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr, heavensd, alconc, caims, hallli, kujawskm, martins, mclark</ContributorIds>
+		<ContributorIds>leggettr, alconc, caims, hallli, heavensd, kujawskm, martins, mclark</ContributorIds>
 		<ContributorList>Leggett RM, Alcon-Giner C, Heavens D, Caim S, Brook TC, Kujawska M, Martin S, Hoyles L, Clarke P, Hall LJ, Clark MD</ContributorList>
 		<Year>2017</Year>
 		<Month>8</Month>
@@ -38911,7 +38809,7 @@
 		<JournalName>GigaScience</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, abinnie, macaulai, dbaker, giolaim, kettlebg, mclark, paajanep</ContributorIds>
+		<ContributorIds>abinnie, macaulai, dbaker, giolaim, heavensd, kettlebg, mclark, paajanep</ContributorIds>
 		<ContributorList>Paajanen P, Kettleborough G, López-Girona E, Giolai M, Heavens D, Baker D, Lister A, Cugliandolo F, Wilde G, Hein I, Macaulay I, Bryan GJ, Clark MD</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -39047,7 +38945,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
+		<ContributorIds>peeln, leggettr, heavensd</ContributorIds>
 		<ContributorList>Peel N, Dicks LV, Heavens D, Percival-Alwyn L, Cooper C, Clark MD, Davies RG, Leggett RM, Yu DW</ContributorList>
 		<Year>2019</Year>
 		<Month>2</Month>
@@ -39540,7 +39438,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, heavensd, abinnie, macaulai, haertyw, clavijob, dbaker, dipalmaf, ggarcia</ContributorIds>
+		<ContributorIds>ethering, abinnie, macaulai, haertyw, clavijob, dbaker, dipalmaf, ggarcia, heavensd</ContributorIds>
 		<ContributorList>Etherington GJ, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2019</Year>
 		<Month>8</Month>
@@ -39625,7 +39523,7 @@
 		<JournalName>Methods in Ecology and Evolution</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages>1690-1701</JournalPages>
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
+		<ContributorIds>peeln, leggettr, heavensd</ContributorIds>
 		<ContributorList>Peel N, Dicks LV, Clark MD, Heavens D, Percival‐Alwyn L, Cooper C, Davies RG, Leggett RM, Yu DW</ContributorList>
 		<Year>2019</Year>
 		<Month>8</Month>
@@ -39744,7 +39642,7 @@
 		<JournalName>Plant Methods</JournalName>
 		<JournalVolume>15</JournalVolume>
 		<JournalPages />
-		<ContributorIds>abinnie, heavensd, macaulai, giolaim, mclark</ContributorIds>
+		<ContributorIds>abinnie, macaulai, giolaim, heavensd, mclark</ContributorIds>
 		<ContributorList>Giolai M, Verweij W, Lister A, Heavens D, Macaulay I, Clark MD</ContributorList>
 		<Year>2019</Year>
 		<Month>10</Month>
@@ -39999,7 +39897,7 @@
 		<JournalName>Nature Microbiology</JournalName>
 		<JournalVolume>5</JournalVolume>
 		<JournalPages>430-442</JournalPages>
-		<ContributorIds>leggettr, heavensd, peeln, acfordp, alconc, caims, hallli, kujawskm, martins</ContributorIds>
+		<ContributorIds>leggettr, peeln, acfordp, alconc, caims, hallli, heavensd, kujawskm, martins</ContributorIds>
 		<ContributorList>Leggett RM, Alcon-Giner C, Heavens D, Caim S, Brook TC, Kujawska M, Martin S, Peel N, Acford-Palmer H, Hoyles L, Clarke P, Hall LJ, Clark MD</ContributorList>
 		<Year>2019</Year>
 		<Month>12</Month>
@@ -40373,7 +40271,7 @@
 		<JournalName>G3 Genes|Genomes|Genetics</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages>1823-1827</JournalPages>
-		<ContributorIds>heavensd, clavijob, wrightj</ContributorIds>
+		<ContributorIds>clavijob, heavensd, wrightj</ContributorIds>
 		<ContributorList>Schreiber M, Mascher M, Wright J, Padmarasu S, Himmelbach A, Heavens D, Milne L, Clavijo BJ, Stein N, Waugh R</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -40441,7 +40339,7 @@
 		<JournalName>GigaScience</JournalName>
 		<JournalVolume>9</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ethering, heavensd, abinnie, macaulai, haertyw, clavijob, dbaker, dipalmaf, ggarcia</ContributorIds>
+		<ContributorIds>ethering, abinnie, macaulai, haertyw, clavijob, dbaker, dipalmaf, ggarcia, heavensd</ContributorIds>
 		<ContributorList>Etherington GJ, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
 		<Year>2020</Year>
 		<Month>5</Month>
@@ -40662,7 +40560,7 @@
 		<JournalName>GigaScience</JournalName>
 		<JournalVolume>9</JournalVolume>
 		<JournalPages />
-		<ContributorIds>leggettr, heavensd, peeln</ContributorIds>
+		<ContributorIds>leggettr, peeln, heavensd</ContributorIds>
 		<ContributorList>Reddington K, Eccles D, O'Grady J, Drown DM, Hansen LH, Nielsen TK, Ducluzeau A, Leggett RM, Heavens D, Peel N, Snutch TP, Bayega A, Oikonomopoulos S, Ragoussis J, Barry T, van der Helm E, Jolic D, Richardson H, Jansen H, Tyson JR, Jain M, Brown BL</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -41429,7 +41327,7 @@
 		<JournalName>MicrobiologyOpen</JournalName>
 		<JournalVolume>9</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, macaulai, giolaim</ContributorIds>
+		<ContributorIds>macaulai, giolaim, heavensd</ContributorIds>
 		<ContributorList>Bollmann‐Giolai A, Giolai M, Heavens D, Macaulay I, Malone J, Clark MD</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -41514,7 +41412,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>588</JournalVolume>
 		<JournalPages>277-283</JournalPages>
-		<ContributorIds>birdc, heavensd, swarbred, wrightj, halla, bevan, brintonj, clavijob, ggarcia, mckenzie, ramirezr, steuernb, uauyc</ContributorIds>
+		<ContributorIds>birdc, swarbred, wrightj, halla, bevan, brintonj, clavijob, ggarcia, heavensd, mckenzie, ramirezr, steuernb, uauyc</ContributorIds>
 		<ContributorList>Walkowiak S, Gao L, Monat C, Haberer G, Kassa MT, Brinton J, Ramirez-Gonzalez RH, Kolodziej MC, Delorean E, Thambugala D, Klymiuk V, Byrns B, Gundlach H, Bandi V, Siri JN, Nilsen K, Aquino C, Himmelbach A, Copetti D, Ban T, Venturini L, Bevan M, Clavijo B, Koo D, Ens J, Wiebe K, N’Diaye A, Fritz AK, Gutwin C, Fiebig A, Fosker C, Fu BX, Accinelli GG, Gardner KA, Fradgley N, Gutierrez-Gonzalez J, Halstead-Nussloch G, Hatakeyama M, Koh CS, Deek J, Costamagna AC, Fobert P, Heavens D, Kanamori H, Kawaura K, Kobayashi F, Krasileva K, Kuo T, McKenzie N, Murata K, Nabeka Y, Paape T, Padmarasu S, Percival-Alwyn L, Kagale S, Scholz U, Sese J, Juliana P, Singh R, Shimizu-Inatsugi R, Swarbreck D, Cockram J, Budak H, Tameshige T, Tanaka T, Tsuji H, Wright J, Wu J, Steuernagel B, Small I, Cloutier S, Keeble-Gagnère G, Muehlbauer G, Tibbets J, Nasuda S, Melonek J, Hucl PJ, Sharpe AG, Clark M, Legg E, Bharti A, Langridge P, Hall A, Uauy C, Mascher M, Krattinger SG, Handa H, Shimizu KK, Distelfeld A, Chalmers K, Keller B, Mayer KFX, Poland J, Stein N, McCartney CA, Spannagl M, Wicker T, Pozniak CJ</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -42366,7 +42264,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, lany, leggettr, martins</ContributorIds>
+		<ContributorIds>lany, leggettr, heavensd, martins</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Horsfield S, Clark MD, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>5</Month>
@@ -42587,7 +42485,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mcmullam, kaithakg, yvanne, warring, heavensd, peeln, swarbred, halln, greym, lowr</ContributorIds>
+		<ContributorIds>mcmullam, kaithakg, yvanne, warring, peeln, swarbred, halln, greym, heavensd, lowr</ContributorIds>
 		<ContributorList>McMullan M, Percival-Alwyn L, Sawford K, Kaithakottil G, Grey M, Yvanne H, Low R, Warring S, Heavens D, Peel N, Kroboth J, Stevens M, Swarbreck D, Clark M, Hall N</ContributorList>
 		<Year>2021</Year>
 		<Month>8</Month>
@@ -42604,7 +42502,7 @@
 		<JournalName>Clinical Infectious Diseases</JournalName>
 		<JournalVolume>73</JournalVolume>
 		<JournalPages>631-641</JournalPages>
-		<ContributorIds>heavensd, halln</ContributorIds>
+		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Kasumba IN, Pulford CV, Perez-Sepulveda BM, Sen S, Sayed N, Permala-Booth J, Livio S, Heavens D, Low R, Hall N, Roose A, Powell H, Farag T, Panchalingham S, Berkeley L, Nasrin D, Blackwelder WC, Wu Y, Tamboura B, Sanogo D, Onwuchekwa U, Sow SO, Ochieng JB, Omore R, Oundo JO, Breiman RF, Mintz ED, O’Reilly CE, Antonio M, Saha D, Hossain MJ, Mandomando I, Bassat Q, Alonso PL, Ramamurthy T, Sur D, Qureshi S, Zaidi AKM, Hossain A, Faruque ASG, Nataro JP, Kotloff KL, Levine MM, Hinton JCD, Tennant SM</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -42706,7 +42604,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, leggettr, alston, giolaim, martins</ContributorIds>
+		<ContributorIds>leggettr, alston, giolaim, heavensd, martins</ContributorIds>
 		<ContributorList>Heavens D, Chooneea D, Giolai M, Cuber P, Aanstad P, Martin S, Alston M, Misra R, Clark MD, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>10</Month>
@@ -42878,7 +42776,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, lipscomj, watkinsc, nshearer, halln</ContributorIds>
+		<ContributorIds>lipscomj, watkinsc, nshearer, halln</ContributorIds>
 		<ContributorList>Perez-Sepulveda BM, Heavens D, Pulford CV, Predeus AV, Low R, Webster H, Dykes GF, Schudoma C, Rowe W, Lipscombe J, Watkins C, Kumwenda B, Shearer N, Costigan K, Baker KS, Feasey NA, Hinton JCD, Hall N, The 10KSG consortium, Perez-Sepulveda BM, Heavens D, Pulford CV, Acuña MT, Antic D, Antonio M, Baker KS, Bernal J, Bolaños H, Chattaway M, Cheesbrough J, Chirambo A, Costigan K, Darboe S, Díaz P, Donado P, Duarte C, Duarte F, Everett D, Fanning S, Feasey NA, Feglo P, Ferreira AM, Floyd R, Gavilán RG, Gordon MA, Hall N, Hernandes RT, Hernández-Mora G, Hinton JCD, Hurley D, Kasumba IN, Kumwenda B, Kwambana-Adams B, Lipscombe J, Low R, Mattar S, Montaño LA, Moreira CG, Moreno J, Muthappa DM, Nair S, Parry CM, Peno C, Permala-Booth J, Petrović J, Predeus AV, Puente JL, Rebrie G, Redway M, Rowe W, Sadatsune T, Schudoma C, Shearer N, Silva C, Smith AM, Tennant S, Tran-Dien A, Watkins C, Webster H, Weill F, Wiesner M, Wilson C</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -43116,7 +43014,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>23</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, lany, leggettr, martins</ContributorIds>
+		<ContributorIds>lany, leggettr, heavensd, martins</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Horsfield S, Clark MD, Leggett RM</ContributorList>
 		<Year>2022</Year>
 		<Month>1</Month>
@@ -44969,7 +44867,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages />
-		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, gharbik, haertyw, swarbred, birdc, heavensd, halla, borrillp, bward, clissold, colmer, duncan, hchapman, joynsonr, nal24mas, reesh, simmonds, uauyc, whiteb</ContributorIds>
+		<ContributorIds>rusholmr, kaithakg, wrightj, irishn, kidgells, barkert, gharbik, haertyw, swarbred, birdc, halla, borrillp, bward, clissold, colmer, duncan, hchapman, joynsonr, nal24mas, reesh, simmonds, uauyc, whiteb</ContributorIds>
 		<ContributorList>White B, Lux T, Rusholme-Pilcher R, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Bose U, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger SG, Stein N, Mayer KFX, Pozniak C, 10+ Wheat Genome Project, Walkowiak S, Klymiuk V, Byrns B, Nilsen K, Ens J, Wiebe K, N’Diaye A, Hucl PJ, Pozniak CJ, Fu BX, Gao L, Delorean E, Koo D, Fritz AK, Poland J, Monat C, Himmelbach A, Fiebig A, Padmarasu S, Scholz U, Mascher M, Haberer G, Kassa MT, Fobert P, Kagale S, Brinton J, Ramirez-Gonzalez RH, Bevan M, McKenzie N, Steuernagel B, Kolodziej MC, Krattinger SG, Keller B, Wicker T, Thambugala D, McCartney CA, Bandi V, Siri JN, Gutwin C, Aquino C, Hatakeyama M, Copetti D, Halstead-Nussloch G, Paape T, Shimizu-Inatsugi R, Shimizu KK, Ban T, Kawaura K, Tameshige T, Tsuji H, Venturini L, Clark M, Clavijo B, Fosker C, Accinelli GG, Heavens D, Krasileva K, Gardner KA, Fradgley N, Percival-Alwyn L, Cockram J, Gutierrez-Gonzalez J, Muehlbauer G, Koh CS, Sharpe AG, Deek J, Costamagna AC, Kanamori H, Kobayashi F, Tanaka T, Wu J, Handa H, Kuo T, Sese J, Murata K, Nabeka Y, Nasuda S, Juliana P, Singh R, Budak H, Small I, Melonek J, Cloutier S, Keeble-Gagnère G, Tibbets J, Legg E, Bharti A, Langridge P, Chalmers K, Distelfeld A, Spannagl M, Hall A</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
