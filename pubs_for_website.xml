@@ -12970,8 +12970,8 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ashworth, devegaj</ContributorIds>
-		<ContributorList>Denning-James K, Rodriguez-Cubillos MJ, Ashworth J, Halll A, Wood T, Chater C, De Vega JJ</ContributorList>
+		<ContributorIds>ashworth, halla, devegaj</ContributorIds>
+		<ContributorList>Denning-James K, Rodriguez-Cubillos MJ, Ashworth J, Hall A, Wood T, Chater CCC, De Vega JJ</ContributorList>
 		<Year>2026</Year>
 		<Month>9</Month>
 		<Day>17</Day>
@@ -13208,12 +13208,12 @@
 		<DOI>10.1186/2041-1480-2-S5-S3</DOI>
 		<JournalName>Journal of Biomedical Semantics</JournalName>
 		<JournalVolume>2</JournalVolume>
-		<JournalPages>S3</JournalPages>
+		<JournalPages />
 		<ContributorIds>kon24kop</ContributorIds>
 		<ContributorList>Kim J, Rebholz-Schuhmann D</ContributorList>
 		<Year>2011</Year>
-		<Month />
-		<Day />
+		<Month>10</Month>
+		<Day>6</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
