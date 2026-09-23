@@ -240,6 +240,142 @@
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1104/pp.17.01207</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Transcription Factor COL12 Is a Substrate of the COP1/SPA E3 Ligase and Regulates Flowering Time and Plant Architecture</Title>
+		<DOI>10.1104/pp.17.01207</DOI>
+		<JournalName>Plant Physiology</JournalName>
+		<JournalVolume>176</JournalVolume>
+		<JournalPages>1327-1340</JournalPages>
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Ordoñez-Herrera N, Trimborn L, Menje M, Henschel M, Robers L, Kaufholdt D, Hänsch R, Adrian J, Ponnu J, Hoecker U</ContributorList>
+		<Year>2017</Year>
+		<Month>11</Month>
+		<Day>29</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.7717/peerj.8303</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>TRANSPARENT TESTA GLABRA 1 participates in flowering time regulation inArabidopsis thaliana</Title>
+		<DOI>10.7717/peerj.8303</DOI>
+		<JournalName>PeerJ</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages>e8303</JournalPages>
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Paffendorf BA, Qassrawi R, Meys AM, Trimborn L, Schrader A</ContributorList>
+		<Year>2020</Year>
+		<Month>1</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/plphys/kiab156</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Light-induced degradation of SPA2 via its N-terminal kinase domain is required for photomorphogenesis</Title>
+		<DOI>10.1093/plphys/kiab156</DOI>
+		<JournalName>Plant Physiology</JournalName>
+		<JournalVolume>187</JournalVolume>
+		<JournalPages>276-288</JournalPages>
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Schenk T, Trimborn L, Chen S, Schenkel C, Hoecker U</ContributorList>
+		<Year>2021</Year>
+		<Month>4</Month>
+		<Day>2</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/cpz1.421</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A Simple Quantitative Assay for Measuring β‐Galactosidase Activity Using X‐Gal in Yeast‐Based Interaction Analyses</Title>
+		<DOI>10.1002/cpz1.421</DOI>
+		<JournalName>Current Protocols</JournalName>
+		<JournalVolume>2</JournalVolume>
+		<JournalPages />
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Trimborn L, Hoecker U, Ponnu J</ContributorList>
+		<Year>2022</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/tpj.15994</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>MtING2 encodes an ING domain PHD finger protein which affects Medicago growth, flowering, global patterns of H3K4me3, and gene expression</Title>
+		<DOI>10.1111/tpj.15994</DOI>
+		<JournalName>The Plant Journal</JournalName>
+		<JournalVolume>112</JournalVolume>
+		<JournalPages>1029-1050</JournalPages>
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Jaudal M, Mayo‐Smith M, Poulet A, Whibley A, Peng Y, Zhang L, Thomson G, Trimborn L, Jacob Y, van Wolfswinkel JC, Goldstone DC, Wen J, Mysore KS, Putterill J</ContributorList>
+		<Year>2022</Year>
+		<Month>10</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/tpj.70071</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Cryptochrome 1 promotes photomorphogenesis in Arabidopsis by displacing substrates from the COP1 ubiquitin ligase</Title>
+		<DOI>10.1111/tpj.70071</DOI>
+		<JournalName>The Plant Journal</JournalName>
+		<JournalVolume>121</JournalVolume>
+		<JournalPages />
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Trimborn L, Kuttig F, Ponnu J, Yu P, Korsching KR, Lederer P, Urquiza‐García U, Zurbriggen MD, Hoecker U</ContributorList>
+		<Year>2025</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1073/pnas.2426423122</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>TCP3 is a substrate of the COP1/SPA ubiquitin ligase to regulate anthocyanin accumulation and flowering time in Arabidopsis</Title>
+		<DOI>10.1073/pnas.2426423122</DOI>
+		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
+		<JournalVolume>122</JournalVolume>
+		<JournalPages />
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Tao R, Trivedi I, Trimborn L, Ponnu J, Tóth BV, Hoecker U</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>13</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/pce.70388</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Plant–Plant Competition Limits Arabidopsis Shoot Branching and Silique Production Independently of Soil Mineral Nutrients, Strigolactones and BRANCHED1</Title>
+		<DOI>10.1111/pce.70388</DOI>
+		<JournalName>Plant, Cell &amp;amp; Environment</JournalName>
+		<JournalVolume>49</JournalVolume>
+		<JournalPages>2413-2429</JournalPages>
+		<ContributorIds>pez26lon</ContributorIds>
+		<ContributorList>Thome J, Trimborn L, Waldmann H, Reize C, Weiler‐Tersch L, Schenkel C, Weeks H, Fichtner F, Linstädter A, de Meaux J, Hoecker U</ContributorList>
+		<Year>2026</Year>
+		<Month>1</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.7554/eLife.22964</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1670,7 +1806,7 @@
 		<Year>2014</Year>
 		<Month>7</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1073/pnas.1411723111</id>
@@ -8440,7 +8576,7 @@
 		<Year>2004</Year>
 		<Month>11</Month>
 		<Day>14</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.molbiopara.2004.05.013</id>
@@ -9088,7 +9224,7 @@
 		<Year>2020</Year>
 		<Month>12</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1073/pnas.96.25.14652</id>
@@ -9173,7 +9309,7 @@
 		<Year>2001</Year>
 		<Month>12</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1046/j.1365-313X.2002.01441.x</id>
@@ -10248,6 +10384,23 @@
 		<Year>2026</Year>
 		<Month>9</Month>
 		<Day>14</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.64898/2026.09.15.751910</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Single-nucleus profiling of social behaviour in a mutualistic reef fish</Title>
+		<DOI>10.64898/2026.09.15.751910</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>dwright, haertyw, abinnie, macaulai</ContributorIds>
+		<ContributorList>Desantis D, Wright DJ, Haerty W, Lister A, Macaulay IC, Schunter C</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>21</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -14285,7 +14438,7 @@
 		<Year>2012</Year>
 		<Month>6</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/S1470-2045(12)70372-8</id>
@@ -24932,7 +25085,7 @@
 		<Year>2020</Year>
 		<Month>9</Month>
 		<Day>4</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.cub.2020.01.060</id>
@@ -25510,7 +25663,7 @@
 		<Year>2020</Year>
 		<Month>7</Month>
 		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1002/mrc.5023</id>
@@ -26447,7 +26600,7 @@
 		<Year>2019</Year>
 		<Month>7</Month>
 		<Day>23</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12864-019-6397-3</id>
@@ -28799,7 +28952,7 @@
 		<Year>2013</Year>
 		<Month>11</Month>
 		<Day>10</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1071/fp13147</id>
@@ -32807,7 +32960,7 @@
 		<Year>2013</Year>
 		<Month>11</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pone.0079759</id>
@@ -34048,7 +34201,7 @@
 		<Year>2015</Year>
 		<Month>1</Month>
 		<Day>5</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ng.3215</id>
@@ -35512,7 +35665,7 @@
 		<Year>2016</Year>
 		<Month>5</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/jxb/erw042</id>
@@ -36039,7 +36192,7 @@
 		<Year>2016</Year>
 		<Month>8</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.12688/f1000research.9206.1</id>
