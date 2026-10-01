@@ -1172,7 +1172,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, galabone, quince</ContributorIds>
+		<ContributorIds>raguidea, quince</ContributorIds>
 		<ContributorList>S James R, Benoit G, raguideau s, Alabone G, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>8</Month>
@@ -2498,7 +2498,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages />
-		<ContributorIds>raguidea, galabone, quince</ContributorIds>
+		<ContributorIds>raguidea, quince</ContributorIds>
 		<ContributorList>Benoit G, James R, Raguideau S, Alabone G, Goodall T, Chikhi R, Quince C</ContributorList>
 		<Year>2026</Year>
 		<Month>3</Month>
@@ -5393,46 +5393,12 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>kil25rit, jel25doz, quince, raguidea</ContributorIds>
+		<ContributorIds>jel25doz, quince, raguidea</ContributorIds>
 		<ContributorList>Han H, Messer LF, Quince C, Bending GD, Raguideau S, Wang Z, Zhu S</ContributorList>
 		<Year>2026</Year>
 		<Month>9</Month>
 		<Day>9</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1073/pnas.1315760110</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Evidence for at least six Hox clusters in the Japanese lamprey ( Lethenteron japonicum )</Title>
-		<DOI>10.1073/pnas.1315760110</DOI>
-		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
-		<JournalVolume>110</JournalVolume>
-		<JournalPages>16044-16049</JournalPages>
-		<ContributorIds>mehtat</ContributorIds>
-		<ContributorList>Mehta TK, Ravi V, Yamasaki S, Lee AP, Lian MM, Tay B, Tohari S, Yanai S, Tay A, Brenner S, Venkatesh B</ContributorList>
-		<Year>2013</Year>
-		<Month>9</Month>
-		<Day>16</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.4103/jpbs.jpbs_1012_25</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Correlation of Lipid Profile and Blood Glucose Levels in Oral Precancerous Lesion</Title>
-		<DOI>10.4103/jpbs.jpbs_1012_25</DOI>
-		<JournalName>Journal of Pharmacy and Bioallied Sciences</JournalName>
-		<JournalVolume>17</JournalVolume>
-		<JournalPages>S2581-S2583</JournalPages>
-		<ContributorIds>mehtat</ContributorIds>
-		<ContributorList>Mehta TK, Morya KC, Narang G, Prasad BN, Kumar H, Garg P</ContributorList>
-		<Year>2025</Year>
-		<Month>8</Month>
-		<Day>28</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/molbev/msi119</id>
@@ -12238,7 +12204,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>402</JournalVolume>
 		<JournalPages>489-495</JournalPages>
-		<ContributorIds>rar26seg, birdc</ContributorIds>
+		<ContributorIds>jir26vek, rar26seg, birdc</ContributorIds>
 		<ContributorList>Dunham I, Hunt AR, Collins JE, Bruskiewich R, Beare DM, Clamp M, Smink LJ, Ainscough R, Almeida JP, Babbage A, Bagguley C, Bailey J, Barlow K, Bates KN, Beasley O, Bird CP, Blakey S, Bridgeman AM, Buck D, Burgess J, Burrill WD, Burton J, Carder C, Carter NP, Chen Y, Clark G, Clegg SM, Cobley V, Cole CG, Collier RE, Connor RE, Conroy D, Corby N, Coville GJ, Cox AV, Davis J, Dawson E, Dhami PD, Dockree C, Dodsworth SJ, Durbin RM, Ellington A, Evans KL, Fey JM, Fleming K, French L, Garner AA, Gilbert JGR, Goward ME, Grafham D, Griffiths MN, Hall C, Hall R, Hall-Tamlyn G, Heathcott RW, Ho S, Holmes S, Hunt SE, Jones MC, Kershaw J, Kimberley A, King A, Laird GK, Langford CF, Leversha MA, Lloyd C, Lloyd DM, Martyn ID, Mashreghi-Mohammadi M, Matthews L, McCann OT, McClay J, McLaren S, McMurray AA, Milne SA, Mortimore BJ, Odell CN, Pavitt R, Pearce AV, Pearson D, Phillimore BJ, Phillips SH, Plumb RW, Ramsay H, Ramsey Y, Rogers L, Ross MT, Scott CE, Sehra HK, Skuce CD, Smalley S, Smith ML, Soderlund C, Spragon L, Steward CA, Sulston JE, Swann RM, Vaudin M, Wall M, Wallis JM, Whiteley MN, Willey D, Williams L, Williams S, Williamson H, Wilmer TE, Wilming L, Wright CL, Hubbard T, Bentley DR, Beck S, Rogers J, Shimizu N, Minoshima S, Kawasaki K, Sasaki T, Asakawa S, Kudoh J, Shintani A, Shibuya K, Yoshizaki Y, Aoki N, Mitsuyama S, Roe BA, Chen F, Chu L, Crabtree J, Deschamps S, Do A, Do T, Dorman A, Fang F, Fu Y, Hu P, Hua A, Kenton S, Lai H, Lao HI, Lewis J, Lewis S, Lin S, Loh P, Malaj E, Nguyen T, Pan H, Phan S, Qi S, Qian Y, Ray L, Ren Q, Shaull S, Sloan D, Song L, Wang Q, Wang Y, Wang Z, White J, Willingham D, Wu H, Yao Z, Zhan M, Zhang G, Chissoe S, Murray J, Miller N, Minx P, Fulton R, Johnson D, Bemis G, Bentley D, Bradshaw H, Bourne S, Cordes M, Du Z, Fulton L, Goela D, Graves T, Hawkins J, Hinds K, Kemp K, Latreille P, Layman D, Ozersky P, Rohlfing T, Scheet P, Walker C, Wamsley A, Wohldmann P, Pepin K, Nelson J, Korf I, Bedell JA, Hillier L, Mardis E, Waterston R, Wilson R, Emanuel BS, Shaikh T, Kurahashi H, Saitta S, Budarf ML, McDermid HE, Johnson A, Wong ACC, Morrow BE, Edelmann L, Kim UJ, Shizuya H, Simon MI, Dumanski JP, Peyrard M, Kedra D, Seroussi E, Fransson I, Tapia I, Bruder CE, O'Brien KP</ContributorList>
 		<Year>1999</Year>
 		<Month>12</Month>
@@ -12323,7 +12289,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>425</JournalVolume>
 		<JournalPages>805-811</JournalPages>
-		<ContributorIds>hir26fap, birdc</ContributorIds>
+		<ContributorIds>jir26vek, hir26fap, birdc</ContributorIds>
 		<ContributorList>Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L, Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JGR, Clamp ME, Bethel G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell RIS, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S, Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR, Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME, Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A, Frankland J, French L, Garner P, Garnett J, Ghori MJR, Gilby LM, Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA, Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR, Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA, Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L, McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJF, Mullikin JC, Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW, Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL, Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR, Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J, Beck S</ContributorList>
 		<Year>2003</Year>
 		<Month>10</Month>
@@ -12358,7 +12324,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>428</JournalVolume>
 		<JournalPages>522-528</JournalPages>
-		<ContributorIds>birdc</ContributorIds>
+		<ContributorIds>jir26vek, birdc</ContributorIds>
 		<ContributorList>Dunham A, Matthews LH, Burton J, Ashurst JL, Howe KL, Ashcroft KJ, Beare DM, Burford DC, Hunt SE, Griffiths-Jones S, Jones MC, Keenan SJ, Oliver K, Scott CE, Ainscough R, Almeida JP, Ambrose KD, Andrews DT, Ashwell RIS, Babbage AK, Bagguley CL, Bailey J, Bannerjee R, Barlow KF, Bates K, Beasley H, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burrill W, Carder C, Carter NP, Chapman JC, Clamp ME, Clark SY, Clarke G, Clee CM, Clegg SCM, Cobley V, Collins JE, Corby N, Coville GJ, Deloukas P, Dhami P, Dunham I, Dunn M, Earthrowl ME, Ellington AG, Faulkner L, Frankish AG, Frankland J, French L, Garner P, Garnett J, Gilbert JGR, Gilson CJ, Ghori J, Grafham DV, Gribble SM, Griffiths C, Hall RE, Hammond S, Harley JL, Hart EA, Heath PD, Howden PJ, Huckle EJ, Hunt PJ, Hunt AR, Johnson C, Johnson D, Kay M, Kimberley AM, King A, Laird GK, Langford CJ, Lawlor S, Leongamornlert DA, Lloyd DM, Lloyd C, Loveland JE, Lovell J, Martin S, Mashreghi-Mohammadi M, McLaren SJ, McMurray A, Milne S, Moore MJF, Nickerson T, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter KM, Rice CM, Searle S, Sehra HK, Shownkeen R, Skuce CD, Smith M, Steward CA, Sycamore N, Tester J, Thomas DW, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Wilming L, Wray PW, Wright MW, Young L, Coulson A, Durbin R, Hubbard T, Sulston JE, Beck S, Bentley DR, Rogers J, Ross MT</ContributorList>
 		<Year>2004</Year>
 		<Month>4</Month>
@@ -12375,7 +12341,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>429</JournalVolume>
 		<JournalPages>375-381</JournalPages>
-		<ContributorIds>swarbred, mel25jon, birdc</ContributorIds>
+		<ContributorIds>swarbred, jir26vek, mel25jon, birdc</ContributorIds>
 		<ContributorList>Deloukas P, Earthrowl ME, Grafham DV, Rubenfield M, French L, Steward CA, Sims SK, Jones MC, Searle S, Scott C, Howe K, Hunt SE, Andrews TD, Gilbert JGR, Swarbreck D, Ashurst JL, Taylor A, Battles J, Bird CP, Ainscough R, Almeida JP, Ashwell RIS, Ambrose KD, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Bates K, Beasley H, Bray-Allen S, Brown AJ, Brown JY, Burford DC, Burrill W, Burton J, Cahill P, Camire D, Carter NP, Chapman JC, Clark SY, Clarke G, Clee CM, Clegg S, Corby N, Coulson A, Dhami P, Dutta I, Dunn M, Faulkner L, Frankish A, Frankland JA, Garner P, Garnett J, Gribble S, Griffiths C, Grocock R, Gustafson E, Hammond S, Harley JL, Hart E, Heath PD, Ho TP, Hopkins B, Horne J, Howden PJ, Huckle E, Hynds C, Johnson C, Johnson D, Kana A, Kay M, Kimberley AM, Kershaw JK, Kokkinaki M, Laird GK, Lawlor S, Lee HM, Leongamornlert DA, Laird G, Lloyd C, Lloyd DM, Loveland J, Lovell J, McLaren S, McLay KE, McMurray A, Mashreghi-Mohammadi M, Matthews L, Milne S, Nickerson T, Nguyen M, Overton-Larty E, Palmer SA, Pearce AV, Peck AI, Pelan S, Phillimore B, Porter K, Rice CM, Rogosin A, Ross MT, Sarafidou T, Sehra HK, Shownkeen R, Skuce CD, Smith M, Standring L, Sycamore N, Tester J, Thorpe A, Torcasso W, Tracey A, Tromans A, Tsolas J, Wall M, Walsh J, Wang H, Weinstock K, West AP, Willey DL, Whitehead SL, Wilming L, Wray PW, Young L, Chen Y, Lovering RC, Moschonas NK, Siebert R, Fechtel K, Bentley D, Durbin R, Hubbard T, Doucette-Stamm L, Beck S, Smith DR, Rogers J</ContributorList>
 		<Year>2004</Year>
 		<Month>5</Month>
@@ -12392,7 +12358,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>429</JournalVolume>
 		<JournalPages>369-374</JournalPages>
-		<ContributorIds>swarbred, birdc</ContributorIds>
+		<ContributorIds>jir26vek, swarbred, birdc</ContributorIds>
 		<ContributorList>Humphray SJ, Oliver K, Hunt AR, Plumb RW, Loveland JE, Howe KL, Andrews TD, Searle S, Hunt SE, Scott CE, Jones MC, Ainscough R, Almeida JP, Ambrose KD, Ashwell RIS, Babbage AK, Babbage S, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow KF, Bates K, Beasley H, Beasley O, Bird CP, Bray-Allen S, Brown AJ, Brown JY, Burford D, Burrill W, Burton J, Carder C, Carter NP, Chapman JC, Chen Y, Clarke G, Clark SY, Clee CM, Clegg S, Collier RE, Corby N, Crosier M, Cummings AT, Davies J, Dhami P, Dunn M, Dutta I, Dyer LW, Earthrowl ME, Faulkner L, Fleming CJ, Frankish A, Frankland JA, French L, Fricker DG, Garner P, Garnett J, Ghori J, Gilbert JGR, Glison C, Grafham DV, Gribble S, Griffiths C, Griffiths-Jones S, Grocock R, Guy J, Hall RE, Hammond S, Harley JL, Harrison ESI, Hart EA, Heath PD, Henderson CD, Hopkins BL, Howard PJ, Howden PJ, Huckle E, Johnson C, Johnson D, Joy AA, Kay M, Keenan S, Kershaw JK, Kimberley AM, King A, Knights A, Laird GK, Langford C, Lawlor S, Leongamornlert DA, Leversha M, Lloyd C, Lloyd DM, Lovell J, Martin S, Mashreghi-Mohammadi M, Matthews L, McLaren S, McLay KE, McMurray A, Milne S, Nickerson T, Nisbett J, Nordsiek G, Pearce AV, Peck AI, Porter KM, Pandian R, Pelan S, Phillimore B, Povey S, Ramsey Y, Rand V, Scharfe M, Sehra HK, Shownkeen R, Sims SK, Skuce CD, Smith M, Steward CA, Swarbreck D, Sycamore N, Tester J, Thorpe A, Tracey A, Tromans A, Thomas DW, Wall M, Wallis JM, West AP, Whitehead SL, Willey DL, Williams SA, Wilming L, Wray PW, Young L, Ashurst JL, Coulson A, Blöcker H, Durbin R, Sulston JE, Hubbard T, Jackson MJ, Bentley DR, Beck S, Rogers J, Dunham I</ContributorList>
 		<Year>2004</Year>
 		<Month>5</Month>
@@ -12477,7 +12443,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>441</JournalVolume>
 		<JournalPages>315-321</JournalPages>
-		<ContributorIds>swarbred, birdc</ContributorIds>
+		<ContributorIds>swarbred, jir26vek, birdc</ContributorIds>
 		<ContributorList>Gregory SG, Barlow KF, McLay KE, Kaul R, Swarbreck D, Dunham A, Scott CE, Howe KL, Woodfine K, Spencer CCA, Jones MC, Gillson C, Searle S, Zhou Y, Kokocinski F, McDonald L, Evans R, Phillips K, Atkinson A, Cooper R, Jones C, Hall RE, Andrews TD, Lloyd C, Ainscough R, Almeida JP, Ambrose KD, Anderson F, Andrew RW, Ashwell RIS, Aubin K, Babbage AK, Bagguley CL, Bailey J, Beasley H, Bethel G, Bird CP, Bray-Allen S, Brown JY, Brown AJ, Buckley D, Burton J, Bye J, Carder C, Chapman JC, Clark SY, Clarke G, Clee C, Cobley V, Collier RE, Corby N, Coville GJ, Davies J, Deadman R, Dunn M, Earthrowl M, Ellington AG, Errington H, Frankish A, Frankland J, French L, Garner P, Garnett J, Gay L, Ghori MRJ, Gibson R, Gilby LM, Gillett W, Glithero RJ, Grafham DV, Griffiths C, Griffiths-Jones S, Grocock R, Hammond S, Harrison ESI, Hart E, Haugen E, Heath PD, Holmes S, Holt K, Howden PJ, Hunt AR, Hunt SE, Hunter G, Isherwood J, James R, Johnson C, Johnson D, Joy A, Kay M, Kershaw JK, Kibukawa M, Kimberley AM, King A, Knights AJ, Lad H, Laird G, Lawlor S, Leongamornlert DA, Lloyd DM, Loveland J, Lovell J, Lush MJ, Lyne R, Martin S, Mashreghi-Mohammadi M, Matthews L, Matthews NSW, McLaren S, Milne S, Mistry S, M oore MJF, Nickerson T, O'Dell CN, Oliver K, Palmeiri A, Palmer SA, Parker A, Patel D, Pearce AV, Peck AI, Pelan S, Phelps K, Phillimore BJ, Plumb R, Rajan J, Raymond C, Rouse G, Saenphimmachak C, Sehra HK, Sheridan E, Shownkeen R, Sims S, Skuce CD, Smith M, Steward C, Subramanian S, Sycamore N, Tracey A, Tromans A, Van Helmond Z, Wall M, Wallis JM, White S, Whitehead SL, Wilkinson JE, Willey DL, Williams H, Wilming L, Wray PW, Wu Z, Coulson A, Vaudin M, Sulston JE, Durbin R, Hubbard T, Wooster R, Dunham I, Carter NP, McVean G, Ross MT, Harrow J, Olson MV, Beck S, Rogers J, Bentley DR</ContributorList>
 		<Year>2006</Year>
 		<Month>5</Month>
@@ -15873,176 +15839,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1007/s00723-009-0077-4</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Resolving the EPR Spectra in the Cytochrome bc 1 Complex from Saccharomyces cerevisiae</Title>
-		<DOI>10.1007/s00723-009-0077-4</DOI>
-		<JournalName>Applied Magnetic Resonance</JournalName>
-		<JournalVolume>37</JournalVolume>
-		<JournalPages>305-316</JournalPages>
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>MacMillan F, Lange C, Bawn M, Hunte C</ContributorList>
-		<Year>2009</Year>
-		<Month>11</Month>
-		<Day>15</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/252775</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Electron Paramagnetic Resonance Investigation of Nitrite Binding in Myoglobin</Title>
-		<DOI>10.1101/252775</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Bawn M, MacMillan F</ContributorList>
-		<Year>2018</Year>
-		<Month>1</Month>
-		<Day>24</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/245407</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Molecular Dynamics Investigation of the Role of Residues D137 and S315 to INH Binding in KatG</Title>
-		<DOI>10.1101/245407</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Bawn M, Magliozzo R</ContributorList>
-		<Year>2018</Year>
-		<Month>1</Month>
-		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/246249</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>216 GHz Electron Paramagnetic Resonance of Mycobacterium Tuberculosis Catalase-Peroxidase: The Role of the Arg418 Residue</Title>
-		<DOI>10.1101/246249</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Bawn M, Krzystek J, Magliozzo R</ContributorList>
-		<Year>2018</Year>
-		<Month>1</Month>
-		<Day>10</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.20944/preprints201809.0418.v1</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Ethnic Considerations for Glaucoma: A Review</Title>
-		<DOI>10.20944/preprints201809.0418.v1</DOI>
-		<JournalName>Preprints</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Bawn M</ContributorList>
-		<Year>2018</Year>
-		<Month>9</Month>
-		<Day>20</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41467-023-41152-6</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A genomic appraisal of invasive Salmonella Typhimurium and associated antibiotic resistance in sub-Saharan Africa</Title>
-		<DOI>10.1038/s41467-023-41152-6</DOI>
-		<JournalName>Nature Communications</JournalName>
-		<JournalVolume>14</JournalVolume>
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Van Puyvelde S, de Block T, Sridhar S, Bawn M, Kingsley RA, Ingelbeen B, Beale MA, Barbé B, Jeon HJ, Mbuyi-Kalonji L, Phoba M, Falay D, Martiny D, Vandenberg O, Affolabi D, Rutanga JP, Ceyssens P, Mattheus W, Cuypers WL, van der Sande MAB, Park SE, Kariuki S, Otieno K, Lusingu JPA, Mbwana JR, Adjei S, Sarfo A, Agyei SO, Asante KP, Otieno W, Otieno L, Tahita MC, Lompo P, Hoffman IF, Mvalo T, Msefula C, Hassan-Hanga F, Obaro S, Mackenzie G, Deborggraeve S, Feasey N, Marks F, MacLennan CA, Thomson NR, Jacobs J, Dougan G, Kariuki S, Lunguya O</ContributorList>
-		<Year>2023</Year>
-		<Month>10</Month>
-		<Day>23</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1371/journal.pgen.1011688</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Reversible excision of the wzy locus in Salmonella Typhimurium may aid recovery following phage predation</Title>
-		<DOI>10.1371/journal.pgen.1011688</DOI>
-		<JournalName>PLOS Genetics</JournalName>
-		<JournalVolume>21</JournalVolume>
-		<JournalPages>e1011688</JournalPages>
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Charity OJ, Thilliez G, Al-Khanaq H, Acton L, Kolenda R, Bawn M, Petrovska L, Kingsley RA</ContributorList>
-		<Year>2025</Year>
-		<Month>5</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1186/s41239-025-00557-7</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>University staff and student perspectives on competent and ethical use of AI: uncovering similarities and divergences</Title>
-		<DOI>10.1186/s41239-025-00557-7</DOI>
-		<JournalName>International Journal of Educational Technology in Higher Education</JournalName>
-		<JournalVolume>22</JournalVolume>
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Ravi M, Kaur K, Wright C, Bawn M, Cutillo L</ContributorList>
-		<Year>2025</Year>
-		<Month>10</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1042/ETLS20253019</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Molecular life sciences in the era of the Fourth Industrial Revolution: sequencing, multi-omics and artificial intelligence</Title>
-		<DOI>10.1042/ETLS20253019</DOI>
-		<JournalName>Emerging Topics in Life Sciences</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages>35-45</JournalPages>
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Keenan L, Lorna Younger R, Race PR, Bawn M</ContributorList>
-		<Year>2025</Year>
-		<Month>12</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1152/advan.00246.2024</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Perspectives from a workshop: intelligent assessment in the age of artificial intelligence</Title>
-		<DOI>10.1152/advan.00246.2024</DOI>
-		<JournalName>Advances in Physiology Education</JournalName>
-		<JournalVolume>50</JournalVolume>
-		<JournalPages>73-82</JournalPages>
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Bawn M, Francis N, Alvey E, Hassall C, Pires-daSilva A, Barra P, Hough D, Campbell H, Hardy M, Canet-Perez J</ContributorList>
-		<Year>2026</Year>
-		<Month>3</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/2024.11.19.624181</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -16069,7 +15865,7 @@
 		<JournalName>Molecular Psychiatry</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>kudashev, dwright, haertyw</ContributorIds>
+		<ContributorIds>dwright, haertyw</ContributorIds>
 		<ContributorList>Hall NA, Mould AW, Nassiri I, Kudasheva S, Wright DJ, Chen L, Arshad OA, Tao R, Kleinman JE, Weinberger DR, Hyde TM, Harrison PJ, Haerty W, Tunbridge EM</ContributorList>
 		<Year>2026</Year>
 		<Month>9</Month>
@@ -16274,7 +16070,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, duf26ror, mehtat, barkert, fraser, kidgells, irishn, kaithakg, vknitlho, watkinsc, swarbred, gharbik, haertyw</ContributorIds>
+		<ContributorIds>ethering, duf26ror, barkert, fraser, kidgells, irishn, kaithakg, vknitlho, watkinsc, swarbred, gharbik, haertyw</ContributorIds>
 		<ContributorList>Etherington GJ, Ciezarek A, Mehta T, Barker T, Durant A, Fraser F, Henderson S, Irish N, Kaithakottil GG, Knitlhoffer V, Ali S, Trong T, Watkins C, Swarbreck D, Gharbi K, Benzie JA, Haerty W</ContributorList>
 		<Year>2025</Year>
 		<Month>3</Month>
@@ -16752,7 +16548,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>galabone, quince</ContributorIds>
+		<ContributorIds>quince</ContributorIds>
 		<ContributorList>Benoit G, James R, Raguideau S, Alabone G, Goodall T, Chikhi R, Quince C</ContributorList>
 		<Year>2025</Year>
 		<Month>4</Month>
@@ -17143,7 +16939,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>scoones, lany, abinnie, kudashev, irishn, swarbred, gharbik, haertyw, dwright, macaulai</ContributorIds>
+		<ContributorIds>scoones, lany, abinnie, irishn, swarbred, gharbik, haertyw, dwright, macaulai</ContributorIds>
 		<ContributorList>Scoones ALA, Lan Y, Utting C, Pouncey L, Lister A, Kudasheva S, Mehta N, Irish N, Swarbreck D, Gharbi K, Haerty W, Cribbs AP, Wright DJ, Macaulay IC</ContributorList>
 		<Year>2025</Year>
 		<Month>7</Month>
@@ -17500,7 +17296,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, mana, ethering, haertyw</ContributorIds>
+		<ContributorIds>mana, ethering, haertyw</ContributorIds>
 		<ContributorList>Mehta TK, Man AL, Etherington G, Smith AM, Indermaur A, Salzburger W, Joyce D, Di-Palma F, Haerty W</ContributorList>
 		<Year>2025</Year>
 		<Month>10</Month>
@@ -18010,7 +17806,7 @@
 		<JournalName>Scientific Reports</JournalName>
 		<JournalVolume>15</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ethering, duf26ror, mehtat, barkert, durrant, fraser, kidgells, irishn, kaithakg, vknitlho, watkinsc, swarbred, gharbik, haertyw</ContributorIds>
+		<ContributorIds>ethering, duf26ror, barkert, durrant, fraser, kidgells, irishn, kaithakg, vknitlho, watkinsc, swarbred, gharbik, haertyw</ContributorIds>
 		<ContributorList>Etherington G, Ciezarek A, Mehta T, Barker T, Durrant A, Fraser F, Henderson S, Irish N, Kaithakottil G, Knitlhoffer V, Ali S, Trong T, Watkins C, Swarbreck D, Gharbi K, Benzie J, Haerty W</ContributorList>
 		<Year>2025</Year>
 		<Month>5</Month>
@@ -19489,7 +19285,7 @@
 		<JournalName>Molecular Biology and Evolution</JournalName>
 		<JournalVolume>41</JournalVolume>
 		<JournalPages />
-		<ContributorIds>duf26ror, mehtat, mana, haertyw</ContributorIds>
+		<ContributorIds>duf26ror, mana, haertyw</ContributorIds>
 		<ContributorList>Ciezarek AG, Mehta TK, Man A, Ford AGP, Kavembe GD, Kasozi N, Ngatunga BP, Shechonge AH, Tamatamah R, Nyingi DW, Cnaani A, Ndiwa TC, Di Palma F, Turner GF, Genner MJ, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>6</Month>
@@ -21058,7 +20854,7 @@
 		<JournalName>Research Square</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mana, mehtat, haertyw</ContributorIds>
+		<ContributorIds>mana, haertyw</ContributorIds>
 		<ContributorList>Dolfin LP, Man A, Mehta T, Haerty W, Palma FD</ContributorList>
 		<Year>2019</Year>
 		<Month>9</Month>
@@ -21075,7 +20871,7 @@
 		<JournalName>Research Square</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mana, mehtat, haertyw</ContributorIds>
+		<ContributorIds>mana, haertyw</ContributorIds>
 		<ContributorList>Dolfin LP, Man A, Mehta T, Haerty W, Palma FD</ContributorList>
 		<Year>2020</Year>
 		<Month>2</Month>
@@ -22283,7 +22079,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Thilliez G, Mashe T, Chaibva BV, Robertson V, Bawn M, Tarupiwa A, Takawira FT, Kock MM, Midzi S, Mwamakamba LW, Matheu J, Kingsley RA, Ehlers MM</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
@@ -22300,7 +22096,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>bawnm, taf22big</ContributorIds>
+		<ContributorIds>taf22big</ContributorIds>
 		<ContributorList>Charity OJ, Acton L, Bawn M, Tassinari E, Thilliez G, Chattaway MA, Dallman TJ, Petrovska L, Kingsley RA</ContributorList>
 		<Year>2022</Year>
 		<Month>11</Month>
@@ -27720,7 +27516,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Branchu P, Charity OJ, Bawn M, Thilliez G, Dallman TJ, Petrovska L, Kingsley RA</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -36595,7 +36391,7 @@
 		<JournalName>Cancer Research</JournalName>
 		<JournalVolume>77</JournalVolume>
 		<JournalPages>303-311</JournalPages>
-		<ContributorIds>mehtat, dipalmaf</ContributorIds>
+		<ContributorIds>dipalmaf, mehtat</ContributorIds>
 		<ContributorList>Abdul-Aziz AM, Shafat MS, Mehta TK, Di Palma F, Lawes MJ, Rushworth SA, Bowles KM</ContributorList>
 		<Year>2017</Year>
 		<Month>1</Month>
@@ -38637,7 +38433,7 @@
 		<JournalName>Blood</JournalName>
 		<JournalVolume>133</JournalVolume>
 		<JournalPages>446-456</JournalPages>
-		<ContributorIds>mehtat, macaulai, dipalmaf</ContributorIds>
+		<ContributorIds>macaulai, dipalmaf, mehtat</ContributorIds>
 		<ContributorList>Abdul-Aziz AM, Sun Y, Hellmich C, Marlein CR, Mistry J, Forde E, Piddock RE, Shafat MS, Morfakis A, Mehta T, Di Palma F, Macaulay I, Ingham CJ, Haestier A, Collins A, Campisi J, Bowles KM, Rushworth SA</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -38858,7 +38654,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw, dipalmaf, korcsmat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
+		<ContributorIds>nashw, haertyw, dipalmaf, korcsmat, mehtat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
 		<ContributorList>Mehta TK, Koch C, Nash W, Knaack SA, Sudhakar P, Olbei M, Bastkowski S, Penso-Dolfin L, Korcsmaros T, Haerty W, Roy S, Di-Palma F</ContributorList>
 		<Year>2018</Year>
 		<Month>12</Month>
@@ -40050,7 +39846,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>bawnm, halln, adriaens, kingsler, kirkwoom, thillieg</ContributorIds>
+		<ContributorIds>halln, adriaens, bawnm, kingsler, kirkwoom, thillieg</ContributorIds>
 		<ContributorList>Bawn M, Thilliez G, Kirkwood M, Wheeler N, Petrovska L, Dallman TJ, Adriaenssens EM, Hall N, Kingsley RA</ContributorList>
 		<Year>2019</Year>
 		<Month>10</Month>
@@ -40152,7 +39948,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages>e1008850</JournalPages>
-		<ContributorIds>bawnm, halln, adriaens, alikhan, kingsler, thillieg</ContributorIds>
+		<ContributorIds>halln, adriaens, alikhan, bawnm, kingsler, thillieg</ContributorIds>
 		<ContributorList>Bawn M, Alikhan N, Thilliez G, Kirkwood M, Wheeler NE, Petrovska L, Dallman TJ, Adriaenssens EM, Hall N, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -40713,7 +40509,7 @@
 		<JournalName>BMC Evolutionary Biology</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mana, mehtat, haertyw, dipalmaf, pensodl</ContributorIds>
+		<ContributorIds>mana, haertyw, dipalmaf, mehtat, pensodl</ContributorIds>
 		<ContributorList>Penso-Dolfin L, Man A, Mehta T, Haerty W, Di Palma F</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -40968,7 +40764,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>bawnm, halln, macaulai, etrampar, hernande, kingsler, thillieg, webberm</ContributorIds>
+		<ContributorIds>halln, macaulai, bawnm, etrampar, hernande, kingsler, thillieg, webberm</ContributorIds>
 		<ContributorList>Bawn M, Hernandez J, Trampari E, Thilliez G, Webber MA, Kingsley RA, Hall N, Macaulay IC</ContributorList>
 		<Year>2020</Year>
 		<Month>8</Month>
@@ -41242,7 +41038,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>bawnm, halln, branchup, kingsler, kirkwoom, pyeh, stevensl, tannerj, thillieg</ContributorIds>
+		<ContributorIds>halln, branchup, kingsler, kirkwoom, pyeh, stevensl, tannerj, thillieg</ContributorIds>
 		<ContributorList>Kirkwood M, Vohra P, Bawn M, Thilliez G, Pye H, Tanner J, Chintoan-Uta C, Branchu P, Petrovska L, Dallman T, Hall N, Stevens MP, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>9</Month>
@@ -41463,7 +41259,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages />
-		<ContributorIds>taf22big, bawnm, halln, actonl, charityo, kingsler, kirkwoom, tassinae, thillieg</ContributorIds>
+		<ContributorIds>taf22big, halln, actonl, bawnm, charityo, kingsler, kirkwoom, tassinae, thillieg</ContributorIds>
 		<ContributorList>Tassinari E, Bawn M, Thilliez G, Charity O, Acton L, Kirkwood M, Petrovska L, Dallman T, Burgess CM, Hall N, Duffy G, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -41820,7 +41616,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw, dipalmaf, korcsmat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
+		<ContributorIds>nashw, haertyw, dipalmaf, korcsmat, mehtat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
 		<ContributorList>Mehta TK, Koch C, Nash W, Knaack SA, Sudhakar P, Olbei M, Bastkowski S, Penso-Dolfin L, Korcsmaros T, Haerty W, Roy S, Di-Palma F</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -41837,7 +41633,7 @@
 		<JournalName>Biological Reviews</JournalName>
 		<JournalVolume>96</JournalVolume>
 		<JournalPages>822-841</JournalPages>
-		<ContributorIds>haertyw, macaulai, mehtat, nashw, peeln</ContributorIds>
+		<ContributorIds>haertyw, macaulai, nashw, peeln, mehtat</ContributorIds>
 		<ContributorList>Bergero R, Ellis P, Haerty W, Larcombe L, Macaulay I, Mehta T, Mogensen M, Murray D, Nash W, Neale MJ, O'Connor R, Ottolini C, Peel N, Ramsey L, Skinner B, Suh A, Summers M, Sun Y, Tidy A, Rahbari R, Rathje C, Immler S</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -42143,7 +41939,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>duf26ror, mehtat, haertyw, ciezarek, ethering</ContributorIds>
+		<ContributorIds>duf26ror, haertyw, ciezarek, ethering, mehtat</ContributorIds>
 		<ContributorList>Ciezarek A, Ford A, Etherington G, Kasozi N, Malinsky M, Mehta T, Penso-Dolfin L, Ngatunga B, Shechonge A, Tamatamah R, Haerty W, Di Palma F, Genner M, Turner G</ContributorList>
 		<Year>2021</Year>
 		<Month>3</Month>
@@ -42366,7 +42162,7 @@
 		<JournalName>Communications Biology</JournalName>
 		<JournalVolume>4</JournalVolume>
 		<JournalPages />
-		<ContributorIds>bawnm, halln, branchup, kingsler, kirkwoom, pyeh, tannerj, thillieg</ContributorIds>
+		<ContributorIds>halln, bawnm, branchup, kingsler, kirkwoom, pyeh, tannerj, thillieg</ContributorIds>
 		<ContributorList>Kirkwood M, Vohra P, Bawn M, Thilliez G, Pye H, Tanner J, Chintoan-Uta C, Branchu P, Petrovska L, Dallman T, Hall N, Stevens MP, Kingsley RA</ContributorList>
 		<Year>2021</Year>
 		<Month>4</Month>
@@ -43014,7 +42810,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw</ContributorIds>
+		<ContributorIds>nashw, haertyw, mehtat</ContributorIds>
 		<ContributorList>Mehta TK, Penso-Dolfin L, Nash W, Roy S, Di-Palma F, Haerty W</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -43286,7 +43082,7 @@
 		<JournalName>Aquaculture</JournalName>
 		<JournalVolume>548</JournalVolume>
 		<JournalPages>737637</JournalPages>
-		<ContributorIds>duf26ror, ethering, mehtat, haertyw, ciezarek</ContributorIds>
+		<ContributorIds>duf26ror, ethering, haertyw, ciezarek, mehtat</ContributorIds>
 		<ContributorList>Ciezarek A, Ford AG, Etherington GJ, Kasozi N, Malinsky M, Mehta TK, Penso-Dolfin L, Ngatunga BP, Shechonge A, Tamatamah R, Haerty W, Di Palma F, Genner MJ, Turner GF</ContributorList>
 		<Year>2022</Year>
 		<Month>2</Month>
@@ -43609,7 +43405,7 @@
 		<JournalName>Molecular Biology and Evolution</JournalName>
 		<JournalVolume>39</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw</ContributorIds>
+		<ContributorIds>nashw, haertyw, mehtat</ContributorIds>
 		<ContributorList>Mehta TK, Penso-Dolfin L, Nash W, Roy S, Di-Palma F, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>6</Month>
@@ -43813,7 +43609,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>bawnm, quince, halln, macaulai</ContributorIds>
+		<ContributorIds>quince, halln, macaulai</ContributorIds>
 		<ContributorList>Bawn M, Hernandez J, Trampari E, Thilliez G, Quince C, Webber MA, Kingsley RA, Hall N, Macaulay IC</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
@@ -44017,7 +43813,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>23</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ethering, nashw, duf26ror, mehtat, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, ciezarek, forreste</ContributorIds>
+		<ContributorIds>ethering, nashw, duf26ror, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, ciezarek, forreste, mehtat</ContributorIds>
 		<ContributorList>Etherington GJ, Nash W, Ciezarek A, Mehta TK, Barria A, Peñaloza C, Khan MGQ, Durrant A, Forrester N, Fraser F, Irish N, Kaithakottil GG, Lipscombe J, Trong T, Watkins C, Swarbreck D, Angiolini E, Cnaani A, Gharbi K, Houston RD, Benzie JAH, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -44153,7 +43949,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, mana, duf26ror, haertyw, ciezarek</ContributorIds>
+		<ContributorIds>mana, duf26ror, haertyw, ciezarek, mehtat</ContributorIds>
 		<ContributorList>Mehta TK, Man A, Ciezarek A, Ranson K, Penman D, Di-Palma F, Haerty W</ContributorList>
 		<Year>2023</Year>
 		<Month>2</Month>
@@ -44255,7 +44051,7 @@
 		<JournalName>Genomics</JournalName>
 		<JournalVolume>115</JournalVolume>
 		<JournalPages>110633</JournalPages>
-		<ContributorIds>mehtat, mana, duf26ror, haertyw, ciezarek</ContributorIds>
+		<ContributorIds>mana, duf26ror, haertyw, ciezarek, mehtat</ContributorIds>
 		<ContributorList>Mehta TK, Man A, Ciezarek A, Ranson K, Penman D, Di-Palma F, Haerty W</ContributorList>
 		<Year>2023</Year>
 		<Month>7</Month>
@@ -44272,7 +44068,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>duf26ror, mehtat, mana, haertyw, ciezarek, dipalmaf</ContributorIds>
+		<ContributorIds>duf26ror, mana, haertyw, ciezarek, dipalmaf, mehtat</ContributorIds>
 		<ContributorList>Ciezarek AG, Mehta TK, Man A, Ford AG, Kavembe GD, Kasozi N, Ngatunga BP, Shechonge AH, Tamatamah R, Nyingi DW, Cnaani A, Palma FD, Turner GF, Genner MJ, Haerty W</ContributorList>
 		<Year>2023</Year>
 		<Month>5</Month>
@@ -44663,7 +44459,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>galabone, quince, dig22hok, raguidea, rjames</ContributorIds>
+		<ContributorIds>quince, dig22hok, raguidea, rjames</ContributorIds>
 		<ContributorList>S James R, Benoit G, Raguideau S, Alabone G, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>7</Month>
@@ -45224,7 +45020,7 @@
 		<JournalName>FEBS Letters</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>bahcivan, melchina, okurt, zar24gir</ContributorIds>
+		<ContributorIds>melchina, okurt, zar24gir</ContributorIds>
 		<ContributorList>Ponsero AJ, Bahcivanci B, Hayhoe A, Acharjee A, Özkurt E</ContributorList>
 		<Year>2026</Year>
 		<Month>5</Month>
