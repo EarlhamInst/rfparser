@@ -15839,6 +15839,176 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1007/s00723-009-0077-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Resolving the EPR Spectra in the Cytochrome bc 1 Complex from Saccharomyces cerevisiae</Title>
+		<DOI>10.1007/s00723-009-0077-4</DOI>
+		<JournalName>Applied Magnetic Resonance</JournalName>
+		<JournalVolume>37</JournalVolume>
+		<JournalPages>305-316</JournalPages>
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>MacMillan F, Lange C, Bawn M, Hunte C</ContributorList>
+		<Year>2009</Year>
+		<Month>11</Month>
+		<Day>15</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/252775</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Electron Paramagnetic Resonance Investigation of Nitrite Binding in Myoglobin</Title>
+		<DOI>10.1101/252775</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Bawn M, MacMillan F</ContributorList>
+		<Year>2018</Year>
+		<Month>1</Month>
+		<Day>24</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/245407</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Molecular Dynamics Investigation of the Role of Residues D137 and S315 to INH Binding in KatG</Title>
+		<DOI>10.1101/245407</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Bawn M, Magliozzo R</ContributorList>
+		<Year>2018</Year>
+		<Month>1</Month>
+		<Day>9</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/246249</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>216 GHz Electron Paramagnetic Resonance of Mycobacterium Tuberculosis Catalase-Peroxidase: The Role of the Arg418 Residue</Title>
+		<DOI>10.1101/246249</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Bawn M, Krzystek J, Magliozzo R</ContributorList>
+		<Year>2018</Year>
+		<Month>1</Month>
+		<Day>10</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.20944/preprints201809.0418.v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Ethnic Considerations for Glaucoma: A Review</Title>
+		<DOI>10.20944/preprints201809.0418.v1</DOI>
+		<JournalName>Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Bawn M</ContributorList>
+		<Year>2018</Year>
+		<Month>9</Month>
+		<Day>20</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-41152-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A genomic appraisal of invasive Salmonella Typhimurium and associated antibiotic resistance in sub-Saharan Africa</Title>
+		<DOI>10.1038/s41467-023-41152-6</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Van Puyvelde S, de Block T, Sridhar S, Bawn M, Kingsley RA, Ingelbeen B, Beale MA, Barbé B, Jeon HJ, Mbuyi-Kalonji L, Phoba M, Falay D, Martiny D, Vandenberg O, Affolabi D, Rutanga JP, Ceyssens P, Mattheus W, Cuypers WL, van der Sande MAB, Park SE, Kariuki S, Otieno K, Lusingu JPA, Mbwana JR, Adjei S, Sarfo A, Agyei SO, Asante KP, Otieno W, Otieno L, Tahita MC, Lompo P, Hoffman IF, Mvalo T, Msefula C, Hassan-Hanga F, Obaro S, Mackenzie G, Deborggraeve S, Feasey N, Marks F, MacLennan CA, Thomson NR, Jacobs J, Dougan G, Kariuki S, Lunguya O</ContributorList>
+		<Year>2023</Year>
+		<Month>10</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pgen.1011688</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Reversible excision of the wzy locus in Salmonella Typhimurium may aid recovery following phage predation</Title>
+		<DOI>10.1371/journal.pgen.1011688</DOI>
+		<JournalName>PLOS Genetics</JournalName>
+		<JournalVolume>21</JournalVolume>
+		<JournalPages>e1011688</JournalPages>
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Charity OJ, Thilliez G, Al-Khanaq H, Acton L, Kolenda R, Bawn M, Petrovska L, Kingsley RA</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s41239-025-00557-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>University staff and student perspectives on competent and ethical use of AI: uncovering similarities and divergences</Title>
+		<DOI>10.1186/s41239-025-00557-7</DOI>
+		<JournalName>International Journal of Educational Technology in Higher Education</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages />
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Ravi M, Kaur K, Wright C, Bawn M, Cutillo L</ContributorList>
+		<Year>2025</Year>
+		<Month>10</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1042/ETLS20253019</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Molecular life sciences in the era of the Fourth Industrial Revolution: sequencing, multi-omics and artificial intelligence</Title>
+		<DOI>10.1042/ETLS20253019</DOI>
+		<JournalName>Emerging Topics in Life Sciences</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages>35-45</JournalPages>
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Keenan L, Lorna Younger R, Race PR, Bawn M</ContributorList>
+		<Year>2025</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1152/advan.00246.2024</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Perspectives from a workshop: intelligent assessment in the age of artificial intelligence</Title>
+		<DOI>10.1152/advan.00246.2024</DOI>
+		<JournalName>Advances in Physiology Education</JournalName>
+		<JournalVolume>50</JournalVolume>
+		<JournalPages>73-82</JournalPages>
+		<ContributorIds>bawnm</ContributorIds>
+		<ContributorList>Bawn M, Francis N, Alvey E, Hassall C, Pires-daSilva A, Barra P, Hough D, Campbell H, Hardy M, Canet-Perez J</ContributorList>
+		<Year>2026</Year>
+		<Month>3</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.11.19.624181</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -22079,7 +22249,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds />
+		<ContributorIds>bawnm</ContributorIds>
 		<ContributorList>Thilliez G, Mashe T, Chaibva BV, Robertson V, Bawn M, Tarupiwa A, Takawira FT, Kock MM, Midzi S, Mwamakamba LW, Matheu J, Kingsley RA, Ehlers MM</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
@@ -22096,7 +22266,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>taf22big</ContributorIds>
+		<ContributorIds>bawnm, taf22big</ContributorIds>
 		<ContributorList>Charity OJ, Acton L, Bawn M, Tassinari E, Thilliez G, Chattaway MA, Dallman TJ, Petrovska L, Kingsley RA</ContributorList>
 		<Year>2022</Year>
 		<Month>11</Month>
@@ -27516,7 +27686,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds />
+		<ContributorIds>bawnm</ContributorIds>
 		<ContributorList>Branchu P, Charity OJ, Bawn M, Thilliez G, Dallman TJ, Petrovska L, Kingsley RA</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -39846,7 +40016,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>halln, adriaens, bawnm, kingsler, kirkwoom, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, adriaens, kingsler, kirkwoom, thillieg</ContributorIds>
 		<ContributorList>Bawn M, Thilliez G, Kirkwood M, Wheeler N, Petrovska L, Dallman TJ, Adriaenssens EM, Hall N, Kingsley RA</ContributorList>
 		<Year>2019</Year>
 		<Month>10</Month>
@@ -39948,7 +40118,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages>e1008850</JournalPages>
-		<ContributorIds>halln, adriaens, alikhan, bawnm, kingsler, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, adriaens, alikhan, kingsler, thillieg</ContributorIds>
 		<ContributorList>Bawn M, Alikhan N, Thilliez G, Kirkwood M, Wheeler NE, Petrovska L, Dallman TJ, Adriaenssens EM, Hall N, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -40764,7 +40934,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>halln, macaulai, bawnm, etrampar, hernande, kingsler, thillieg, webberm</ContributorIds>
+		<ContributorIds>bawnm, halln, macaulai, etrampar, hernande, kingsler, thillieg, webberm</ContributorIds>
 		<ContributorList>Bawn M, Hernandez J, Trampari E, Thilliez G, Webber MA, Kingsley RA, Hall N, Macaulay IC</ContributorList>
 		<Year>2020</Year>
 		<Month>8</Month>
@@ -41038,7 +41208,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>halln, branchup, kingsler, kirkwoom, pyeh, stevensl, tannerj, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, branchup, kingsler, kirkwoom, pyeh, stevensl, tannerj, thillieg</ContributorIds>
 		<ContributorList>Kirkwood M, Vohra P, Bawn M, Thilliez G, Pye H, Tanner J, Chintoan-Uta C, Branchu P, Petrovska L, Dallman T, Hall N, Stevens MP, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>9</Month>
@@ -41259,7 +41429,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages />
-		<ContributorIds>taf22big, halln, actonl, bawnm, charityo, kingsler, kirkwoom, tassinae, thillieg</ContributorIds>
+		<ContributorIds>taf22big, bawnm, halln, actonl, charityo, kingsler, kirkwoom, tassinae, thillieg</ContributorIds>
 		<ContributorList>Tassinari E, Bawn M, Thilliez G, Charity O, Acton L, Kirkwood M, Petrovska L, Dallman T, Burgess CM, Hall N, Duffy G, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -42162,7 +42332,7 @@
 		<JournalName>Communications Biology</JournalName>
 		<JournalVolume>4</JournalVolume>
 		<JournalPages />
-		<ContributorIds>halln, bawnm, branchup, kingsler, kirkwoom, pyeh, tannerj, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, branchup, kingsler, kirkwoom, pyeh, tannerj, thillieg</ContributorIds>
 		<ContributorList>Kirkwood M, Vohra P, Bawn M, Thilliez G, Pye H, Tanner J, Chintoan-Uta C, Branchu P, Petrovska L, Dallman T, Hall N, Stevens MP, Kingsley RA</ContributorList>
 		<Year>2021</Year>
 		<Month>4</Month>
@@ -43609,7 +43779,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>quince, halln, macaulai</ContributorIds>
+		<ContributorIds>bawnm, quince, halln, macaulai</ContributorIds>
 		<ContributorList>Bawn M, Hernandez J, Trampari E, Thilliez G, Quince C, Webber MA, Kingsley RA, Hall N, Macaulay IC</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
