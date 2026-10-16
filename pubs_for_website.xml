@@ -1172,7 +1172,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>raguidea, galabone, quince</ContributorIds>
 		<ContributorList>S James R, Benoit G, raguideau s, Alabone G, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>8</Month>
@@ -2498,7 +2498,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>raguidea, galabone, quince</ContributorIds>
 		<ContributorList>Benoit G, James R, Raguideau S, Alabone G, Goodall T, Chikhi R, Quince C</ContributorList>
 		<Year>2026</Year>
 		<Month>3</Month>
@@ -16735,7 +16735,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>quince</ContributorIds>
+		<ContributorIds>galabone, quince</ContributorIds>
 		<ContributorList>Benoit G, James R, Raguideau S, Alabone G, Goodall T, Chikhi R, Quince C</ContributorList>
 		<Year>2025</Year>
 		<Month>4</Month>
@@ -44646,7 +44646,7 @@
 		<JournalName>protocols.io</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>quince, dig22hok, raguidea, rjames</ContributorIds>
+		<ContributorIds>galabone, quince, dig22hok, raguidea, rjames</ContributorIds>
 		<ContributorList>S James R, Benoit G, Raguideau S, Alabone G, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>7</Month>
@@ -45207,7 +45207,7 @@
 		<JournalName>FEBS Letters</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>melchina, okurt, zar24gir</ContributorIds>
+		<ContributorIds>bahcivan, melchina, okurt, zar24gir</ContributorIds>
 		<ContributorList>Ponsero AJ, Bahcivanci B, Hayhoe A, Acharjee A, Özkurt E</ContributorList>
 		<Year>2026</Year>
 		<Month>5</Month>
