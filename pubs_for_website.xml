@@ -8610,7 +8610,7 @@
 		<Year>2005</Year>
 		<Month>7</Month>
 		<Day>15</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/nar/gki980</id>
@@ -8780,7 +8780,7 @@
 		<Year>2005</Year>
 		<Month>7</Month>
 		<Day>15</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.gde.2005.09.001</id>
@@ -19574,7 +19574,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>met26ped, rusholmr, halla</ContributorIds>
+		<ContributorIds>creynold, rusholmr, halla</ContributorIds>
 		<ContributorList>Reynolds C, Colmer J, Rees H, Khajouei E, Rusholme-Pilcher R, Kudoh H, Dodd AN, Hall A</ContributorList>
 		<Year>2024</Year>
 		<Month>10</Month>
@@ -23235,7 +23235,7 @@
 		<JournalName>PLOS Biology</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages>e3001802</JournalPages>
-		<ContributorIds>rusholmr, met26ped, halla</ContributorIds>
+		<ContributorIds>rusholmr, creynold, halla</ContributorIds>
 		<ContributorList>Rees H, Rusholme-Pilcher R, Bailey P, Colmer J, White B, Reynolds C, Ward SJ, Coombes B, Graham CA, de Barros Dantas LL, Dodd AN, Hall A</ContributorList>
 		<Year>2022</Year>
 		<Month>10</Month>
@@ -24723,7 +24723,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rusholmr, met26ped, halla</ContributorIds>
+		<ContributorIds>rusholmr, creynold, halla</ContributorIds>
 		<ContributorList>Rees H, Rusholme-Pilcher R, Bailey P, Colmer J, White B, Reynolds C, Ward SJ, Graham CA, Dantas LLdB, Dodd AN, Hall A</ContributorList>
 		<Year>2021</Year>
 		<Month>10</Month>
@@ -42591,7 +42591,7 @@
 		<ContributorList>Frau A, Ijaz UZ, Slater R, Jonkers D, Penders J, Campbell BJ, Kenny JG, Hall N, Lenzi L, Burkitt MD, Pierik M, Darby AC, Probert CSJ</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
-		<Day />
+		<Day>1</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -45020,7 +45020,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages />
-		<ContributorIds>met26ped, rusholmr, halla, colmer, creynold, dodd, khajouei</ContributorIds>
+		<ContributorIds>creynold, rusholmr, halla, colmer, dodd, khajouei</ContributorIds>
 		<ContributorList>Reynolds C, Colmer J, Rees H, Khajouei E, Rusholme-Pilcher R, Kudoh H, Dodd AN, Hall A</ContributorList>
 		<Year>2025</Year>
 		<Month>8</Month>
