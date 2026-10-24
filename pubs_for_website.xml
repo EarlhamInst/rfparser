@@ -12961,6 +12961,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/gbe/evag247</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genome-Wide Evolution of Lineage-Specific Chromatin Accessibility Links Regulatory Changes to Cichlid Phenotypic Diversity</Title>
+		<DOI>10.1093/gbe/evag247</DOI>
+		<JournalName>Genome Biology and Evolution</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages />
+		<ContributorIds>mana, ethering, haertyw</ContributorIds>
+		<ContributorList>Mehta TK, Man AL, Etherington G, Smith AM, Indermaur A, Salzburger W, Joyce D, Di-Palma F, Haerty W</ContributorList>
+		<Year>2026</Year>
+		<Month>10</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.fgb.2009.11.006</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
