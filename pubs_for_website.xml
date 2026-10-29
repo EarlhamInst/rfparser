@@ -5401,6 +5401,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1016/j.transproceed.2006.10.149</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Quantitative Detection of Promoter Hypermethylation as a Biomarker of Acute Kidney Injury During Transplantation</Title>
+		<DOI>10.1016/j.transproceed.2006.10.149</DOI>
+		<JournalName>Transplantation Proceedings</JournalName>
+		<JournalVolume>38</JournalVolume>
+		<JournalPages>3420-3426</JournalPages>
+		<ContributorIds>mehtat</ContributorIds>
+		<ContributorList>Mehta T, Hoque M, Ugarte R, Rahman M, Kraus E, Montgomery R, Melancon K, Sidransky D, Rabb H</ContributorList>
+		<Year>2006</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1073/pnas.1315760110</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -5416,23 +5433,6 @@
 		<Month>9</Month>
 		<Day>16</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.4103/jpbs.jpbs_1012_25</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Correlation of Lipid Profile and Blood Glucose Levels in Oral Precancerous Lesion</Title>
-		<DOI>10.4103/jpbs.jpbs_1012_25</DOI>
-		<JournalName>Journal of Pharmacy and Bioallied Sciences</JournalName>
-		<JournalVolume>17</JournalVolume>
-		<JournalPages>S2581-S2583</JournalPages>
-		<ContributorIds>mehtat</ContributorIds>
-		<ContributorList>Mehta TK, Morya KC, Narang G, Prasad BN, Kumar H, Garg P</ContributorList>
-		<Year>2025</Year>
-		<Month>8</Month>
-		<Day>28</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/molbev/msi119</id>
