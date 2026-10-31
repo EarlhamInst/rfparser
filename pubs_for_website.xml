@@ -189,6 +189,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1206/3975.1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Bacterial Diversity Lurking in Protist Cell Cultures</Title>
+		<DOI>10.1206/3975.1</DOI>
+		<JournalName>American Museum Novitates</JournalName>
+		<JournalVolume>2021</JournalVolume>
+		<JournalPages>1-14</JournalPages>
+		<ContributorIds>warring</ContributorIds>
+		<ContributorList>Aponte A, Gyaltshen Y, Burns JA, Heiss AA, Kim E, Warring SD</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day>25</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1107/S0108767305080025</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -16143,6 +16160,23 @@
 		<Month>9</Month>
 		<Day>7</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s42003-026-10750-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Microbiology Galaxy Lab: a community-driven gateway for reproducible and FAIR analysis of microbiological data</Title>
+		<DOI>10.1038/s42003-026-10750-7</DOI>
+		<JournalName>Communications Biology</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages />
+		<ContributorIds>soranzon</ContributorIds>
+		<ContributorList>Nasr EMT, Pechlivanis N, Strepis N, Amato P, Bernt M, Bhardwaj A, Blankenberg D, Brites D, Cumbo F, Do KT, Ferrari E, Griffin TJ, Grüning BA, Hiltemann S, Hyde CJ, Jagtap PD, Kumar A, Malla MA, Mehta S, Métris KL, Momin S, Nelson T, Oba AJ, Pavloudi C, Péguilhan R, Price GR, Psomopoulos F, Rosic N, Schatz MC, Schiml VC, Siguret C, Soranzo N, Stubbs AP, van Heusden P, Vohra M, Zierep PF, Batut B</ContributorList>
+		<Year>2026</Year>
+		<Month>10</Month>
+		<Day>29</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41380-026-03890-z</id>
