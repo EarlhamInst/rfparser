@@ -5410,7 +5410,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>jel25doz, quince, raguidea</ContributorIds>
+		<ContributorIds>kil25rit, jel25doz, quince, raguidea</ContributorIds>
 		<ContributorList>Han H, Messer LF, Quince C, Bending GD, Raguideau S, Wang Z, Zhu S</ContributorList>
 		<Year>2026</Year>
 		<Month>9</Month>
@@ -8305,6 +8305,23 @@
 		<Month>5</Month>
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41588-026-02790-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Progress and disparities in fungal genomics in the long-read era</Title>
+		<DOI>10.1038/s41588-026-02790-w</DOI>
+		<JournalName>Nature Genetics</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz</ContributorIds>
+		<ContributorList>Kroll E, Zoclanclounon YAB, Urban M, Hill R, Hammond-Kosack KE</ContributorList>
+		<Year>2026</Year>
+		<Month>11</Month>
+		<Day>3</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1002/cfg.88</id>
