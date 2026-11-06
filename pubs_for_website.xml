@@ -3066,7 +3066,7 @@
 		<Year>2020</Year>
 		<Month>5</Month>
 		<Day>18</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-020-16785-6</id>
@@ -3287,7 +3287,7 @@
 		<Year>2021</Year>
 		<Month>5</Month>
 		<Day>23</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.06.08.447493</id>
@@ -3644,7 +3644,7 @@
 		<Year>2023</Year>
 		<Month>2</Month>
 		<Day>24</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/bioinformatics/btad126</id>
@@ -4086,7 +4086,7 @@
 		<Year>2002</Year>
 		<Month>10</Month>
 		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1128/MCB.24.20.8917-8928.2004</id>
@@ -4154,7 +4154,7 @@
 		<Year>2006</Year>
 		<Month>7</Month>
 		<Day>15</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/nar/gkl758</id>
@@ -5313,7 +5313,7 @@
 		<Year>2023</Year>
 		<Month>8</Month>
 		<Day>8</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s42003-023-05702-4</id>
@@ -7030,7 +7030,7 @@
 		<Year>2020</Year>
 		<Month>2</Month>
 		<Day>20</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2020.03.25.009084</id>
@@ -7747,7 +7747,7 @@
 		<Year>2020</Year>
 		<Month>12</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/978-3-030-72062-9_54</id>
@@ -10418,7 +10418,7 @@
 		<Year>2026</Year>
 		<Month>4</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/mec.70513</id>
@@ -10469,6 +10469,23 @@
 		<Year>2026</Year>
 		<Month>9</Month>
 		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.64898/2026.10.30.762802</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Genome-wide chromatin accessibility during early embryogenesis in a generalist cichlid fish</Title>
+		<DOI>10.64898/2026.10.30.762802</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw, mehtat</ContributorIds>
+		<ContributorList>Midhukrishna, Smith AM, Joyce D, Di-Palma F, Haerty W, Mehta TK</ContributorList>
+		<Year>2026</Year>
+		<Month>11</Month>
+		<Day>5</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -10866,7 +10883,7 @@
 		<Year>2024</Year>
 		<Month>8</Month>
 		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s13059-025-03598-3</id>
@@ -14948,7 +14965,7 @@
 		<Year>2018</Year>
 		<Month>11</Month>
 		<Day>8</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1002/pros.23968</id>
@@ -15496,7 +15513,7 @@
 		<Year>2020</Year>
 		<Month>7</Month>
 		<Day>25</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3389/fvets.2020.00558</id>
@@ -15598,7 +15615,7 @@
 		<Year>2020</Year>
 		<Month>12</Month>
 		<Day>3</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s40168-020-00993-9</id>
@@ -15734,7 +15751,7 @@
 		<Year>2021</Year>
 		<Month>11</Month>
 		<Day>18</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/bib/bbab330</id>
@@ -15955,7 +15972,7 @@
 		<Year>2022</Year>
 		<Month>10</Month>
 		<Day>20</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3390/applmicrobiol4040109</id>
@@ -16415,7 +16432,7 @@
 		<Year>2025</Year>
 		<Month>3</Month>
 		<Day>6</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1017/qpb.2026.10047</id>
@@ -16534,7 +16551,7 @@
 		<Year>2026</Year>
 		<Month>3</Month>
 		<Day>17</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3389/fsci.2025.1514835</id>
@@ -16602,7 +16619,7 @@
 		<Year>2025</Year>
 		<Month>10</Month>
 		<Day>31</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1073/pnas.2510889122</id>
@@ -16859,7 +16876,7 @@
 		<Year>2025</Year>
 		<Month>8</Month>
 		<Day>25</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41564-025-02131-3</id>
@@ -16927,7 +16944,7 @@
 		<Year>2025</Year>
 		<Month>11</Month>
 		<Day>27</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2025.10.16.25338140</id>
@@ -17607,7 +17624,7 @@
 		<Year>2025</Year>
 		<Month>11</Month>
 		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/gr.280550.125</id>
@@ -17658,7 +17675,7 @@
 		<Year>2025</Year>
 		<Month>10</Month>
 		<Day>10</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2025.10.03.678719</id>
@@ -17675,7 +17692,7 @@
 		<Year>2025</Year>
 		<Month>10</Month>
 		<Day>3</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2025.09.24.678321</id>
@@ -18049,7 +18066,7 @@
 		<Year>2025</Year>
 		<Month>7</Month>
 		<Day>7</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/plcell/koaf124</id>
@@ -18338,7 +18355,7 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>5</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.21203/rs.3.rs-6080581/v1</id>
@@ -18933,7 +18950,7 @@
 		<Year>2024</Year>
 		<Month>8</Month>
 		<Day>8</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41586-024-08424-7</id>
@@ -19307,7 +19324,7 @@
 		<Year>2025</Year>
 		<Month>1</Month>
 		<Day>18</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.xpro.2024.103570</id>
@@ -19358,7 +19375,7 @@
 		<Year>2025</Year>
 		<Month>1</Month>
 		<Day>14</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.17660/actahortic.2024.1390.31</id>
@@ -19426,7 +19443,7 @@
 		<Year>2024</Year>
 		<Month>12</Month>
 		<Day>27</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/gbe/evaf003</id>
@@ -19460,7 +19477,7 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>10</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-024-55213-x</id>
@@ -19715,7 +19732,7 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>31</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-024-53716-1</id>
@@ -19749,7 +19766,7 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>29</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41477-024-01778-w</id>
@@ -19766,7 +19783,7 @@
 		<Year>2024</Year>
 		<Month>9</Month>
 		<Day>13</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.10.09.616956</id>
@@ -19783,7 +19800,7 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>12</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s44185-024-00053-7</id>
@@ -20446,7 +20463,7 @@
 		<Year>2023</Year>
 		<Month>5</Month>
 		<Day>19</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pone.0285756</id>
@@ -20599,7 +20616,7 @@
 		<Year>2024</Year>
 		<Month>3</Month>
 		<Day>3</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1126/sciadv.adl0515</id>
@@ -21131,7 +21148,7 @@
 		<Year>2019</Year>
 		<Month>1</Month>
 		<Day>23</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2022.05.23.493040</id>
@@ -21199,7 +21216,7 @@
 		<Year>2020</Year>
 		<Month>3</Month>
 		<Day>3</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.21203/rs.2.14301/v1</id>
@@ -21250,7 +21267,7 @@
 		<Year>2020</Year>
 		<Month>3</Month>
 		<Day>11</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3389/fvets.2020.579189</id>
@@ -21641,7 +21658,7 @@
 		<Year>2023</Year>
 		<Month>10</Month>
 		<Day>6</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.7287/peerj.preprints.27332</id>
@@ -21675,7 +21692,7 @@
 		<Year>2023</Year>
 		<Month>9</Month>
 		<Day>14</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.09.04.556188</id>
@@ -21692,7 +21709,7 @@
 		<Year>2023</Year>
 		<Month>9</Month>
 		<Day>6</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.08.21.554127</id>
@@ -22015,7 +22032,7 @@
 		<Year>2023</Year>
 		<Month>6</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.06.08.544197</id>
@@ -22032,7 +22049,7 @@
 		<Year>2023</Year>
 		<Month>6</Month>
 		<Day>8</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/978-3-319-89578-9_4</id>
@@ -22271,7 +22288,7 @@
 		<Year>2022</Year>
 		<Month>3</Month>
 		<Day>30</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1182/blood.2022018711</id>
@@ -22441,7 +22458,7 @@
 		<Year>2022</Year>
 		<Month>9</Month>
 		<Day>2</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1099/mgen.0.000897</id>
@@ -22594,7 +22611,7 @@
 		<Year>2022</Year>
 		<Month>5</Month>
 		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2022.12.13.520286</id>
@@ -22611,7 +22628,7 @@
 		<Year>2022</Year>
 		<Month>12</Month>
 		<Day>13</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2022.04.22.488307</id>
@@ -22628,7 +22645,7 @@
 		<Year>2022</Year>
 		<Month>4</Month>
 		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/nph.18314</id>
@@ -22900,7 +22917,7 @@
 		<Year>2023</Year>
 		<Month>2</Month>
 		<Day>13</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2022.07.14.500034</id>
@@ -22934,7 +22951,7 @@
 		<Year>2022</Year>
 		<Month>12</Month>
 		<Day>15</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s42003-022-04325-5</id>
@@ -23019,7 +23036,7 @@
 		<Year>2023</Year>
 		<Month>1</Month>
 		<Day>19</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/gr.276963.122</id>
@@ -24198,7 +24215,7 @@
 		<Year>2021</Year>
 		<Month>12</Month>
 		<Day>24</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/978-3-030-73119-9_10</id>
@@ -24302,7 +24319,7 @@
 		<Year>2021</Year>
 		<Month>11</Month>
 		<Day>30</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.08.04.455072</id>
@@ -24387,7 +24404,7 @@
 		<Year>2021</Year>
 		<Month>6</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.08.23.457326</id>
@@ -24438,7 +24455,7 @@
 		<Year>2021</Year>
 		<Month>8</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.09.07.459151</id>
@@ -24881,7 +24898,7 @@
 		<Year>2021</Year>
 		<Month>10</Month>
 		<Day>1</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/gigascience/giab060</id>
@@ -24932,7 +24949,7 @@
 		<Year>2021</Year>
 		<Month>8</Month>
 		<Day>11</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.08.03.454952</id>
@@ -25357,7 +25374,7 @@
 		<Year>2020</Year>
 		<Month>10</Month>
 		<Day>30</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.21203/rs.3.rs-41465/v1</id>
@@ -25561,7 +25578,7 @@
 		<Year>2020</Year>
 		<Month>5</Month>
 		<Day>23</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.02.04.429826</id>
@@ -25629,7 +25646,7 @@
 		<Year>2020</Year>
 		<Month>7</Month>
 		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2020.03.27.011692</id>
@@ -25680,7 +25697,7 @@
 		<Year>2020</Year>
 		<Month>9</Month>
 		<Day>15</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.12688/f1000research.23525.1</id>
@@ -26173,7 +26190,7 @@
 		<Year>2021</Year>
 		<Month>2</Month>
 		<Day>1</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.21203/rs.3.rs-46956/v1</id>
@@ -26957,7 +26974,7 @@
 		<Year>2020</Year>
 		<Month>1</Month>
 		<Day>15</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2019.12.25.888388</id>
@@ -27144,7 +27161,7 @@
 		<Year>2019</Year>
 		<Month>3</Month>
 		<Day>20</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/978-3-030-20912-4_1</id>
@@ -27555,7 +27572,7 @@
 		<Year>2019</Year>
 		<Month>8</Month>
 		<Day>4</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/410027</id>
@@ -27776,7 +27793,7 @@
 		<Year>2019</Year>
 		<Month>1</Month>
 		<Day>11</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/386656</id>
@@ -27793,7 +27810,7 @@
 		<Year>2018</Year>
 		<Month>8</Month>
 		<Day>7</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/553602</id>
@@ -30895,7 +30912,7 @@
 		<Year>2009</Year>
 		<Month>2</Month>
 		<Day>11</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/1471-2164-10-115</id>
@@ -34764,7 +34781,7 @@
 		<Year>2015</Year>
 		<Month>1</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/srep10182</id>
@@ -38317,7 +38334,7 @@
 		<Year>2018</Year>
 		<Month>5</Month>
 		<Day>16</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/pbi.12941</id>
@@ -38880,7 +38897,7 @@
 		<Year>2018</Year>
 		<Month>11</Month>
 		<Day>8</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41588-018-0223-8</id>
@@ -39953,7 +39970,7 @@
 		<Year>2019</Year>
 		<Month>10</Month>
 		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12870-019-2021-6</id>
@@ -40038,7 +40055,7 @@
 		<Year>2019</Year>
 		<Month>3</Month>
 		<Day>11</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/851394</id>
@@ -40055,7 +40072,7 @@
 		<Year>2019</Year>
 		<Month>11</Month>
 		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/nar/gkz978</id>
@@ -40769,7 +40786,7 @@
 		<Year>2020</Year>
 		<Month>6</Month>
 		<Day>17</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.12688/f1000research.23889.1</id>
@@ -41400,7 +41417,7 @@
 		<Year>2020</Year>
 		<Month>9</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-020-18923-6</id>
@@ -43070,7 +43087,7 @@
 		<Year>2021</Year>
 		<Month>12</Month>
 		<Day>23</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.ecoenv.2021.113130</id>
@@ -44311,7 +44328,7 @@
 		<Year>2023</Year>
 		<Month>2</Month>
 		<Day>18</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-023-36633-7</id>
@@ -44430,7 +44447,7 @@
 		<Year>2023</Year>
 		<Month>5</Month>
 		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.09.28.559913</id>
@@ -44634,7 +44651,7 @@
 		<Year>2024</Year>
 		<Month>1</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.02.05.578917</id>
@@ -44651,7 +44668,7 @@
 		<Year>2024</Year>
 		<Month>2</Month>
 		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1002/yea.3919</id>
@@ -44872,7 +44889,7 @@
 		<Year>2024</Year>
 		<Month>6</Month>
 		<Day>4</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.11.27.625642</id>
