@@ -19688,13 +19688,13 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms: Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow cell</Title>
+		<Title>Nanopore-only assembly and methylation profiling of Arabidopsis thaliana across chemistries, basecalling models and assembly workflows</Title>
 		<DOI>10.1101/2024.11.13.623402</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>lany, peeln, irishn, leggettr</ContributorIds>
-		<ContributorList>Martin S, Heavens D, Lan Y, Peel N, Irish N, Horsfield S, Giolai M, Clark MD, Leggett RM</ContributorList>
+		<ContributorIds>peeln, lany, irishn, leggettr</ContributorIds>
+		<ContributorList>Martin S, Peel N, Heavens D, Lan Y, Irish N, Horsfield ST, Giolai M, Clark MD, Leggett RM</ContributorList>
 		<Year>2024</Year>
 		<Month>11</Month>
 		<Day>14</Day>
