@@ -11,8 +11,8 @@ import urllib.parse
 from time import sleep
 from typing import (
     Any,
+    Self,
     SupportsIndex,
-    TYPE_CHECKING,
 )
 from xml.etree import ElementTree
 from xml.etree.ElementTree import indent
@@ -32,9 +32,6 @@ from .util import (
     strip_tags,
     unique,
 )
-
-if TYPE_CHECKING:
-    from typing_extensions import Self
 
 __version__ = "0.0.1"
 
