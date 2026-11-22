@@ -1231,40 +1231,6 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1016/j.jtbi.2004.04.033</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The impact of nonlinear functional responses on the long-term evolution of food web structure</Title>
-		<DOI>10.1016/j.jtbi.2004.04.033</DOI>
-		<JournalName>Journal of Theoretical Biology</JournalName>
-		<JournalVolume>229</JournalVolume>
-		<JournalPages>539-548</JournalPages>
-		<ContributorIds>quince</ContributorIds>
-		<ContributorList>Drossel B, McKane AJ, Quince C</ContributorList>
-		<Year>2004</Year>
-		<Month>8</Month>
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.tpb.2005.05.004</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The impact of mortality on predator population size and stability in systems with stage-structured prey</Title>
-		<DOI>10.1016/j.tpb.2005.05.004</DOI>
-		<JournalName>Theoretical Population Biology</JournalName>
-		<JournalVolume>68</JournalVolume>
-		<JournalPages>253-266</JournalPages>
-		<ContributorIds>quince</ContributorIds>
-		<ContributorList>Abrams PA, Quince C</ContributorList>
-		<Year>2005</Year>
-		<Month>12</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/j.tpb.2006.11.004</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -5622,23 +5588,6 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1016/j.jaci.2004.02.038</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Antigen-specific T cell–mediated apoptosis of dendritic cells is impaired in a mouse model of food allergy</Title>
-		<DOI>10.1016/j.jaci.2004.02.038</DOI>
-		<JournalName>Journal of Allergy and Clinical Immunology</JournalName>
-		<JournalVolume>113</JournalVolume>
-		<JournalPages>965-972</JournalPages>
-		<ContributorIds>mana</ContributorIds>
-		<ContributorList>Man AL, Bertelli E, Regoli M, Chambers SJ, Nicoletti C</ContributorList>
-		<Year>2004</Year>
-		<Month>5</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1111/j.1365-2567.2004.01846.x</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -8562,23 +8511,6 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1038/nature04332</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genomic sequence of the pathogenic and allergenic filamentous fungus Aspergillus fumigatus</Title>
-		<DOI>10.1038/nature04332</DOI>
-		<JournalName>Nature</JournalName>
-		<JournalVolume>438</JournalVolume>
-		<JournalPages>1151-1156</JournalPages>
-		<ContributorIds>sog26rik, halln</ContributorIds>
-		<ContributorList>Nierman WC, Pain A, Anderson MJ, Wortman JR, Kim HS, Arroyo J, Berriman M, Abe K, Archer DB, Bermejo C, Bennett J, Bowyer P, Chen D, Collins M, Coulsen R, Davies R, Dyer PS, Farman M, Fedorova N, Fedorova N, Feldblyum TV, Fischer R, Fosker N, Fraser A, García JL, García MJ, Goble A, Goldman GH, Gomi K, Griffith-Jones S, Gwilliam R, Haas B, Haas H, Harris D, Horiuchi H, Huang J, Humphray S, Jiménez J, Keller N, Khouri H, Kitamoto K, Kobayashi T, Konzack S, Kulkarni R, Kumagai T, Lafton A, Latgé J, Li W, Lord A, Lu C, Majoros WH, May GS, Miller BL, Mohamoud Y, Molina M, Monod M, Mouyna I, Mulligan S, Murphy L, O'Neil S, Paulsen I, Peñalva MA, Pertea M, Price C, Pritchard BL, Quail MA, Rabbinowitsch E, Rawlins N, Rajandream M, Reichard U, Renauld H, Robson GD, de Córdoba SR, Rodríguez-Peña JM, Ronning CM, Rutter S, Salzberg SL, Sanchez M, Sánchez-Ferrero JC, Saunders D, Seeger K, Squares R, Squares S, Takeuchi M, Tekaia F, Turner G, de Aldana CRV, Weidman J, White O, Woodward J, Yu J, Fraser C, Galagan JE, Asai K, Machida M, Hall N, Barrell B, Denning DW</ContributorList>
-		<Year>2005</Year>
-		<Month>12</Month>
-		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1126/science.1110439</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -8593,40 +8525,6 @@
 		<Year>2005</Year>
 		<Month>7</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1126/science.1110418</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genome of the Host-Cell Transforming Parasite Theileria annulata Compared with T. parva</Title>
-		<DOI>10.1126/science.1110418</DOI>
-		<JournalName>Science</JournalName>
-		<JournalVolume>309</JournalVolume>
-		<JournalPages>131-133</JournalPages>
-		<ContributorIds>halln</ContributorIds>
-		<ContributorList>Pain A, Renauld H, Berriman M, Murphy L, Yeats CA, Weir W, Kerhornou A, Aslett M, Bishop R, Bouchier C, Cochet M, Coulson RMR, Cronin A, de Villiers EP, Fraser A, Fosker N, Gardner M, Goble A, Griffiths-Jones S, Harris DE, Katzer F, Larke N, Lord A, Maser P, McKellar S, Mooney P, Morton F, Nene V, O'Neil S, Price C, Quail MA, Rabbinowitsch E, Rawlings ND, Rutter S, Saunders D, Seeger K, Shah T, Squares R, Squares S, Tivey A, Walker AR, Woodward J, Dobbelaere DAE, Langsley G, Rajandream M, McKeever D, Shiels B, Tait A, Barrell B, Hall N</ContributorList>
-		<Year>2005</Year>
-		<Month>7</Month>
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1534/genetics.105.040733</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Gene Arrays atPneumocystis cariniiTelomeres</Title>
-		<DOI>10.1534/genetics.105.040733</DOI>
-		<JournalName>Genetics</JournalName>
-		<JournalVolume>170</JournalVolume>
-		<JournalPages>1589-1600</JournalPages>
-		<ContributorIds>halln</ContributorIds>
-		<ContributorList>Keely SP, Renauld H, Wakefield AE, Cushion MT, Smulian AG, Fosker N, Fraser A, Harris D, Murphy L, Price C, Quail MA, Seeger K, Sharp S, Tindal CJ, Warren T, Zuiderwijk E, Barrell BG, Stringer JR, Hall N</ContributorList>
-		<Year>2005</Year>
-		<Month>8</Month>
-		<Day>1</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -10302,23 +10200,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1098/rspb.2026.1983</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Age-related shifts in dietary and oviposition preferences and steep costs of modest parental ageing in Drosophila melanogaster</Title>
-		<DOI>10.1098/rspb.2026.1983</DOI>
-		<JournalName>Proceedings of the Royal Society B: Biological Sciences</JournalName>
-		<JournalVolume>293</JournalVolume>
-		<JournalPages />
-		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>Barker O, Ivimey-Cook ER, Haerty W, Maklakov AA, Chapman T</ContributorList>
-		<Year>2026</Year>
-		<Month>11</Month>
-		<Day>4</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.64898/2026.10.30.762802</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -11461,23 +11342,6 @@
 		<Year>2015</Year>
 		<Month>7</Month>
 		<Day>23</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1111/mec.13247</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>High levels of interspecific gene flow in an endemic cichlid fish adaptive radiation from an extreme lake environment</Title>
-		<DOI>10.1111/mec.13247</DOI>
-		<JournalName>Molecular Ecology</JournalName>
-		<JournalVolume>24</JournalVolume>
-		<JournalPages>3421-3440</JournalPages>
-		<ContributorIds>gharbik</ContributorIds>
-		<ContributorList>Ford AGP, Dasmahapatra KK, Rüber L, Gharbi K, Cezard T, Day JJ</ContributorList>
-		<Year>2015</Year>
-		<Month>6</Month>
-		<Day>19</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -16043,6 +15907,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1098/rspb.2026.1983</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Age-related shifts in dietary and oviposition preferences and steep costs of modest parental ageing in Drosophila melanogaster</Title>
+		<DOI>10.1098/rspb.2026.1983</DOI>
+		<JournalName>Proceedings of the Royal Society B: Biological Sciences</JournalName>
+		<JournalVolume>293</JournalVolume>
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Barker O, Ivimey-Cook ER, Haerty W, Maklakov AA, Chapman T</ContributorList>
+		<Year>2026</Year>
+		<Month>11</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41588-026-02790-w</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -16843,23 +16724,6 @@
 		<Month>10</Month>
 		<Day>17</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.12688/f1000research.146301.2</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A research data management (RDM) community for ELIXIR</Title>
-		<DOI>10.12688/f1000research.146301.2</DOI>
-		<JournalName>F1000Research</JournalName>
-		<JournalVolume>13</JournalVolume>
-		<JournalPages>230</JournalPages>
-		<ContributorIds>bil24laz</ContributorIds>
-		<ContributorList>D'Anna F, Jareborg N, Jetten M, Ahokas M, Alper P, Andrews R, Bösl K, D’Altri T, Faria D, Fatima N, Fuchs S, Garrard C, Gu W, Heil KF, Kallberg Y, Licciulli F, Lübke N, Melo AMP, Mičetić I, Oliveira J, Oulas A, Palagi PM, Poterlowicz K, Perez-Sitja X, Ruch P, Sansone S, Schnitzer H, van Gelder C, Vergoulis T, Wibberg D, Wittig U, Leskošek B, Vondrasek J, Andrabi M</ContributorList>
-		<Year>2024</Year>
-		<Month>9</Month>
-		<Day>30</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41597-025-04786-3</id>
@@ -25411,40 +25275,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1093/bioinformatics/btaa502</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>BioStructures.jl: read, write and manipulate macromolecular structures in Julia</Title>
-		<DOI>10.1093/bioinformatics/btaa502</DOI>
-		<JournalName>Bioinformatics</JournalName>
-		<JournalVolume>36</JournalVolume>
-		<JournalPages>4206-4207</JournalPages>
-		<ContributorIds />
-		<ContributorList>Greener JG, Selvaraj J, Ward BJ</ContributorList>
-		<Year>2020</Year>
-		<Month>5</Month>
-		<Day>14</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2020.06.23.167254</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways</Title>
-		<DOI>10.1101/2020.06.23.167254</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds />
-		<ContributorList>Treveil A, Bohar B, Sudhakar P, Gul L, Csabai L, Olbei M, Poletti M, Madgwick M, Andrighetti T, Hautefort I, Modos D, Korcsmaros T</ContributorList>
-		<Year>2020</Year>
-		<Month>6</Month>
-		<Day>23</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/2020.05.22.110833</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -26258,23 +26088,6 @@
 		<Year>2020</Year>
 		<Month>10</Month>
 		<Day>30</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.12688/f1000research.10473.2</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>An open and transparent process to select ELIXIR Node Services as implemented by ELIXIR-UK</Title>
-		<DOI>10.12688/f1000research.10473.2</DOI>
-		<JournalName>F1000Research</JournalName>
-		<JournalVolume>5</JournalVolume>
-		<JournalPages>2894</JournalPages>
-		<ContributorIds />
-		<ContributorList>Hancock JM, Game A, Ponting CP, Goble CA</ContributorList>
-		<Year>2017</Year>
-		<Month>3</Month>
-		<Day>20</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -42541,23 +42354,6 @@
 		<Year>2021</Year>
 		<Month>6</Month>
 		<Day>10</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1038/s41467-021-24515-9</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Strainberry: automated strain separation in low-complexity metagenomes using long reads</Title>
-		<DOI>10.1038/s41467-021-24515-9</DOI>
-		<JournalName>Nature Communications</JournalName>
-		<JournalVolume>12</JournalVolume>
-		<JournalPages />
-		<ContributorIds>quince</ContributorIds>
-		<ContributorList>Vicedomini R, Quince C, Darling AE, Chikhi R</ContributorList>
-		<Year>2021</Year>
-		<Month>7</Month>
-		<Day>23</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
