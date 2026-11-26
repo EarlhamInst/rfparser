@@ -342,6 +342,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1038/s41467-026-79296-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Single-molecule landscape of DNA replication pausing</Title>
+		<DOI>10.1038/s41467-026-79296-w</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages />
+		<ContributorIds>thiyagar, nieduszc</ContributorIds>
+		<ContributorList>Thiyagarajan S, Rogers AM, Müller CA, Nieduszynski CA</ContributorList>
+		<Year>2026</Year>
+		<Month>11</Month>
+		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.3389/fmicb.2016.00629</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
